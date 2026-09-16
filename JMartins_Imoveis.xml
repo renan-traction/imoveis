@@ -1254,7 +1254,7 @@
     <availability>for_sale</availability>
     <description>Casa em condomínio fechado no Parque Tecnológico Damha II, São Carlos. Imóvel com 4 quartos, sendo 4 suítes, em 500m² de área total e 400m² de área construída, com 3 vagas de garagem. A residência conta com área de lazer, área de serviço, piscina, sala, sala de jantar, sala de almoço, sala de TV e sala de reunião, em ambientes integrados. O condomínio oferece academia, espaço fitness, espaço gourmet, quadra de futebol, quadra poliesportiva e salão de festas, com fácil acesso às principais vias. São Carlos, reconhecida como a capital da tecnologia, oferece excelente qualidade de vida, universidades renomadas e infraestrutura completa. Localização privilegiada próxima a vias de acesso. Venda: R$ 3.000.000. Aceita permuta e financiamento.</description>
     <address format="simple">
-      <component name="addr1">Parque Tecnológico Damha II São Carlos</component>
+      <component name="addr1">Avenida Miguel Damha 1400</component>
       <component name="city">São Carlos</component>
       <component name="region">SP</component>
     <component name="country">Brazil</component>
@@ -1276,7 +1276,7 @@
     <property_type>condo</property_type>
     <custom_label_0>400m²</custom_label_0>
     <custom_label_1>Parque Tecnológico Damha II São Carlos</custom_label_1>
-    <custom_label_2>Parque Tecnológico Damha II São Carlos</custom_label_2>
+    <custom_label_2>Avenida Miguel Damha 1400</custom_label_2>
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1037</url>
   </listing>
   <listing>
@@ -2276,7 +2276,7 @@
     <availability>for_sale</availability>
     <description>APARTAMENTO À VENDA - Centro, São Carlos/SP Apartamento de 2 quartos com 1 suíte e 1 banheiro adicional, 72m² de área útil e privativa. Construído em 2020, localizado no Centro de São Carlos, região privilegiada próxima a escolas e shopping center. São Carlos é reconhecida como importante polo tecnológico e universitário do interior paulista, oferecendo excelente qualidade de vida e infraestrutura completa. O Centro concentra as principais atividades comerciais e de serviços da cidade, proporcionando praticidade no dia a dia. O imóvel conta com 1 vaga de garagem e está situado em área de fácil acesso a transporte público, comércio diversificado e serviços essenciais. A proximidade com instituições de ensino torna a localização ainda mais valorizada. Valor: R$ 550.000,00 Imóvel ideal para quem busca morar em região central consolidada, com toda a comodidade urbana ao alcance.</description>
     <address format="simple">
-      <component name="addr1">Centro</component>
+      <component name="addr1">Rua Sete de Setembro 1551</component>
       <component name="city">São Carlos</component>
       <component name="region">SP</component>
     <component name="country">Brazil</component>
@@ -2301,7 +2301,7 @@
     <property_type>apartment</property_type>
     <custom_label_0>72m²</custom_label_0>
     <custom_label_1>Centro</custom_label_1>
-    <custom_label_2>Centro</custom_label_2>
+    <custom_label_2>Rua Sete de Setembro 1551</custom_label_2>
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/596</url>
     <year_built>2020</year_built>
   </listing>
@@ -2944,10 +2944,10 @@
   </listing>
   <listing>
     <home_listing_id>774L-MEU</home_listing_id>
-    <name>Apartamento 3 quartos para Locação Parque Faber Castell I, São Carlos</name>
-    <title>Apartamento 3 quartos para Locação Parque Faber Castell I, São Carlos</title>
+    <name>APARTAMENTO NO EDIFÍCIO ILHA DE MALTA SÃO CARLOS</name>
+    <title>APARTAMENTO NO EDIFÍCIO ILHA DE MALTA SÃO CARLOS</title>
     <availability>for_rent</availability>
-    <description>Apartamento 3 quartos para Locação Parque Faber Castell I, São Carlos</description>
+    <description>Parque Faber Castell I | São Carlos/SP Morar bem é também estar em uma localização privilegiada. E o Ilha de Malta reúne alto padrão, conforto, segurança e uma estrutura completa de lazer, em uma das regiões mais valorizadas de São Carlos. Localizado no Parque Faber Castell, o empreendimento está ao lado do Shopping Iguatemi, proporcionando praticidade para o dia a dia, com fácil acesso a restaurantes, supermercados, serviços, comércio e importantes vias da cidade. O condomínio oferece uma estrutura completa: Piscina adulto e infantil Deck molhado Espaço fitness e academia Sauna SPA Salão de festas Espaço gourmet Churrasqueira Playground Espaço Kids Brinquedoteca Espaço Pet e Pet Care Bicicletário Pista de caminhada Lounge com lareira Elevador Portaria 24 horas Um empreendimento pensado para quem valoriza qualidade de vida, segurança e comodidade, sem abrir mão de sofisticação.</description>
     <address format="simple">
       <component name="addr1">Passeio das Palmeiras 521</component>
       <component name="city">São Carlos</component>
@@ -3467,7 +3467,7 @@
     <availability>for_sale</availability>
     <description>VENDA - CASA NA VILA PRADO, SÃO CARLOS/SP Casa com 3 quartos sendo 1 suíte com banheiro privativo, além de 1 banheiro social. Área construída de 145m² em terreno de 145m². A residência dispõe de sala, cozinha, área de serviço e quintal. Localizada na Vila Prado, região consolidada de São Carlos, próxima ao centro da cidade e com boa infraestrutura urbana. São Carlos é reconhecida como importante polo tecnológico e universitário do interior paulista, sede de renomadas instituições de ensino superior e empresas de tecnologia. O bairro Vila Prado oferece tranquilidade residencial, com fácil acesso às principais vias da cidade e proximidade a comércios, serviços e equipamentos públicos. A região possui boa rede de transporte público e está bem situada para deslocamentos dentro do município. Valor: R$ 460.000,00 Aceita financiamento bancário e permuta por imóvel de menor valor. Agende sua visita e conheça esta oportunidade em uma das cidades mais desenvolvidas do interior de São Paulo.</description>
     <address format="simple">
-      <component name="addr1">Vila Prado</component>
+      <component name="addr1">Rua Doutor Bernardino de Campos 455</component>
       <component name="city">São Carlos</component>
       <component name="region">SP</component>
     <component name="country">Brazil</component>
@@ -3489,7 +3489,7 @@
     <property_type>house</property_type>
     <custom_label_0>145m²</custom_label_0>
     <custom_label_1>Vila Prado</custom_label_1>
-    <custom_label_2>Vila Prado</custom_label_2>
+    <custom_label_2>Rua Doutor Bernardino de Campos 455</custom_label_2>
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1074</url>
   </listing>
   <listing>
@@ -3563,7 +3563,7 @@
     <availability>for_sale</availability>
     <description>TERRENO COMERCIAL - VENDA - R$ 250.000 Excelente terreno comercial de 280m² localizado no Jardim Embaré, São Carlos/SP. Ideal para investimento ou desenvolvimento de projeto comercial. São Carlos é reconhecida como a Capital da Tecnologia, abrigando importantes universidades como USP e UFSCar, proporcionando ambiente dinâmico e promissor para negócios. A cidade oferece infraestrutura completa, excelente qualidade de vida e economia diversificada. O Jardim Embaré é um bairro consolidado com boa localização e acesso facilitado às principais vias da cidade. Região que combina tranquilidade residencial com potencial comercial, próxima a serviços essenciais e com perspectivas de valorização. Terreno com metragem generosa permite diversas possibilidades de uso comercial. Oportunidade para quem busca investir em uma das cidades mais prósperas do interior paulista. Aceita financiamento bancário e permuta por imóvel de menor valor. Agende sua visita e conheça as possibilidades que este terreno oferece.</description>
     <address format="simple">
-      <component name="addr1">Jardim Embaré</component>
+      <component name="addr1">Rua Lino Barros de Moura 239</component>
       <component name="city">São Carlos</component>
       <component name="region">SP</component>
     <component name="country">Brazil</component>
@@ -3579,7 +3579,7 @@
     <price>250000 BRL</price>
     <property_type>land</property_type>
     <custom_label_1>Jardim Embaré</custom_label_1>
-    <custom_label_2>Jardim Embaré</custom_label_2>
+    <custom_label_2>Rua Lino Barros de Moura 239</custom_label_2>
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1003</url>
   </listing>
   <listing>
@@ -3785,7 +3785,7 @@
     <name>Terreno Residencial para Venda Broa, Brotas</name>
     <title>Terreno Residencial para Venda Broa, Brotas</title>
     <availability>for_sale</availability>
-    <description>Terreno Residencial para Venda Broa, Brotas</description>
+    <description>**TERRENO RESIDENCIAL EM BROTAS - SP** Excelente oportunidade de investimento! Terreno residencial com 515m² localizado no charmoso bairro Broa, em Brotas. A região oferece tranquilidade e qualidade de vida, sendo conhecida pelas belezas naturais e proximidade com cachoeiras e áreas de preservação ambiental. Brotas é destino consolidado para turismo ecológico e esportes de aventura, proporcionando valorização constante dos imóveis. O bairro Broa destaca-se pela atmosfera bucólica e fácil acesso aos principais pontos da cidade. Ideal para construção de residência em local privilegiado. Aceita financiamento e permuta. Entre em contato e agende sua visita. **Valor: R$ 82.000**</description>
     <address format="simple">
       <component name="addr1">Rua Bem-Te-Vi Sem número</component>
       <component name="city">Brotas</component>
@@ -4153,7 +4153,7 @@
     <availability>for_sale</availability>
     <description>VENDE-SE APARTAMENTO - Recreio São Judas Tadeu, São Carlos/SP Apartamento com 2 quartos, 1 banheiro, 46m² de área útil. Imóvel oferece excelente estrutura de lazer com área de lazer, churrasqueira e piscina. Conta ainda com armário de cozinha, espaço gourmet e playground. Localizado no bairro Recreio São Judas Tadeu, uma região tranquila de São Carlos, cidade reconhecida pela qualidade de vida, excelente infraestrutura urbana e importantes instituições de ensino superior. O bairro oferece fácil acesso aos principais pontos da cidade e boa localização para quem busca comodidade no dia a dia. Valor: R$ 280.000,00 Imóvel ideal para quem busca praticidade e opções de entretenimento em um bairro bem estruturado. Agende sua visita e conheça todas as vantagens que este apartamento pode oferecer.</description>
     <address format="simple">
-      <component name="addr1">Recreio São Judas Tadeu</component>
+      <component name="addr1">Avenida Gregório Aversa 451</component>
       <component name="city">São Carlos</component>
       <component name="region">SP</component>
     <component name="country">Brazil</component>
@@ -4176,7 +4176,7 @@
     <property_type>apartment</property_type>
     <custom_label_0>46m²</custom_label_0>
     <custom_label_1>Recreio São Judas Tadeu</custom_label_1>
-    <custom_label_2>Recreio São Judas Tadeu</custom_label_2>
+    <custom_label_2>Avenida Gregório Aversa 451</custom_label_2>
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1228</url>
   </listing>
   <listing>
@@ -5563,7 +5563,7 @@
     <availability>for_sale</availability>
     <description>Casa em condomínio fechado no Parque Sabará, São Carlos/SP. Imóvel com 2 quartos, 1 banheiro e 76 m². Localizado em condomínio com excelente infraestrutura: bicicletário, espaço fitness, área verde e parque. O Parque Sabará é um bairro residencial em crescimento, com boa localização e proximidade aos principais acessos da cidade. São Carlos é reconhecida como polo tecnológico e universitário, oferecendo qualidade de vida e oportunidades de desenvolvimento. Condomínio proporciona segurança e lazer para toda a família. Ideal para quem busca tranquilidade sem abrir mão da praticidade urbana. Valor de venda: R$ 436.900,00 Para mais informações e agendamento de visitas, entre em contato.</description>
     <address format="simple">
-      <component name="addr1">Parque Sabará</component>
+      <component name="addr1">Rua Doutor Marino Costa Terra 1000</component>
       <component name="city">São Carlos</component>
       <component name="region">SP</component>
     <component name="country">Brazil</component>
@@ -5597,7 +5597,7 @@
     <property_type>condo</property_type>
     <custom_label_0>76m²</custom_label_0>
     <custom_label_1>Parque Sabará</custom_label_1>
-    <custom_label_2>Parque Sabará</custom_label_2>
+    <custom_label_2>Rua Doutor Marino Costa Terra 1000</custom_label_2>
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1240</url>
   </listing>
   <listing>
@@ -5678,7 +5678,7 @@
     <availability>for_sale</availability>
     <description>APARTAMENTO PARA VENDA - São Carlos/SP Apartamento com 2 quartos e 1 banheiro, oferecendo 42m² de área útil, localizado no Distrito Industrial Miguel Abdelnur em São Carlos. O Distrito Industrial Miguel Abdelnur é uma região estratégica de São Carlos, com boa infraestrutura e acesso facilitado às principais vias da cidade. São Carlos, conhecida como a capital da tecnologia, oferece excelente qualidade de vida, com universidades renomadas, centros de pesquisa e desenvolvimento tecnológico, além de completa estrutura urbana com hospitais, escolas, shopping centers e áreas de lazer. A localização proporciona conveniência para quem trabalha na região industrial, com proximidade a diversas empresas e fácil acesso ao centro da cidade. São Carlos mantém um ambiente equilibrado entre desenvolvimento econômico e qualidade de vida, sendo referência em educação superior e inovação tecnológica no interior paulista. Valor: R$ 220.000,00 Oportunidade para quem busca um imóvel bem localizado em uma das cidades mais promissoras do interior de São Paulo.</description>
     <address format="simple">
-      <component name="addr1">Distrito Industrial Miguel Abdelnur</component>
+      <component name="addr1">Avenida Doutor Heitor José Reali 870</component>
       <component name="city">São Carlos</component>
       <component name="region">SP</component>
     <component name="country">Brazil</component>
@@ -5702,7 +5702,7 @@
     <property_type>apartment</property_type>
     <custom_label_0>42m²</custom_label_0>
     <custom_label_1>Distrito Industrial Miguel Abdelnur</custom_label_1>
-    <custom_label_2>Distrito Industrial Miguel Abdelnur</custom_label_2>
+    <custom_label_2>Avenida Doutor Heitor José Reali 870</custom_label_2>
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1247</url>
   </listing>
   <listing>
@@ -6268,6 +6268,50 @@
     <custom_label_1>Parque Residencial Damha II São Carlos</custom_label_1>
     <custom_label_2>Avenida Miguel Damha 1400</custom_label_2>
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1279</url>
+  </listing>
+  <listing>
+    <home_listing_id>1316V-MEU</home_listing_id>
+    <name>Casa de 3 quartos no Condomínio Terra Nova à venda em São Carlos</name>
+    <title>Casa de 3 quartos no Condomínio Terra Nova à venda em São Carlos</title>
+    <availability>for_sale</availability>
+    <description>CASA À VENDA NO RESIDENCIAL TERRA NOVA SÃO CARLOS Uma excelente oportunidade para quem busca conforto, segurança e qualidade de vida em um condomínio completo e com estrutura de lazer para toda a família. Residencial Terra Nova São Carlos A casa conta com: 02 vagas de garagem cobertas Sala de TV e jantar integradas, com piso frio Hall de entrada com piso frio Cozinha com piso frio e azulejo até o teto Lavanderia 03 dormitórios com armários planejados, sendo 01 suíte Banheiro social Quintal privativo É o equilíbrio ideal entre a praticidade de uma casa funcional e as comodidades de viver em um condomínio. 3 dormitórios | 1 suíte | 2 vagas cobertas | Armários planejados | Quintal Agende sua visita e venha conhecer esta oportunidade no Terra Nova! (16) 99798-3334. JMartins Imóveis CRECI 24.790J</description>
+    <address format="simple">
+      <component name="addr1">Avenida Otto Werner Rosel 777</component>
+      <component name="city">São Carlos</component>
+      <component name="region">SP</component>
+    <component name="country">Brazil</component>
+      <component name="postal_code">13563673</component>
+    </address>
+    <neighborhood>Jardim Ipanema</neighborhood>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvMTJmZTJiNWMtOTY1Mzk2OTdlMTdmOTdjYzA4YTA2ZTBjNTExY2U0NzUuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvMjVkMmU3NjUtODg0MTAyMjE2OTY3Nzg3NDkzNDlkNDQ5MGQyMGViOWMuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvYzY5OGViNWItYWZmZmExZjIyNjQzZDNlMTQ0NmU5NjYwNDUyY2YxMDAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvMzJkOGNkMDMtY2Y3Mjk3NmNlZTYwZGRiOTBiYzc2ZWZjOWUzNzJmMWYuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvZjAxZThkYTgtYTA1MWE5OTM0NzcxMTUyN2I5ZDdiZmQwNGRmNzE4MDguanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvMjU5MThhYjUtZGE0NDZhOWU2ZDAyZjUyMWVhMTAwMzU4OTZiNGI4ZGMuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvZTkyMjgwMWYtNTJhOTA3ODc1ZjE2NmIxMjFkMTAwY2FkMzFkMDU5MDcuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvZDU4NjBkN2QtMWI2Nzk2MzYzNDQ3YzFmYTg2ZmU0MTU0MTExMDI2NDUuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvZWE1MzQxMTUtOGZiYTA0Y2ZiNzI4YjE0NjZlMTliZjYxM2M2OGUxMzQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvYTA4ZjA4MTMtNjRhNDg0MDQzYTU0MzhjMWU1MzExZGViMjE3MzIxYmYuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvNTg1MTg1ODItMjY2MTEzZTFkZDQ5YTQ0OTVjNjBjMDI5YTdiMjM5ZWQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvNDVmMDkwZjctZWRhYWIwZTA1YWZhZjA4ODBkMTUxNDk4MzM3NjY3NzguanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvYTEyYmM2ZGItMDYyNTJhOTA3NzJiYTYxZmI4NDY0NWI1NGM1MWI4YzAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvMmMyMWIwY2ItNGU4YjVjMzQwNDE4ZWMwMGE2YTc5NWYxMjBiZjUxNGYuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvN2VlNjAyMmMtZmMyMzZmZTdkOTUyZWIzNDRlYzk0OTViM2MxZDc3N2YuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvM2M5ODQ1OTEtM2E3MjZkODAxYzI5Y2M2ZDM1YzJkMjUyMDI4OWYxOTcuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvZjYzNmM2YWQtYWYwY2VjNDIwMjlmOWI3MTk2OGFkMDEzMzQ1MThjYzQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvNmRhMTdkYWUtZmUyMWJjMzhjMzNmZmUxZDkxYzg0MTFkOTNjZTlmOWQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvMjA2MmVkNzAtMjQ1NzA2MDNmOGFkODBiMjkxNGYwZGIyZTdmZjgyNDMuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvMjI5NWQxNjYtZjk2YjZjNjk4NDg4ZGI1YWIwZGJmYWZhMzY4MGYyMzUuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <listing_type>for_sale_by_agent</listing_type>
+    <num_beds>3</num_beds>
+    <num_baths>2</num_baths>
+    <price>380000 BRL</price>
+    <property_type>condo</property_type>
+    <custom_label_0>80m²</custom_label_0>
+    <custom_label_1>Jardim Ipanema</custom_label_1>
+    <custom_label_2>Avenida Otto Werner Rosel 777</custom_label_2>
+    <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1316</url>
   </listing>
   <listing>
     <home_listing_id>1252L-MEU</home_listing_id>
@@ -7635,10 +7679,10 @@
   </listing>
   <listing>
     <home_listing_id>799L-MEU</home_listing_id>
-    <name>Apartamento 2 quartos para Locação Centro, São Carlos</name>
-    <title>Apartamento 2 quartos para Locação Centro, São Carlos</title>
+    <name>Apartamento 2 quartos para Locação no Edifício Premiere no Centro de São Carlos.</name>
+    <title>Apartamento 2 quartos para Locação no Edifício Premiere no Centro de São Carlos.</title>
     <availability>for_rent</availability>
-    <description>APARTAMENTO PARA LOCAÇÃO - CENTRO DE SÃO CARLOS Apartamento com 2 quartos e 1 banheiro, oferecendo 75 m² de área útil, localizado no prestigiado Centro de São Carlos. O imóvel conta com elevador e salão de festas no prédio, proporcionando comodidade e lazer aos moradores. A localização privilegiada no centro da cidade garante acesso facilitado a comércios, serviços, bancos, restaurantes e transporte público. São Carlos, reconhecida como importante polo tecnológico e universitário do interior paulista, oferece excelente qualidade de vida, com boa infraestrutura urbana e proximidade a centros de pesquisa e universidades renomadas. O bairro Centro concentra os principais pontos comerciais e de serviços da cidade, proporcionando praticidade no dia a dia. A região conta com fácil acesso às principais vias da cidade e boa oferta de transporte coletivo. Valor do aluguel: R$ 3.000,00 mensais. Agende sua visita e conheça este excelente apartamento em uma das melhores localizações de São Carlos.</description>
+    <description>APARTAMENTO PARA LOCAÇÃO - EDIFÍCIO PREMIERE: CENTRO DE SÃO CARLOS Apartamento com 2 quartos e 1 banheiro, oferecendo 75 m² de área útil, localizado no prestigiado Centro de São Carlos. O imóvel conta com elevador e salão de festas no prédio, proporcionando comodidade e lazer aos moradores. A localização privilegiada no centro da cidade garante acesso facilitado a comércios, serviços, bancos, restaurantes e transporte público. São Carlos, reconhecida como importante polo tecnológico e universitário do interior paulista, oferece excelente qualidade de vida, com boa infraestrutura urbana e proximidade a centros de pesquisa e universidades renomadas. O bairro Centro concentra os principais pontos comerciais e de serviços da cidade, proporcionando praticidade no dia a dia. A região conta com fácil acesso às principais vias da cidade e boa oferta de transporte coletivo. Valor do aluguel: R$ 3.000,00 mensais. Agende sua visita e conheça este excelente apartamento em uma das melhores localizações de São Carlos.</description>
     <address format="simple">
       <component name="addr1">Avenida Doutor Carlos Botelho 2673</component>
       <component name="city">São Carlos</component>
@@ -8396,7 +8440,7 @@
     <availability>for_sale</availability>
     <description>APARTAMENTO PARA VENDA - São Carlos/SP Excelente apartamento de 3 quartos (sendo 1 suíte) e 1 banheiro no Parque Faber Castell I, com 245m² de área total. O imóvel conta com 4 vagas de garagem e ampla área de serviços. O condomínio oferece completa infraestrutura de lazer: sala de jogos, piscina, churrasqueira e área de lazer, proporcionando momentos de entretenimento e descanso. Possui também lavabo para maior comodidade. Localizado em São Carlos, cidade reconhecida pela excelência em educação superior e qualidade de vida. O Parque Faber Castell I é um bairro residencial bem estruturado, com fácil acesso aos principais pontos da cidade, comércio diversificado e serviços essenciais nas proximidades. A região oferece tranquilidade para moradia, mantendo-se próxima aos centros universitários e ao centro da cidade, ideal para famílias que buscam conforto e praticidade. Valor: R$ 1.170.000,00</description>
     <address format="simple">
-      <component name="addr1">Parque Faber Castell I</component>
+      <component name="addr1">Passeio das Palmeiras 501</component>
       <component name="city">São Carlos</component>
       <component name="region">SP</component>
     <component name="country">Brazil</component>
@@ -8421,7 +8465,7 @@
     <property_type>apartment</property_type>
     <custom_label_0>245m²</custom_label_0>
     <custom_label_1>Parque Faber Castell I</custom_label_1>
-    <custom_label_2>Parque Faber Castell I</custom_label_2>
+    <custom_label_2>Passeio das Palmeiras 501</custom_label_2>
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1017</url>
   </listing>
   <listing>
@@ -8899,7 +8943,7 @@
     <availability>for_sale</availability>
     <description>**VENDA DE TERRENO RESIDENCIAL - SÃO CARLOS/SP** Excelente terreno residencial localizado no Planalto Paraíso, em São Carlos. Com 360m² de área total, oferece amplo espaço para construção da casa dos seus sonhos. São Carlos é reconhecida como a Capital da Tecnologia, abrigando importantes universidades como USP e UFSCar, proporcionando um ambiente acadêmico e tecnológico de excelência. A cidade conta com infraestrutura completa, incluindo hospitais de qualidade, centros comerciais, parques e áreas de lazer. O bairro Planalto Paraíso destaca-se pela tranquilidade e localização privilegiada, oferecendo fácil acesso às principais vias da cidade e proximidade a comércios e serviços essenciais. Terreno plano, ideal para projeto residencial, em região valorizada e em constante desenvolvimento. Documentação regularizada. Valor: R$ 319.500,00 Aceita financiamento bancário e permuta por imóvel de menor valor. Agende sua visita e conheça esta oportunidade única de investimento em uma das melhores regiões de São Carlos.</description>
     <address format="simple">
-      <component name="addr1">Planalto Paraíso</component>
+      <component name="addr1">Rua Doutor Jonas Novaes 32</component>
       <component name="city">São Carlos</component>
       <component name="region">SP</component>
     <component name="country">Brazil</component>
@@ -8916,7 +8960,7 @@
     <property_type>land</property_type>
     <custom_label_0>360m²</custom_label_0>
     <custom_label_1>Planalto Paraíso</custom_label_1>
-    <custom_label_2>Planalto Paraíso</custom_label_2>
+    <custom_label_2>Rua Doutor Jonas Novaes 32</custom_label_2>
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1219</url>
   </listing>
   <listing>
