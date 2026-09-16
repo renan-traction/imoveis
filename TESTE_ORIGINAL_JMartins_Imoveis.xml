@@ -2172,12 +2172,14 @@ Agende sua visita e conheça este excelente imóvel.]]></Description>
      <Feature>Close to main roads/avenues</Feature>
     </Features>
    </Details>
-   <Location displayAddress="Neighborhood">
+   <Location displayAddress="All">
     <Country abbreviation="BR">Brasil</Country>
     <City>São Carlos</City>
     <State abbreviation="SP">São Paulo</State>
     <Neighborhood>Parque Tecnológico Damha II São Carlos</Neighborhood>
     <PostalCode>13565251</PostalCode>
+    <Address>Avenida Miguel Damha</Address>
+    <StreetNumber>1400</StreetNumber>
    </Location>
    <Media>
     <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMUU0MzQ5RUQyOTA2NDJBRTlGNDU5NkMyMkI0RUYzQTctZm90b3MvOWI5ODViNzgtNmQxZDJmN2EwZDcwNzQ5YmMxNTUwZjUzYjAwYWJhMjcuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
@@ -3911,12 +3913,14 @@ Imóvel ideal para quem busca morar em região central consolidada, com toda a c
      <Feature>Close to shopping centers</Feature>
     </Features>
    </Details>
-   <Location displayAddress="Neighborhood">
+   <Location displayAddress="All">
     <Country abbreviation="BR">Brasil</Country>
     <City>São Carlos</City>
     <State abbreviation="SP">São Paulo</State>
     <Neighborhood>Centro</Neighborhood>
     <PostalCode>13560180</PostalCode>
+    <Address>Rua Sete de Setembro</Address>
+    <StreetNumber>1551</StreetNumber>
    </Location>
    <Media>
     <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tM0U3NUJDNjc0OTFDNDNCMDlCM0ZBOEMyOEVDNjU0MjQtZm90b3MvNTlmMzBkODYtMzU5NTExOWEyMjU5YzA2ZWYxY2UxMzFkNTJhY2JjNzYuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
@@ -4924,8 +4928,35 @@ Para mais informações e agendamento de visita, entre em contato.]]></Descripti
    <PublicationType>PREMIUM</PublicationType>
    <DetailViewUrl>www.jmartinssaocarlos.com.br/imovel/codigo/774</DetailViewUrl>
    <TransactionType>For Rent</TransactionType>
-   <Title><![CDATA[Apartamento 3 quartos para Locação Parque Faber Castell I, São Carlos]]></Title>
+   <Title><![CDATA[APARTAMENTO NO EDIFÍCIO ILHA DE MALTA  SÃO CARLOS]]></Title>
    <Details>
+    <Description><![CDATA[Parque Faber Castell I | São Carlos/SP
+
+Morar bem é também estar em uma localização privilegiada. E o Ilha de Malta reúne alto padrão, conforto, segurança e uma estrutura completa de lazer, em uma das regiões mais valorizadas de São Carlos.
+
+Localizado no Parque Faber Castell, o empreendimento está ao lado do Shopping Iguatemi, proporcionando praticidade para o dia a dia, com fácil acesso a restaurantes, supermercados, serviços, comércio e importantes vias da cidade.
+
+O condomínio oferece uma estrutura completa:
+
+ Piscina adulto e infantil
+ Deck molhado
+ Espaço fitness e academia
+ Sauna
+ SPA
+ Salão de festas
+ Espaço gourmet
+ Churrasqueira
+ Playground
+ Espaço Kids
+ Brinquedoteca
+ Espaço Pet e Pet Care
+ Bicicletário
+ Pista de caminhada
+ Lounge com lareira
+ Elevador
+ Portaria 24 horas
+
+Um empreendimento pensado para quem valoriza qualidade de vida, segurança e comodidade, sem abrir mão de sofisticação.]]></Description>
     <PropertyType>Residential / Apartment</PropertyType>
     <RentalPrice currency="BRL">7000</RentalPrice>
     <LivingArea unit="square metres">107</LivingArea>
@@ -5839,12 +5870,14 @@ Agende sua visita e conheça esta oportunidade em uma das cidades mais desenvolv
      <Feature>Backyard</Feature>
     </Features>
    </Details>
-   <Location displayAddress="Neighborhood">
+   <Location displayAddress="All">
     <Country abbreviation="BR">Brasil</Country>
     <City>São Carlos</City>
     <State abbreviation="SP">São Paulo</State>
     <Neighborhood>Vila Prado</Neighborhood>
     <PostalCode>13574030</PostalCode>
+    <Address>Rua Doutor Bernardino de Campos</Address>
+    <StreetNumber>455</StreetNumber>
    </Location>
    <Media>
     <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNUQ4NzI5QzNBQUI4NDZGOEJCMTUwQTQwNDA4OTYwMDgtZm90b3MvZTQ1NzYyMTUtYzhhMWYxMzljYTc5NGMxYjAxZjY3MzhkNWU2Zjc3NmIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
@@ -5977,12 +6010,14 @@ Agende sua visita e conheça as possibilidades que este terreno oferece.]]></Des
     <Suites>0</Suites>
     <Garage>0</Garage>
    </Details>
-   <Location displayAddress="Neighborhood">
+   <Location displayAddress="All">
     <Country abbreviation="BR">Brasil</Country>
     <City>São Carlos</City>
     <State abbreviation="SP">São Paulo</State>
     <Neighborhood>Jardim Embaré</Neighborhood>
     <PostalCode>13563842</PostalCode>
+    <Address>Rua Lino Barros de Moura</Address>
+    <StreetNumber>239</StreetNumber>
    </Location>
    <Media>
     <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNUY5NDEwNEU4QzU5NDA2OEE0MjVEMzUwQ0Y2MzI5OTAtZm90b3MvYmIxYjE3N2ItZDg3NGEzMDRiMTY5Y2NlNjllMzVjYTQ5MTRkM2Q5YzAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
@@ -6296,6 +6331,11 @@ Oportunidade para quem busca um lar em localização privilegiada, com potencial
    <TransactionType>For Sale</TransactionType>
    <Title><![CDATA[Terreno Residencial para Venda Broa, Brotas]]></Title>
    <Details>
+    <Description><![CDATA[**TERRENO RESIDENCIAL EM BROTAS - SP**
+
+Excelente oportunidade de investimento! Terreno residencial com 515m² localizado no charmoso bairro Broa, em Brotas. A região oferece tranquilidade e qualidade de vida, sendo conhecida pelas belezas naturais e proximidade com cachoeiras e áreas de preservação ambiental. Brotas é destino consolidado para turismo ecológico e esportes de aventura, proporcionando valorização constante dos imóveis. O bairro Broa destaca-se pela atmosfera bucólica e fácil acesso aos principais pontos da cidade. Ideal para construção de residência em local privilegiado. Aceita financiamento e permuta. Entre em contato e agende sua visita.
+
+**Valor: R$ 82.000**]]></Description>
     <PropertyType>Residential / Land Lot</PropertyType>
     <ListPrice currency="BRL">82000</ListPrice>
     <LotArea unit="square metres">515</LotArea>
@@ -7002,12 +7042,14 @@ Imóvel ideal para quem busca praticidade e opções de entretenimento em um bai
      <Feature>Playground</Feature>
     </Features>
    </Details>
-   <Location displayAddress="Neighborhood">
+   <Location displayAddress="All">
     <Country abbreviation="BR">Brasil</Country>
     <City>São Carlos</City>
     <State abbreviation="SP">São Paulo</State>
     <Neighborhood>Recreio São Judas Tadeu</Neighborhood>
     <PostalCode>13571260</PostalCode>
+    <Address>Avenida Gregório Aversa</Address>
+    <StreetNumber>451</StreetNumber>
    </Location>
    <Media>
     <Item medium="image" primary="true">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNkU2NEE5Njc1QzZFNDk0Mzk2MDI5RjZDNzhCODk3OTEtZm90b3MvMjJiODE3YmUtYjBiOTg3ZWQyZmJiMTNkZjM3ZTY5MzY3OWVlMzAwMjIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
@@ -9327,12 +9369,14 @@ Para mais informações e agendamento de visitas, entre em contato.]]></Descript
      <Feature>Green space / Park</Feature>
     </Features>
    </Details>
-   <Location displayAddress="Neighborhood">
+   <Location displayAddress="All">
     <Country abbreviation="BR">Brasil</Country>
     <City>São Carlos</City>
     <State abbreviation="SP">São Paulo</State>
     <Neighborhood>Parque Sabará</Neighborhood>
     <PostalCode>13567640</PostalCode>
+    <Address>Rua Doutor Marino Costa Terra</Address>
+    <StreetNumber>1000</StreetNumber>
    </Location>
    <Media>
     <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tOUFCNTk0NkFGNDIwNEM4MkI3Mzk0M0VDNzhBQTJBRkUtZm90b3MvY2VlODc0YWItYjkwYTYzM2M1M2ExN2I0YWI0YmRiOTg0NDY0NDgzMGMuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
@@ -9504,12 +9548,14 @@ Oportunidade para quem busca um imóvel bem localizado em uma das cidades mais p
     <Suites>0</Suites>
     <Garage>1</Garage>
    </Details>
-   <Location displayAddress="Neighborhood">
+   <Location displayAddress="All">
     <Country abbreviation="BR">Brasil</Country>
     <City>São Carlos</City>
     <State abbreviation="SP">São Paulo</State>
     <Neighborhood>Distrito Industrial Miguel Abdelnur</Neighborhood>
     <PostalCode>13571385</PostalCode>
+    <Address>Avenida Doutor Heitor José Reali</Address>
+    <StreetNumber>870</StreetNumber>
    </Location>
    <Media>
     <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tOUUxNDQ3RTcxMzgzNDVENzg5NzA1ODEwN0M5QTdGMTMtZm90b3MvOWU2ZjAyOGUtNDliODBmYWVmNzlkYjAxOGJiYTAwNmI1NmE1N2M0MzcuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
@@ -10595,6 +10641,102 @@ CRECI: 24.790J
     <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQThCQzA4NzdDMUFCNDYwNzgwMjZCM0E0NzAyQURDMkQtZm90b3MvMTk5ZDg0NjgtZGRlZDU1MGFmNmVjYmQ2MDVmYjgwZjMwNWIwMmFmNTYuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
     <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQThCQzA4NzdDMUFCNDYwNzgwMjZCM0E0NzAyQURDMkQtZm90b3MvZWUyNTJjMjctZjA0ZjU2MzIxODg4ODMxZmNkZGMxYmU2YjE2N2E3ZTAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
     <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQThCQzA4NzdDMUFCNDYwNzgwMjZCM0E0NzAyQURDMkQtZm90b3MvMTA1NmE2M2UtMmQ3ZWNhMmNlZGM0NzJkMjI2NDk0NDMxNDY5YTk2YzUuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+   </Media>
+  </Listing>
+  <Listing>
+   <ListingID>1316V-MEU</ListingID>
+   <PublicationType>STANDARD</PublicationType>
+   <DetailViewUrl>www.jmartinssaocarlos.com.br/imovel/codigo/1316</DetailViewUrl>
+   <TransactionType>For Sale</TransactionType>
+   <Title><![CDATA[Casa de 3 quartos no Condomínio Terra Nova à venda em São Carlos]]></Title>
+   <Details>
+    <Description><![CDATA[CASA À VENDA NO RESIDENCIAL TERRA NOVA  SÃO CARLOS
+
+Uma excelente oportunidade para quem busca conforto, segurança e qualidade de vida em um condomínio completo e com estrutura de lazer para toda a família.
+
+Residencial Terra Nova  São Carlos
+
+A casa conta com:
+
+02 vagas de garagem cobertas
+Sala de TV e jantar integradas, com piso frio
+Hall de entrada com piso frio
+Cozinha com piso frio e azulejo até o teto
+Lavanderia
+03 dormitórios com armários planejados, sendo 01 suíte
+Banheiro social
+Quintal privativo
+
+É o equilíbrio ideal entre a praticidade de uma casa funcional e as comodidades de viver em um condomínio.
+
+3 dormitórios | 1 suíte | 2 vagas cobertas | Armários planejados | Quintal
+
+Agende sua visita e venha conhecer esta oportunidade no Terra Nova!
+
+(16) 99798-3334.
+
+JMartins Imóveis
+CRECI 24.790J]]></Description>
+    <PropertyType>Residential / Condo</PropertyType>
+    <ListPrice currency="BRL">380000</ListPrice>
+    <LivingArea unit="square metres">80</LivingArea>
+    <LotArea unit="square metres">80</LotArea>
+    <Bedrooms>3</Bedrooms>
+    <Bathrooms>2</Bathrooms>
+    <Suites>1</Suites>
+    <Garage>2</Garage>
+    <Features>
+     <Feature>Pool</Feature>
+     <Feature>Kitchen</Feature>
+     <Feature>Backyard</Feature>
+     <Feature>Recreation Area</Feature>
+     <Feature>Pets Allowed</Feature>
+     <Feature>Fenced Yard</Feature>
+     <Feature>Playground</Feature>
+     <Feature>Square</Feature>
+     <Feature>Administration</Feature>
+     <Feature>Controlled Access</Feature>
+     <Feature>Close to main roads/avenues</Feature>
+     <Feature>Close to public transportation</Feature>
+    </Features>
+   </Details>
+   <Location displayAddress="All">
+    <Country abbreviation="BR">Brasil</Country>
+    <City>São Carlos</City>
+    <State abbreviation="SP">São Paulo</State>
+    <Neighborhood>Jardim Ipanema</Neighborhood>
+    <PostalCode>13563673</PostalCode>
+    <Address>Avenida Otto Werner Rosel</Address>
+    <StreetNumber>777</StreetNumber>
+   </Location>
+   <Media>
+    <Item medium="image" primary="true">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvMTJmZTJiNWMtOTY1Mzk2OTdlMTdmOTdjYzA4YTA2ZTBjNTExY2U0NzUuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+    <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvMjVkMmU3NjUtODg0MTAyMjE2OTY3Nzg3NDkzNDlkNDQ5MGQyMGViOWMuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+    <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvYzY5OGViNWItYWZmZmExZjIyNjQzZDNlMTQ0NmU5NjYwNDUyY2YxMDAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+    <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvMzJkOGNkMDMtY2Y3Mjk3NmNlZTYwZGRiOTBiYzc2ZWZjOWUzNzJmMWYuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+    <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvZjAxZThkYTgtYTA1MWE5OTM0NzcxMTUyN2I5ZDdiZmQwNGRmNzE4MDguanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+    <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvMjU5MThhYjUtZGE0NDZhOWU2ZDAyZjUyMWVhMTAwMzU4OTZiNGI4ZGMuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+    <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvZTkyMjgwMWYtNTJhOTA3ODc1ZjE2NmIxMjFkMTAwY2FkMzFkMDU5MDcuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+    <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvZDU4NjBkN2QtMWI2Nzk2MzYzNDQ3YzFmYTg2ZmU0MTU0MTExMDI2NDUuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+    <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvZWE1MzQxMTUtOGZiYTA0Y2ZiNzI4YjE0NjZlMTliZjYxM2M2OGUxMzQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+    <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvYTA4ZjA4MTMtNjRhNDg0MDQzYTU0MzhjMWU1MzExZGViMjE3MzIxYmYuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+    <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvNTg1MTg1ODItMjY2MTEzZTFkZDQ5YTQ0OTVjNjBjMDI5YTdiMjM5ZWQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+    <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvNDVmMDkwZjctZWRhYWIwZTA1YWZhZjA4ODBkMTUxNDk4MzM3NjY3NzguanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+    <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvYTEyYmM2ZGItMDYyNTJhOTA3NzJiYTYxZmI4NDY0NWI1NGM1MWI4YzAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+    <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvMmMyMWIwY2ItNGU4YjVjMzQwNDE4ZWMwMGE2YTc5NWYxMjBiZjUxNGYuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+    <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvN2VlNjAyMmMtZmMyMzZmZTdkOTUyZWIzNDRlYzk0OTViM2MxZDc3N2YuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+    <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvM2M5ODQ1OTEtM2E3MjZkODAxYzI5Y2M2ZDM1YzJkMjUyMDI4OWYxOTcuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+    <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvZjYzNmM2YWQtYWYwY2VjNDIwMjlmOWI3MTk2OGFkMDEzMzQ1MThjYzQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+    <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvNmRhMTdkYWUtZmUyMWJjMzhjMzNmZmUxZDkxYzg0MTFkOTNjZTlmOWQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+    <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvMjA2MmVkNzAtMjQ1NzA2MDNmOGFkODBiMjkxNGYwZGIyZTdmZjgyNDMuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+    <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvMjI5NWQxNjYtZjk2YjZjNjk4NDg4ZGI1YWIwZGJmYWZhMzY4MGYyMzUuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+    <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvNWU3NWYwYTctOTViNDBjNmE1ZjI2MjFiYzg1MmE3OWE5M2IzYjczZmYuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+    <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvNzhhMjZiZGQtNjY1YjhkYWYzZmNjZGIzYTlhMDBjZTE3ZTIzMGI3NzQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+    <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvZDQ3ZDEzMGUtMWY5YzYzZDAzNDIxNjA1NTlkNDE0MDgzNWIwNDkzMzIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+    <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvYjk3MDQ2ZDMtZjllODQ5YmRiYWQ3Yjk1MjAzZDY1Yjc0YmQ2M2FhZGEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+    <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvYmU0ZGQ2NTktMjBjYjA0MGZlNDAyMjNkYTFmN2M0OGUwMzU5M2VhNGEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+    <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvYTllY2MzMmQtYjJjMjJiY2YzZTUzZGRhNWVjYjU5MzgwYmJjZGZlMTEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+    <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQTk3MzY2RTI1QzQ2NDFFMUE4REQ3RTUyQjA3MzQxMzktZm90b3MvYjJjNmIxN2ItOWQyZTNkY2E4ZjExNDJkNTcwMjcxNTc2OGVkOWYwY2MuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
    </Media>
   </Listing>
   <Listing>
@@ -14163,12 +14305,14 @@ Valor: R$ 1.170.000,00]]></Description>
      <Feature>Recreation Area</Feature>
     </Features>
    </Details>
-   <Location displayAddress="Neighborhood">
+   <Location displayAddress="All">
     <Country abbreviation="BR">Brasil</Country>
     <City>São Carlos</City>
     <State abbreviation="SP">São Paulo</State>
     <Neighborhood>Parque Faber Castell I</Neighborhood>
     <PostalCode>13561353</PostalCode>
+    <Address>Passeio das Palmeiras</Address>
+    <StreetNumber>501</StreetNumber>
    </Location>
    <Media>
     <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRTJFNDM1NEVGMzg0NEY3OUI4QzRCN0ZCMEE5MzJCMzAtZm90b3MvOWY4NGI1M2YtYjdmYWFiNjI0MDk4OGEzMGFiZGRlNzUyODhkYzIyOWUuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
@@ -14459,6 +14603,7 @@ Entre em contato para mais informações e agende uma visita!]]></Description>
     <Suites>1</Suites>
     <Garage>2</Garage>
     <Features>
+     <Feature>Kitchen</Feature>
      <Feature>Kitchen Cabinets</Feature>
      <Feature>Fenced Yard</Feature>
      <Feature>Square</Feature>
@@ -14669,6 +14814,69 @@ Entre em contato para mais informações e agende uma visita!]]></Description>
     <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRUVDMUM1ODMyRjU2NEMzRTk3RTBEMkYyM0UzNzY2QzctZm90b3MvYzA1OTQ2NzktYzc1OGNjOWQxYjlmNzk1MmU3ZTZmMzE5Y2U3MzRkMjIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
     <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRUVDMUM1ODMyRjU2NEMzRTk3RTBEMkYyM0UzNzY2QzctZm90b3MvNjQzNjkzODAtODA1OGRiNzM1NTU3OTA4YTc5YWU3Mjc4MTkyNjNhNDIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
     <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRUVDMUM1ODMyRjU2NEMzRTk3RTBEMkYyM0UzNzY2QzctZm90b3MvYWEyMDkyNzAtMzE0N2QyM2JmNmNiZGYxYWNhYmUwN2U3NGU1MGZhZjYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+   </Media>
+  </Listing>
+  <Listing>
+   <ListingID>1317V-MEU</ListingID>
+   <PublicationType>STANDARD</PublicationType>
+   <DetailViewUrl>www.jmartinssaocarlos.com.br/imovel/codigo/1317</DetailViewUrl>
+   <TransactionType>For Sale</TransactionType>
+   <Title><![CDATA[Casa de Condomínio 3 quartos para Venda Parque Tecnológico Damha I São Carlos, São Carlos]]></Title>
+   <Details>
+    <Description><![CDATA[Casa de condomínio no Parque Tecnológico Damha I, São Carlos/SP, à venda por R$ 2.180.000. Imóvel com 3 quartos sendo 2 suítes, 4 banheiros, área construída de 195m² em terreno de 384m². Conta com sala, cozinha, cozinha gourmet, área de serviço, varanda, quintal, piscina, churrasqueira, área de lazer, closet e calçada. Inclui armários na cozinha e embutidos. Condomínio fechado oferece academia, playground, espaço pet, quadras de futebol, areia, tênis e poliesportiva, salão de festas e coleta seletiva. Localização privilegiada próxima ao transporte público e vias de acesso. São Carlos é reconhecida pela qualidade de vida, excelente infraestrutura educacional e ambiente tecnológico desenvolvido, sendo polo universitário e de inovação no interior paulista.]]></Description>
+    <PropertyType>Residential / Condo</PropertyType>
+    <ListPrice currency="BRL">2180000</ListPrice>
+    <LivingArea unit="square metres">195</LivingArea>
+    <LotArea unit="square metres">384</LotArea>
+    <Bedrooms>3</Bedrooms>
+    <Bathrooms>4</Bathrooms>
+    <Suites>3</Suites>
+    <Garage>4</Garage>
+    <Features>
+     <Feature>BBQ</Feature>
+     <Feature>Pool</Feature>
+     <Feature>Kitchen</Feature>
+     <Feature>Maid's Quarters</Feature>
+     <Feature>Balcony</Feature>
+     <Feature>Backyard</Feature>
+     <Feature>Closet</Feature>
+     <Feature>Gourmet Kitchen</Feature>
+     <Feature>Recreation Area</Feature>
+     <Feature>Builtin Wardrobe</Feature>
+     <Feature>Kitchen Cabinets</Feature>
+     <Feature>Fenced Yard</Feature>
+     <Feature>Gym</Feature>
+     <Feature>Indoor Soccer</Feature>
+     <Feature>Party Room</Feature>
+     <Feature>Pet Space</Feature>
+     <Feature>Playground</Feature>
+     <Feature>Sand Pit</Feature>
+     <Feature>Sports Court</Feature>
+     <Feature>Tennis court</Feature>
+     <Feature>Eco Garbage Collector</Feature>
+     <Feature>Close to main roads/avenues</Feature>
+     <Feature>Close to public transportation</Feature>
+    </Features>
+   </Details>
+   <Location displayAddress="All">
+    <Country abbreviation="BR">Brasil</Country>
+    <City>São Carlos</City>
+    <State abbreviation="SP">São Paulo</State>
+    <Neighborhood>Parque Tecnológico Damha I São Carlos</Neighborhood>
+    <PostalCode>13565251</PostalCode>
+    <Address>Avenida Miguel Damha</Address>
+    <StreetNumber>800</StreetNumber>
+   </Location>
+   <Media>
+    <Item medium="image" primary="true">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRjBEODIzODRFMEJDNDQ4NkIxRTg3M0Q3M0JFNEMzRDYtZm90b3MvMjNiMTYyZDYtZTVmYzAyMzNkMjNlZDMwYzZkZmRjZjE3MmUxZTM2YTQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+    <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRjBEODIzODRFMEJDNDQ4NkIxRTg3M0Q3M0JFNEMzRDYtZm90b3MvM2IzYzA2ZDQtMDkyYzU3NGY2NzE2NDEwODAzYTExZDc1NDQ3ZTYzNzYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+    <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRjBEODIzODRFMEJDNDQ4NkIxRTg3M0Q3M0JFNEMzRDYtZm90b3MvYTY4NWQ3OTgtNDYzOTAxYmE1OGU1Yzg1MGZlOWRkMTUzNTg4NTc3MzgucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+    <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRjBEODIzODRFMEJDNDQ4NkIxRTg3M0Q3M0JFNEMzRDYtZm90b3MvMWQ5NDRiMDAtYzlhMzFlZmE5NGUwNjBlNTIxOWUyNGQ4NzI3MjdjM2YucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+    <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRjBEODIzODRFMEJDNDQ4NkIxRTg3M0Q3M0JFNEMzRDYtZm90b3MvNzcwN2JjYTItZjUyMjNmMmQxY2M2NDY3MDhhZmI0NGM0OGJiZWE2OWIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+    <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRjBEODIzODRFMEJDNDQ4NkIxRTg3M0Q3M0JFNEMzRDYtZm90b3MvZTYwMmUzYTgtOWQ1MjRiYjJjMGQyZTNjMGIzODRlZDY3ODdkNTQ3YzYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+    <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRjBEODIzODRFMEJDNDQ4NkIxRTg3M0Q3M0JFNEMzRDYtZm90b3MvNmE5MTI4OWQtNDg3MTM2N2Q0YjBjOTg3MTdjOGUwNWRmZmQ3ZDEyYjMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+    <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRjBEODIzODRFMEJDNDQ4NkIxRTg3M0Q3M0JFNEMzRDYtZm90b3MvOWU2NDMzMTktMGZlZTAwYzg1NjQ2ZDAzMWFlN2JjN2M4OWEwM2U3M2QucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
+    <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRjBEODIzODRFMEJDNDQ4NkIxRTg3M0Q3M0JFNEMzRDYtZm90b3MvYTQ4ZTU4YWUtZTQzZDk4MjAzOGU0ZjgyMmY0ZDZmNDdiZWY3Y2Q5MTkucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
    </Media>
   </Listing>
   <Listing>
@@ -14930,12 +15138,14 @@ Agende sua visita e conheça esta oportunidade única de investimento em uma das
     <Suites>0</Suites>
     <Garage>0</Garage>
    </Details>
-   <Location displayAddress="Neighborhood">
+   <Location displayAddress="All">
     <Country abbreviation="BR">Brasil</Country>
     <City>São Carlos</City>
     <State abbreviation="SP">São Paulo</State>
     <Neighborhood>Planalto Paraíso</Neighborhood>
     <PostalCode>13562020</PostalCode>
+    <Address>Rua Doutor Jonas Novaes</Address>
+    <StreetNumber>32</StreetNumber>
    </Location>
    <Media>
     <Item medium="image">https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRjk3NzE3OUI1RDdFNDlERjkzRjZEOTM0MzIxNzY2QkYtZm90b3MvMTY5ZTMxZjItZTc1ZTNmZThhYjhlYTdhYWExZjQ5ODQ4YjA5ZGQzYzcuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</Item>
