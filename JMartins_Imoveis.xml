@@ -5502,7 +5502,7 @@
     <name>SALÕES COMERCIAIS PARA LOCAÇÃO NO CENTRO | RUA PADRE TEIXEIRA</name>
     <title>SALÕES COMERCIAIS PARA LOCAÇÃO NO CENTRO | RUA PADRE TEIXEIRA</title>
     <availability>for_rent</availability>
-    <description>Uma localização estratégica para o seu negócio em São Carlos. Situados na Rua Padre Teixeira, os salões estão em uma região de grande circulação e acesso, oferecendo praticidade para clientes, colaboradores e fornecedores. Cada salão possui: 1 com 106 m² de área e o outro com 122 m² de área 2 banheiros Espaço amplo e versátil Os salões podem ser locados individualmente ou se necessitar de uma estrutura maior, existe a possibilidade de locação conjunta, ampliando a área disponível. Uma excelente alternativa para comércio, serviços, escritórios, clínicas, empresas e diversas outras atividades que buscam um endereço estratégico em São Carlos. Valor: R$ 5.850,00 salão de esquina (valor referente à locação de 1 salão com 2 banheiros). Valor: R$ 6.700,00 salão lado direito (valor referente à locação de 1 salão com 2 banheiros). Consulte-nos para conhecer as condições de locação e disponibilidade.</description>
+    <description>Uma localização estratégica para o seu negócio em São Carlos. Situados na Rua Padre Teixeira, os salões estão em uma região de grande circulação e acesso, oferecendo praticidade para clientes, colaboradores e fornecedores. Cada salão possui: 1 com 106 m² de área e o outro com 122 m² de área 2 banheiros Espaço amplo e versátil Os salões podem ser locados individualmente ou se necessitar de uma estrutura maior, existe a possibilidade de locação conjunta, ampliando a área disponível. Uma excelente alternativa para comércio, serviços, escritórios, clínicas, empresas e diversas outras atividades que buscam um endereço estratégico em São Carlos. Valor: R$ 5.500,00 salão de esquina (valor referente à locação de 1 salão com 2 banheiros). Valor: R$ 6.000,00 salão lado direito (valor referente à locação de 1 salão com 2 banheiros). Consulte-nos para conhecer as condições de locação e disponibilidade.</description>
     <address format="simple">
       <component name="addr1">Rua Padre Teixeira 655</component>
       <component name="city">São Carlos</component>
@@ -5522,7 +5522,7 @@
     <listing_type>for_rent_by_agent</listing_type>
     <num_beds>0</num_beds>
     <num_baths>2</num_baths>
-    <price>5850 BRL</price>
+    <price>5500 BRL</price>
     <property_type>other</property_type>
     <custom_label_0>106m²</custom_label_0>
     <custom_label_1>Centro</custom_label_1>
