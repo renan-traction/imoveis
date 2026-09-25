@@ -76,7 +76,7 @@
     <listing_type>for_rent_by_agent</listing_type>
     <num_beds>3</num_beds>
     <num_baths>2</num_baths>
-    <price>2790 BRL</price>
+    <price>3100 BRL</price>
     <property_type>house</property_type>
     <custom_label_0>130m²</custom_label_0>
     <custom_label_1>Parque Santa Felícia Jardim</custom_label_1>
@@ -2243,7 +2243,7 @@
     <name>Casa 2 quartos para Venda Centro, São Carlos</name>
     <title>Casa 2 quartos para Venda Centro, São Carlos</title>
     <availability>for_sale</availability>
-    <description>CASA PARA VENDA - SÃO CARLOS/SP Casa de 2 quartos localizada no Centro de São Carlos, com 162m² de área construída em terreno de 105m². O imóvel possui 1 banheiro e 1 vaga de garagem. Situada em uma das regiões mais valorizadas da cidade, o Centro de São Carlos oferece excelente infraestrutura urbana, com fácil acesso a comércios, serviços, bancos, restaurantes e transporte público. A localização privilegiada permite deslocamento rápido para outras regiões da cidade e conta com proximidade a escolas, universidades e hospitais. São Carlos é reconhecida como um importante polo tecnológico e educacional do interior paulista, abrigando renomadas instituições de ensino superior e empresas de tecnologia. A cidade oferece qualidade de vida diferenciada, com boa segurança, clima agradável e diversas opções de lazer e cultura. Valor de venda: R$ 370.000,00 Aceita financiamento bancário e análise de permuta por imóvel de menor valor. Agende sua visita e conheça esta oportunidade no coração de São Carlos.</description>
+    <description>CASA PARA VENDA - SÃO CARLOS/SP Casa de 2 quartos localizada no Centro de São Carlos, com 162m² de área construída em terreno de 105m². O imóvel possui 1 banheiro e 1 vaga de garagem. Situada em uma das regiões mais valorizadas da cidade, o Centro de São Carlos oferece excelente infraestrutura urbana, com fácil acesso a comércios, serviços, bancos, restaurantes e transporte público. A localização privilegiada permite deslocamento rápido para outras regiões da cidade e conta com proximidade a escolas, universidades e hospitais. São Carlos é reconhecida como um importante polo tecnológico e educacional do interior paulista, abrigando renomadas instituições de ensino superior e empresas de tecnologia. A cidade oferece qualidade de vida diferenciada, com boa segurança, clima agradável e diversas opções de lazer e cultura. Valor de venda: R$ 365.000,00 Aceita financiamento bancário e análise de permuta por imóvel de menor valor. Agende sua visita e conheça esta oportunidade no coração de São Carlos.</description>
     <address format="simple">
       <component name="addr1">Rua José Bonifácio 32</component>
       <component name="city">São Carlos</component>
@@ -2266,7 +2266,7 @@
     <listing_type>for_sale_by_agent</listing_type>
     <num_beds>2</num_beds>
     <num_baths>2</num_baths>
-    <price>370000 BRL</price>
+    <price>365000 BRL</price>
     <property_type>house</property_type>
     <custom_label_0>105m²</custom_label_0>
     <custom_label_1>Centro</custom_label_1>
@@ -7882,10 +7882,10 @@
   </listing>
   <listing>
     <home_listing_id>1081 L-MEU</home_listing_id>
-    <name>Salão Comercial para Venda Parque Santa Felícia Jardim, São Carlos</name>
-    <title>Salão Comercial para Venda Parque Santa Felícia Jardim, São Carlos</title>
+    <name>Salão Comercial para Locação Parque Santa Felícia Jardim, São Carlos</name>
+    <title>Salão Comercial para Locação Parque Santa Felícia Jardim, São Carlos</title>
     <availability>for_rent</availability>
-    <description>SALÃO COMERCIAL PARA VENDA - PARQUE SANTA FELÍCIA JARDIM, SÃO CARLOS/SP Excelente oportunidade de investimento em salão comercial com 450m² de área útil e construída, localizado no tradicional bairro Parque Santa Felícia Jardim. São Carlos oferece ambiente acadêmico privilegiado com universidades renomadas, economia dinâmica e infraestrutura consolidada. O bairro destaca-se pela boa localização e facilidade de acesso. Imóvel conta com 3 vagas de garagem, proporcionando comodidade para clientes e funcionários. Ideal para diversos tipos de negócios que necessitem de amplo espaço. A região apresenta movimento comercial constante e boa visibilidade. Aceita financiamento e permuta, facilitando a negociação. Valor: R$ 890.000,00.</description>
+    <description>SALÃO COMERCIAL PARA VENDA - PARQUE SANTA FELÍCIA JARDIM, SÃO CARLOS/SP Excelente oportunidade de investimento em salão comercial com 450m² de área útil e construída, localizado no tradicional bairro Parque Santa Felícia Jardim. São Carlos oferece ambiente acadêmico privilegiado com universidades renomadas, economia dinâmica e infraestrutura consolidada. O bairro destaca-se pela boa localização e facilidade de acesso. Imóvel conta com 3 vagas de garagem, proporcionando comodidade para clientes e funcionários. Ideal para diversos tipos de negócios que necessitem de amplo espaço. A região apresenta movimento comercial constante e boa visibilidade. Aceita financiamento e permuta, facilitando a negociação.</description>
     <address format="simple">
       <component name="addr1">Rua Luiz Pedro Biachini 25</component>
       <component name="city">São Carlos</component>
