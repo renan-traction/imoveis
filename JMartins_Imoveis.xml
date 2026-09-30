@@ -608,7 +608,7 @@
     <listing_type>for_sale_by_agent</listing_type>
     <num_beds>3</num_beds>
     <num_baths>2</num_baths>
-    <price>520000 BRL</price>
+    <price>560000 BRL</price>
     <property_type>apartment</property_type>
     <custom_label_0>75m²</custom_label_0>
     <custom_label_1>Jardim Santa Paula</custom_label_1>
@@ -4119,7 +4119,7 @@
     <listing_type>for_sale_by_agent</listing_type>
     <num_beds>2</num_beds>
     <num_baths>2</num_baths>
-    <price>540000 BRL</price>
+    <price>580000 BRL</price>
     <property_type>apartment</property_type>
     <custom_label_0>75m²</custom_label_0>
     <custom_label_1>Jardim Santa Paula</custom_label_1>
@@ -8630,6 +8630,40 @@
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/334</url>
   </listing>
   <listing>
+    <home_listing_id>1325V-MEU</home_listing_id>
+    <name>Casa de Condomínio 4 quartos para Venda Condomínio Residencial Quebec, São Carlos</name>
+    <title>Casa de Condomínio 4 quartos para Venda Condomínio Residencial Quebec, São Carlos</title>
+    <availability>for_sale</availability>
+    <description>ESPAÇO, CONFORTO E UMA PLANTA PENSADA PARA A FAMÍLIA Imagine morar em um sobrado onde cada ambiente tem espaço de verdade para você viver, receber e aproveitar bons momentos em família. No Condomínio Residencial Quebec, esta casa reúne 282,23 m² de área construída em um terreno de 308 m², com uma planta ampla e versátil. 4 dormitórios, sendo 2 suítes Escritório Sala de TV Sala ampla em 3 ambientes Cozinha espaçosa e planejada Muitos armários Ambientes claros e bem ventilados Quintal gramado Varanda no pavimento superior Garagem ampla Um dos grandes diferenciais está na distribuição dos ambientes: são espaços que permitem criar diferentes momentos da rotina desde o home office e a sala de TV até encontros com familiares e amigos. E tudo isso dentro do Condomínio Quebec, um residencial fechado e consolidado em São Carlos, que combina tranquilidade, segurança e praticidade para o dia a dia. Terreno: 308 m² Área construída: 282,23 m² Condomínio Residencial Quebec São Carlos/SP Uma casa para quem valoriza metragem, conforto e ambientes generosos, sem abrir mão da segurança e da tranquilidade de um condomínio fechado. Entre em contato com a JMartins Imóveis e agende sua visita. JMartins Imóveis. (16) 99798-3334</description>
+    <address format="simple">
+      <component name="addr1">Avenida Professora Maria de Cresci Leopoldino 2225</component>
+      <component name="city">São Carlos</component>
+      <component name="region">SP</component>
+    <component name="country">Brazil</component>
+      <component name="postal_code">13563623</component>
+    </address>
+    <neighborhood>Condomínio Residencial Quebec</neighborhood>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRTZEREI4MzZCQkE2NEE2RkI1QzVENDI1NDVEMkU4NUQtZm90b3MvMGVhMmJhY2UtNWJiZDE2ZGM0NTc2YzRlYmY4M2FjN2RkNTQxNDcyNzkuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRTZEREI4MzZCQkE2NEE2RkI1QzVENDI1NDVEMkU4NUQtZm90b3MvYzU4MDM4NGItZDgwZjBlZDk2Njc2ZTA5NjQ0YjNlZDkxMmZkYzhmYzcuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRTZEREI4MzZCQkE2NEE2RkI1QzVENDI1NDVEMkU4NUQtZm90b3MvN2ExNjVkMmEtM2MxZjljZTM0NTRiZWM5MjM5MDg3MzVmMGQ2MGI1NTAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRTZEREI4MzZCQkE2NEE2RkI1QzVENDI1NDVEMkU4NUQtZm90b3MvMTk0ZjVjMDQtNzRiZWMyMmYxYjM0YjVhNTczMDBiNjlkZTdjOGU4NDQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRTZEREI4MzZCQkE2NEE2RkI1QzVENDI1NDVEMkU4NUQtZm90b3MvMDQ3ODg5MmYtMTUyNDlhM2IyODUxNWI1MWE4OWIxODVjY2VhY2E1NGEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRTZEREI4MzZCQkE2NEE2RkI1QzVENDI1NDVEMkU4NUQtZm90b3MvYWYwZjFmOWQtMzQ0MTk1ZjA4MWVlODljOGQxZWM5NDg1ZmUxOTZlYzMuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRTZEREI4MzZCQkE2NEE2RkI1QzVENDI1NDVEMkU4NUQtZm90b3MvMGUyOGZkMmQtZTNhMjhlMjhhMDVhZDJjOWE0MzM0YmY4ODI1N2YwODAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRTZEREI4MzZCQkE2NEE2RkI1QzVENDI1NDVEMkU4NUQtZm90b3MvM2FlMWZlNWEtYmFlODc3NTBjMDM3ZWRkYTRiZTE5OWE4ZTU3M2QwMDAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRTZEREI4MzZCQkE2NEE2RkI1QzVENDI1NDVEMkU4NUQtZm90b3MvMjg3M2JmOTktZDE4NmVmMmI1YThiZDY4YWJhYjAwMzYwYTkyMjgyZjcuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRTZEREI4MzZCQkE2NEE2RkI1QzVENDI1NDVEMkU4NUQtZm90b3MvNmJmNTg2NWMtNjZmMmU4YjFjMTdiNDhhMjFlNDcxZDMxM2E3MGFjZjguanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <listing_type>for_sale_by_agent</listing_type>
+    <num_beds>4</num_beds>
+    <num_baths>3</num_baths>
+    <price>1596000 BRL</price>
+    <property_type>condo</property_type>
+    <custom_label_0>282m²</custom_label_0>
+    <custom_label_1>Condomínio Residencial Quebec</custom_label_1>
+    <custom_label_2>Avenida Professora Maria de Cresci Leopoldino 2225</custom_label_2>
+    <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1325</url>
+  </listing>
+  <listing>
     <home_listing_id>1070V-MEU</home_listing_id>
     <name>Apartamento 3 quartos para Venda Centro, São Carlos</name>
     <title>Apartamento 3 quartos para Venda Centro, São Carlos</title>
@@ -8810,6 +8844,44 @@
     <custom_label_1>Jardim Ipanema</custom_label_1>
     <custom_label_2>Avenida Otto Werner Rosel 340</custom_label_2>
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1236</url>
+  </listing>
+  <listing>
+    <home_listing_id>1324L-MEU</home_listing_id>
+    <name>Apartamento 2 quartos para Locação Centro, São Carlos</name>
+    <title>Apartamento 2 quartos para Locação Centro, São Carlos</title>
+    <availability>for_rent</availability>
+    <description>APARTAMENTO PARA LOCAÇÃO | EDIFÍCIO IRINEU MASSARI Morar no Centro de São Carlos com praticidade, conforto e uma estrutura completa faz toda a diferença. Edifício Irineu Massari Centro Em andar alto este apartamento de aproximadamente 55 m² reúne tudo o que você procura para uma rotina mais confortável: 2 dormitórios 2 vagas de garagem Armários planejados novinhos na cozinha e nos quartos Painel planejado na sala Ar-condicionado nos quartos Cozinha planejada e funcional Edifício com elevador E tem mais: a localização é um dos grandes diferenciais. Na Rua XV de Novembro, o Edifício Irineu Massari está a poucos minutos da Praça XV e cercado por comércio, serviços, restaurantes, bancos e diversas facilidades para o dia a dia. Um apartamento ideal para quem quer estar perto de tudo sem abrir mão de conforto e segurança. Entre em contato com a JMartins Imóveis e agende sua visita! (16) 99798-3334</description>
+    <address format="simple">
+      <component name="addr1">Rua Quinze de Novembro 2476</component>
+      <component name="city">São Carlos</component>
+      <component name="region">SP</component>
+    <component name="country">Brazil</component>
+      <component name="postal_code">13560241</component>
+    </address>
+    <neighborhood>Centro</neighborhood>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRUQ1RERCNkVEOEQwNEMxODg2QzY1Q0UyNEE2RUYxMDgtZm90b3MvZjliYTZjNmMtZjI0YTI0N2ZiOGQyYjE4NDNhYjQwMzA4MzBjNDVjMDkuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRUQ1RERCNkVEOEQwNEMxODg2QzY1Q0UyNEE2RUYxMDgtZm90b3MvZWQ0MDhkZWEtZTRiM2EzYjgwMzg1ZTQ3MjE3ODhkZTNlYjRmNzUyODMuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRUQ1RERCNkVEOEQwNEMxODg2QzY1Q0UyNEE2RUYxMDgtZm90b3MvNTM0NzUyZjEtMjMwMDZkZDRmMzZjZjYzMzNkN2M2NTc3ZjEyMjczNjguanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRUQ1RERCNkVEOEQwNEMxODg2QzY1Q0UyNEE2RUYxMDgtZm90b3MvYzUwOGJhOGEtMmUyZTg4ODY4MmJmMDE2ZjliZTkwYWVlNGIwZjU0ZjkuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRUQ1RERCNkVEOEQwNEMxODg2QzY1Q0UyNEE2RUYxMDgtZm90b3MvYjczNGIxYzctMTVlMmFkMjIwYmQwZTdiN2ZlMjVlYjNlN2FlYTU2YmQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRUQ1RERCNkVEOEQwNEMxODg2QzY1Q0UyNEE2RUYxMDgtZm90b3MvMThhOWQ1OWItNjNhZWU1NmQ2MWU0NjQ5NzdlODQ0ZjA1YjMwOGM2ZjUuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRUQ1RERCNkVEOEQwNEMxODg2QzY1Q0UyNEE2RUYxMDgtZm90b3MvZjIxMDFlYjItZTlmOTRjZmRkN2NlYTk3NDhmYzFjZDA5NGZmNDlhMmUuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRUQ1RERCNkVEOEQwNEMxODg2QzY1Q0UyNEE2RUYxMDgtZm90b3MvMWY5ZDI3MjUtNDJlODUzMjBmZWUyN2VjOWNkNDlkOWQzODMzY2YzZmEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRUQ1RERCNkVEOEQwNEMxODg2QzY1Q0UyNEE2RUYxMDgtZm90b3MvZTEyYzQ1ODYtNzVlZGYwMmQ3YjYwMmZlNWU5MGZiM2EyYjhjYWNhZTMuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRUQ1RERCNkVEOEQwNEMxODg2QzY1Q0UyNEE2RUYxMDgtZm90b3MvMjkwMDUzMDMtMDZjMmQxZjQxMmQ4NjM1ODQ5MGUzZTU3MDFhYTNmZmEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRUQ1RERCNkVEOEQwNEMxODg2QzY1Q0UyNEE2RUYxMDgtZm90b3MvODJiMWU0ZTYtMjc4N2U2OTY3MzI3NmIwMzQzYjE4ZThkNGVkZDhiZDcuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRUQ1RERCNkVEOEQwNEMxODg2QzY1Q0UyNEE2RUYxMDgtZm90b3MvNzNmYzFhYjYtZjI4OTEwMDUyMWFhNjhjNzk5YWFlOTJhYmMyZjMzZjUuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRUQ1RERCNkVEOEQwNEMxODg2QzY1Q0UyNEE2RUYxMDgtZm90b3MvZDBmYTQxY2UtZWY4MjJkOTQzMWI3OGRhNzc5NzJlYTNmZWU2ZDEzNzQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRUQ1RERCNkVEOEQwNEMxODg2QzY1Q0UyNEE2RUYxMDgtZm90b3MvNmQxMGQxZTMtMTczYWI4NTgzNWRlMGU0OWIyNDA1ZGY3NDFhMDkxYmEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <listing_type>for_rent_by_agent</listing_type>
+    <num_beds>2</num_beds>
+    <num_baths>2</num_baths>
+    <price>2690 BRL</price>
+    <property_type>apartment</property_type>
+    <custom_label_0>55m²</custom_label_0>
+    <custom_label_1>Centro</custom_label_1>
+    <custom_label_2>Rua Quinze de Novembro 2476</custom_label_2>
+    <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1324</url>
   </listing>
   <listing>
     <home_listing_id>886V-MEU</home_listing_id>
