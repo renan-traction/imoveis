@@ -608,7 +608,7 @@
     <listing_type>for_sale_by_agent</listing_type>
     <num_beds>3</num_beds>
     <num_baths>2</num_baths>
-    <price>560000 BRL</price>
+    <price>580000 BRL</price>
     <property_type>apartment</property_type>
     <custom_label_0>75m²</custom_label_0>
     <custom_label_1>Jardim Santa Paula</custom_label_1>
@@ -2793,6 +2793,41 @@
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1135</url>
   </listing>
   <listing>
+    <home_listing_id>1326L-MEU</home_listing_id>
+    <name>Galpão para Locação no Jardim Cruzeiro do Sul, São Carlos</name>
+    <title>Galpão para Locação no Jardim Cruzeiro do Sul, São Carlos</title>
+    <availability>for_rent</availability>
+    <description>GALPÃO RECÉM-REFORMADO NO JARDIM CRUZEIRO DO SUL! Se você procura um espaço amplo, funcional e pronto para receber sua empresa, esta pode ser uma excelente opção! Área aproximada: 290 m² + estacionamento. Valor: R$ 4.500,00 + IPTU O imóvel passou por reforma e revisão completa, incluindo: Iluminação Instalação elétrica com rede amplamente distribuída Instalação hidráulica Telhado e telhas revisados Estrutura preparada para uso industrial ou comercial 2 banheiros Possibilidade de divisão de novos ambientes com drywall VERSATILIDADE PARA DIFERENTES ATIVIDADES O espaço pode ser adaptado para diversos tipos de negócio, como: Oficina mecânica ou automotiva Marcenaria ou serralheria Depósito e armazenamento de mercadorias Distribuidora Loja de materiais e produtos Empresas de manutenção e assistência técnica Pequena indústria ou operação comercial Centro de logística e apoio Comércio atacadista Empresa de serviços ou representação comercial Localizado no Jardim Cruzeiro do Sul, região que reúne comércio, empresas de serviços, construção, atacado e atividades automotivas, oferecendo um ambiente já consolidado para operações comerciais. Um imóvel reformado, funcional e com potencial para você estruturar o seu negócio do seu jeito. Entre em contato com a JMartins Imóveis e agende uma visita! (16) 99798-3334 Valores, condições e disponibilidade sujeitos a alterações sem aviso prévio.</description>
+    <address format="simple">
+      <component name="addr1">Avenida Maranhão 1390</component>
+      <component name="city">São Carlos</component>
+      <component name="region">SP</component>
+    <component name="country">Brazil</component>
+      <component name="postal_code">13572390</component>
+    </address>
+    <neighborhood>Jardim Cruzeiro do Sul</neighborhood>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNEE1Mzc1N0E5RDMwNEFCN0JGNDcwQkJENDkxOUQ3MUYtZm90b3MvMWRmYzg4YTUtYjljNTk2MDE3NWMyMTRjYzBiOWM5MzZlNTFhOTQxYjkuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNEE1Mzc1N0E5RDMwNEFCN0JGNDcwQkJENDkxOUQ3MUYtZm90b3MvNjVlNTBhODQtMzc0NDNhYzhlNDBkZWNkN2YyMjE5MTFiOTI2MjVjZTkuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNEE1Mzc1N0E5RDMwNEFCN0JGNDcwQkJENDkxOUQ3MUYtZm90b3MvZDk0MjYzYjItZmFiYTk5Y2Y3MGI5ZWJmMTQ5ZDg2ZWM2NDU0NDJmYzcuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNEE1Mzc1N0E5RDMwNEFCN0JGNDcwQkJENDkxOUQ3MUYtZm90b3MvYmE1ODljMTEtNDlkOTc4MDRhMzI2YzllZDlkNzU5ZWYwZTczMjQ1ZGMuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNEE1Mzc1N0E5RDMwNEFCN0JGNDcwQkJENDkxOUQ3MUYtZm90b3MvOGEyZjI2NjItMWY5MTc3YzYzOTJiYjY4NDJlMjg2N2MyZTQxNzViNGMuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNEE1Mzc1N0E5RDMwNEFCN0JGNDcwQkJENDkxOUQ3MUYtZm90b3MvMTRhMGYxY2YtM2Y5MTJjMWYzNWNjNmIyMTUxZTFjMjQxZDYzNGJjM2EuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNEE1Mzc1N0E5RDMwNEFCN0JGNDcwQkJENDkxOUQ3MUYtZm90b3MvYjk4Nzk3ZWYtMjI0MGQ5MjUyNDdmNGI2YzA3NTFjOTlkZDlkNzgzYzguanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNEE1Mzc1N0E5RDMwNEFCN0JGNDcwQkJENDkxOUQ3MUYtZm90b3MvNjA5OTA1NzItZjZjZTNlMjZkNjdkYTkxM2ZhNjJiNWZlZjc5NWE5NzEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNEE1Mzc1N0E5RDMwNEFCN0JGNDcwQkJENDkxOUQ3MUYtZm90b3MvMjY4MWFjODQtZmQ1NjM4MmNmY2FmOWNlOTJhNTkyMzA5MDNhNzA4ZTMuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNEE1Mzc1N0E5RDMwNEFCN0JGNDcwQkJENDkxOUQ3MUYtZm90b3MvOThhNGY0MTItMjFhN2JlMmE2MzVhZjkyMDk3MTlkNTI4MWNhNmMyNGYuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNEE1Mzc1N0E5RDMwNEFCN0JGNDcwQkJENDkxOUQ3MUYtZm90b3MvNDUzNDVhMTgtZmZlOTFiYjhiYzc1MzRjMTYyYmUzOThmOTc3NmU5NmYuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <listing_type>for_rent_by_agent</listing_type>
+    <num_beds>0</num_beds>
+    <num_baths>2</num_baths>
+    <price>4500 BRL</price>
+    <property_type>other</property_type>
+    <custom_label_0>290m²</custom_label_0>
+    <custom_label_1>Jardim Cruzeiro do Sul</custom_label_1>
+    <custom_label_2>Avenida Maranhão 1390</custom_label_2>
+    <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1326</url>
+  </listing>
+  <listing>
     <home_listing_id>1255L-MEU</home_listing_id>
     <name>Ponto Comercial para Locação na Vila Prado, São Carlos</name>
     <title>Ponto Comercial para Locação na Vila Prado, São Carlos</title>
@@ -3318,6 +3353,33 @@
     <custom_label_1>Parque Fehr</custom_label_1>
     <custom_label_2>Servidão de Passagem João Deriggi 35</custom_label_2>
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1304</url>
+  </listing>
+  <listing>
+    <home_listing_id>1327V-MEU</home_listing_id>
+    <name>TERRENO AMPLO À VENDA NO PARQUE SANTA MARTA SÃO CARLOS/SP</name>
+    <title>TERRENO AMPLO À VENDA NO PARQUE SANTA MARTA SÃO CARLOS/SP</title>
+    <availability>for_sale</availability>
+    <description>Uma excelente oportunidade para quem busca espaço, localização e potencial para construir em uma das regiões de São Carlos. 445,50 m² de terreno 12 metros de frente × 37,15 metros de profundidade Com uma frente de 12 metros e mais de 445 m² de área, o terreno oferece uma ótima configuração para diferentes projetos residenciais ou para quem busca investir em uma região consolidada. Excelente aproveitamento do terreno Plano Ideal para projeto residencial ou investimento Parque Santa Marta São Carlos/SP Entre em contato com a JMartins Imóveis e saiba mais. (16) 99798-3334.</description>
+    <address format="simple">
+      <component name="addr1">Rua Nicola Di Lourenzo 400</component>
+      <component name="city">São Carlos</component>
+      <component name="region">SP</component>
+    <component name="country">Brazil</component>
+      <component name="postal_code">13564240</component>
+    </address>
+    <neighborhood>Parque Santa Marta</neighborhood>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNTRFQ0JBNUI2Qjc0NDA0MEI1QkVFOTMwMkIxRkVDRDUtZm90b3MvNDNiNTFkZjctNjRhMjUxYTMyMDc3ZjFmZTIwZjAzYWUyNTQzMzhhOTUuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNTRFQ0JBNUI2Qjc0NDA0MEI1QkVFOTMwMkIxRkVDRDUtZm90b3MvZTNlYzE5YmQtZjZjYzQyZWJiNjc4ZGI1YjliYjhlN2ZlMTZmZTdlNGQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNTRFQ0JBNUI2Qjc0NDA0MEI1QkVFOTMwMkIxRkVDRDUtZm90b3MvZGY3NmU3ZWQtMDYwZjEzZjRlNjc2NzcxZjQ2YWJlYTZjMzY0ODhkMzYuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <listing_type>for_sale_by_agent</listing_type>
+    <num_beds>0</num_beds>
+    <num_baths>0</num_baths>
+    <price>400000 BRL</price>
+    <property_type>land</property_type>
+    <custom_label_0>445m²</custom_label_0>
+    <custom_label_1>Parque Santa Marta</custom_label_1>
+    <custom_label_2>Rua Nicola Di Lourenzo 400</custom_label_2>
+    <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1327</url>
   </listing>
   <listing>
     <home_listing_id>1284L-MEU</home_listing_id>
@@ -4119,7 +4181,7 @@
     <listing_type>for_sale_by_agent</listing_type>
     <num_beds>2</num_beds>
     <num_baths>2</num_baths>
-    <price>580000 BRL</price>
+    <price>560000 BRL</price>
     <property_type>apartment</property_type>
     <custom_label_0>75m²</custom_label_0>
     <custom_label_1>Jardim Santa Paula</custom_label_1>
@@ -4154,6 +4216,12 @@
     <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNkFBOTIzNzNCM0E1NDk3NjhCQTRDOURDMTE3OTIwOEItZm90b3MvOTdkMzJmZDgtNDljYjYyMTQ2YzViNjE3OWRmN2MxOTk2ZTYxZTQxY2UuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
     <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNkFBOTIzNzNCM0E1NDk3NjhCQTRDOURDMTE3OTIwOEItZm90b3MvNWYyMTdjZDYtMWQ3NzE2MmUwZDY1YWIxZDFkMzMzMGM0YTc1M2QyMGUuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
     <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNkFBOTIzNzNCM0E1NDk3NjhCQTRDOURDMTE3OTIwOEItZm90b3MvZmM4YTJmNzAtY2NiNjc1Y2M0NWM2ODJkNjUzMmRmZmM2NGRmYmUwNGMuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNkFBOTIzNzNCM0E1NDk3NjhCQTRDOURDMTE3OTIwOEItZm90b3MvZmYyMzA0NjYtMjMzNTBjZjM4N2UyNjZjOTY3ZTk1YWEzYWRkOGYyMWUucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNkFBOTIzNzNCM0E1NDk3NjhCQTRDOURDMTE3OTIwOEItZm90b3MvMmQzMGFkNGEtMjU5ODg0YjEzNTNhNDI2ODNjMzUxNTMxMTUyMTg2NjkucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNkFBOTIzNzNCM0E1NDk3NjhCQTRDOURDMTE3OTIwOEItZm90b3MvNDJkZGVmODItODVmYTNjZTI5YjllMmE2NDYwMGM0ZWY5ZTc4NjE2OGEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNkFBOTIzNzNCM0E1NDk3NjhCQTRDOURDMTE3OTIwOEItZm90b3MvMDg5MWY3OWItN2Q2MzM1MzU2Yjk3MGNlZmYyMjQ2NmM5OGU0NWFjOWYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNkFBOTIzNzNCM0E1NDk3NjhCQTRDOURDMTE3OTIwOEItZm90b3MvMmNiOGU0NmUtYTZhZTE5OTkyNmZhNjY5ODJmMTAxZjg4NGMzYzA5ZjUucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNkFBOTIzNzNCM0E1NDk3NjhCQTRDOURDMTE3OTIwOEItZm90b3MvMzE5OWNlOTgtNDE5YmZhN2U1NTlhMThjYzlkZmNmMTZkYzM4NmFjYjIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
     <listing_type>for_rent_by_agent</listing_type>
     <num_beds>1</num_beds>
     <num_baths>1</num_baths>
