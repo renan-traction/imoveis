@@ -84,6 +84,37 @@
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/725</url>
   </listing>
   <listing>
+    <home_listing_id>1328V-MEU</home_listing_id>
+    <name>Casa 3 quartos para Venda Parque Tecnológico Damha II São Carlos, São Carlos</name>
+    <title>Casa 3 quartos para Venda Parque Tecnológico Damha II São Carlos, São Carlos</title>
+    <availability>for_sale</availability>
+    <description>Excelente oportunidade para quem busca qualidade de vida, segurança e um imóvel completo em um dos condomínios mais desejados de São Carlos. Esta casa de 3 quartos oferece ambientes planejados para proporcionar conforto e praticidade para toda a família. O destaque fica por conta da área gourmet, perfeita para receber amigos e familiares, integrada à piscina, criando um espaço ideal para momentos de lazer e descontração. Com uma proposta moderna e funcional, o imóvel proporciona uma excelente experiência de moradia, unindo ambientes aconchegantes e uma área externa pensada para aproveitar os melhores momentos em casa. Destaques do imóvel: 3 quartos; Área gourmet; Piscina; Ambientes confortáveis e funcionais; Excelente opção para famílias; Localização privilegiada no Parque Tecnológico Damha II; Condomínio com segurança e infraestrutura para proporcionar mais tranquilidade e qualidade de vida. Uma casa perfeita para quem valoriza conforto, lazer e exclusividade. Agende sua visita e venha conhecer de perto essa excelente oportunidade em São Carlos!</description>
+    <address format="simple">
+      <component name="addr1">Alameda 2 1400</component>
+      <component name="city">São Carlos</component>
+      <component name="region">SP</component>
+    <component name="country">Brazil</component>
+      <component name="postal_code">13565263</component>
+    </address>
+    <neighborhood>Parque Tecnológico Damha II São Carlos</neighborhood>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMDM5RDk4RTQyMEVBNEU1M0I5QTEzOThGNDI4RjRCNTMtZm90b3MvYzg2N2VhYTItM2U1Zjk2MjMwZmQ5OWU0OWY3ZmYyMDIzOTJkZmRkY2EucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMDM5RDk4RTQyMEVBNEU1M0I5QTEzOThGNDI4RjRCNTMtZm90b3MvODlhMzE1NzMtZmIwNmU2NmMyNGYzMGU4MWNlODMzMTE1NjAyNjlhZmQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMDM5RDk4RTQyMEVBNEU1M0I5QTEzOThGNDI4RjRCNTMtZm90b3MvZTlhNjllNmYtNjZmY2FkNjA2YjVhOTAzOGUyM2U2YWQxMWJhOTAwMTIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMDM5RDk4RTQyMEVBNEU1M0I5QTEzOThGNDI4RjRCNTMtZm90b3MvZmFkNWUxYjAtOWRiOGYzMzU4OWJlMzZiZGJhNzRmMTgyNGI4MTAyMzEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMDM5RDk4RTQyMEVBNEU1M0I5QTEzOThGNDI4RjRCNTMtZm90b3MvMGU3NTQwMmQtZThhY2I2NTcyMmExNTcyMjcwMmQ0N2VjZTgxMmNiNDUucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMDM5RDk4RTQyMEVBNEU1M0I5QTEzOThGNDI4RjRCNTMtZm90b3MvZmQ3OTcyMzYtODY1MjI4YTc2YmI5ODUzNjFlMGU3MzIwZmFiOTUyM2IucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMDM5RDk4RTQyMEVBNEU1M0I5QTEzOThGNDI4RjRCNTMtZm90b3MvZGEzM2MwYzgtMjhjNjhiOWNkZjRmMzQzMDVhZGE0ZjU3NGQyMDZiOGIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <listing_type>for_sale_by_agent</listing_type>
+    <num_beds>3</num_beds>
+    <num_baths>5</num_baths>
+    <price>2820000 BRL</price>
+    <property_type>house</property_type>
+    <custom_label_0>248m²</custom_label_0>
+    <custom_label_1>Parque Tecnológico Damha II São Carlos</custom_label_1>
+    <custom_label_2>Alameda 2 1400</custom_label_2>
+    <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1328</url>
+  </listing>
+  <listing>
     <home_listing_id>1320L-MEU</home_listing_id>
     <name>Casa 2 quartos para Locação Jardim Cruzeiro do Sul, São Carlos</name>
     <title>Casa 2 quartos para Locação Jardim Cruzeiro do Sul, São Carlos</title>
@@ -3620,6 +3651,44 @@
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1048</url>
   </listing>
   <listing>
+    <home_listing_id>48L-MEU</home_listing_id>
+    <name>Casa 2 quartos para Locação Centro, Água Vermelha</name>
+    <title>Casa 2 quartos para Locação Centro, Água Vermelha</title>
+    <availability>for_rent</availability>
+    <description>Casa para locação em Água Vermelha/SP, localizada no Centro da cidade. Imóvel com 2 quartos e 1 banheiro, oferecendo 90m² de área construída em terreno de 90m². Excelente localização no coração da cidade, proporcionando fácil acesso a comércios, serviços e transporte público. O Centro de Água Vermelha concentra a principal infraestrutura urbana do município, garantindo comodidade e praticidade no dia a dia. Imóvel ideal para quem busca moradia em região central consolidada. Valor do aluguel: R$ 750,00 mensais.</description>
+    <address format="simple">
+      <component name="addr1">Avenida Doutor Alderico Vieira Perdigão 32</component>
+      <component name="city">Água Vermelha</component>
+      <component name="region">SP</component>
+    <component name="country">Brazil</component>
+      <component name="postal_code">13578000</component>
+    </address>
+    <neighborhood>Centro</neighborhood>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNUVBOEE3NkZGQjRFNDg2OUE4MzkyOEIwMzc1NUQzQzEtZm90b3MvYWIyNmU1MDUtZWU0ZjA4M2E5NWEwMGFkYzUyNzVlOTkyN2JkZDlkYjYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNUVBOEE3NkZGQjRFNDg2OUE4MzkyOEIwMzc1NUQzQzEtZm90b3MvYTRkMzJjODEtNWM2OTcwNTE2ODU3NjlkNDA1NjQ0Mzc2OTJhMDU1MDMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNUVBOEE3NkZGQjRFNDg2OUE4MzkyOEIwMzc1NUQzQzEtZm90b3MvNmU1MThmMDctYTg1NzA3NzE0YmRjZThlOTNiM2MzM2YyYjk0NTMxMDcucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNUVBOEE3NkZGQjRFNDg2OUE4MzkyOEIwMzc1NUQzQzEtZm90b3MvMWY5ZmNkOWYtODI5NDA5OWUxYzExMzcxMWI2OGMyZmU0OWJlMWE3NzgucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNUVBOEE3NkZGQjRFNDg2OUE4MzkyOEIwMzc1NUQzQzEtZm90b3MvNTAzMjg3NWMtZjJhYzgxZTA5ZmE1NzFiOGQwMTg5MzZiYjkzNGZhNzgucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNUVBOEE3NkZGQjRFNDg2OUE4MzkyOEIwMzc1NUQzQzEtZm90b3MvZmZkOGE1YjQtMzQ5NGU4YTE2M2QwZTdjYjQ3YzQ3Yzg1ODE4N2E3NmUucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNUVBOEE3NkZGQjRFNDg2OUE4MzkyOEIwMzc1NUQzQzEtZm90b3MvMDcwODA2MjktZWFkNTE3MzBmNzk1OTQxMmI5MjI0OGJjZGU3NWIzOWIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNUVBOEE3NkZGQjRFNDg2OUE4MzkyOEIwMzc1NUQzQzEtZm90b3MvMjIwNTlmN2QtYzY3NjY1NzgxNTY5ZGY5ZGI0ODA5MjNlNTk5NjdmMTEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNUVBOEE3NkZGQjRFNDg2OUE4MzkyOEIwMzc1NUQzQzEtZm90b3MvZTBjMTdjNDEtNTJjNjYyNmEzZGE4N2NiMjgwYWUyNGIzMDhiNDA4YjQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNUVBOEE3NkZGQjRFNDg2OUE4MzkyOEIwMzc1NUQzQzEtZm90b3MvYzU2ZjUyZjgtM2E5NWQ3OTg0MjkxZWFkNDRmMTliZDE2M2IxYTAyZDAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNUVBOEE3NkZGQjRFNDg2OUE4MzkyOEIwMzc1NUQzQzEtZm90b3MvNTc1OGQwZTctOTZmNDBkOTE3Y2QxYjBlODEwYWEzMTU5NGY0MTUwMDAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNUVBOEE3NkZGQjRFNDg2OUE4MzkyOEIwMzc1NUQzQzEtZm90b3MvOGQ0OTZiM2EtZTI3MTQxZjhkNTMzMjE2MzJjNjIzMTFiZDZiOWFhMzYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNUVBOEE3NkZGQjRFNDg2OUE4MzkyOEIwMzc1NUQzQzEtZm90b3MvMjJiOWU2MmYtMjkxYTY5MTJkN2RmZmFlNjQ5ZTNmZDM0NTM5YjJhNmMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNUVBOEE3NkZGQjRFNDg2OUE4MzkyOEIwMzc1NUQzQzEtZm90b3MvOWI0ZjBhNWItNjU4NTQ1OTZiMjUzZjFiNTgzMzc4YzE1ZTRiZDRhZDAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <listing_type>for_rent_by_agent</listing_type>
+    <num_beds>2</num_beds>
+    <num_baths>1</num_baths>
+    <price>1150 BRL</price>
+    <property_type>house</property_type>
+    <custom_label_0>90m²</custom_label_0>
+    <custom_label_1>Centro</custom_label_1>
+    <custom_label_2>Avenida Doutor Alderico Vieira Perdigão 32</custom_label_2>
+    <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/48</url>
+  </listing>
+  <listing>
     <home_listing_id>1003V-MEU</home_listing_id>
     <name>Terreno Comercial para Venda Jardim Embaré, São Carlos</name>
     <title>Terreno Comercial para Venda Jardim Embaré, São Carlos</title>
@@ -5348,6 +5417,43 @@
     <custom_label_1>Vila Monteiro (Gleba I)</custom_label_1>
     <custom_label_2>Rua São Joaquim 885</custom_label_2>
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1310</url>
+  </listing>
+  <listing>
+    <home_listing_id>1329V-MEU</home_listing_id>
+    <name>Casa 4 quartos para Venda Parque Tecnológico Damha II São Carlos, São Carlos</name>
+    <title>Casa 4 quartos para Venda Parque Tecnológico Damha II São Carlos, São Carlos</title>
+    <availability>for_sale</availability>
+    <description>Excelente oportunidade para quem procura uma casa ampla, confortável e em uma das regiões mais valorizadas de São Carlos. Esta casa de 4 quartos foi pensada para oferecer praticidade, privacidade e qualidade de vida, com ambientes espaçosos e uma distribuição que proporciona conforto para toda a família. Os 4 quartos garantem espaço de sobra para acomodar a família com tranquilidade, além de possuir escritório, sala íntima ou ambiente personalizado de acordo com suas necessidades. Localizada no Parque Tecnológico Damha II, a residência está inserida em um condomínio que oferece segurança, tranquilidade e excelente infraestrutura, proporcionando o equilíbrio perfeito entre bem-estar e praticidade. Destaques do imóvel: 4 quartos; Ambientes amplos e confortáveis; Excelente distribuição dos espaços; Ideal para famílias que buscam mais espaço e privacidade; Localização privilegiada; Condomínio com segurança e infraestrutura; Excelente padrão residencial em São Carlos. Uma excelente escolha para quem deseja morar com conforto, segurança e qualidade de vida em um dos condomínios mais desejados de São Carlos. Agende sua visita e venha conhecer todos os detalhes desta excelente oportunidade!</description>
+    <address format="simple">
+      <component name="addr1">Alameda 2 1400</component>
+      <component name="city">São Carlos</component>
+      <component name="region">SP</component>
+    <component name="country">Brazil</component>
+      <component name="postal_code">13565263</component>
+    </address>
+    <neighborhood>Parque Tecnológico Damha II São Carlos</neighborhood>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tOTMxMzUzNzc4NDJFNDc4N0FEQ0Y5RkNEM0VFRjcxQ0MtZm90b3MvMTg1NTQxMjUtNzY1ODFmY2JlZGRmNjBiZTBmOTU0NGExYjc0ODFmYmYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tOTMxMzUzNzc4NDJFNDc4N0FEQ0Y5RkNEM0VFRjcxQ0MtZm90b3MvNTIwMmI0YTQtODEzMzFmNTM0MjMzM2JlYTllYjk1ZjRlYTY3YjQ3MTkucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tOTMxMzUzNzc4NDJFNDc4N0FEQ0Y5RkNEM0VFRjcxQ0MtZm90b3MvMjg5Y2QxNzItMGU2ZGNkZTc1MDZiNGEzYzAwZGM2NGFhMWI2MDk3MDgucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tOTMxMzUzNzc4NDJFNDc4N0FEQ0Y5RkNEM0VFRjcxQ0MtZm90b3MvM2I4YTdiZTktNzU5MThiNTcwNGU1MmJkNDM3ZjRlMDg1OTQ0MGU0OGEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tOTMxMzUzNzc4NDJFNDc4N0FEQ0Y5RkNEM0VFRjcxQ0MtZm90b3MvZGFmNzk3YTYtMDg4MmNkNDg1NjQwOGFhNzVkNWJkNjAyZGFmM2JkOTQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tOTMxMzUzNzc4NDJFNDc4N0FEQ0Y5RkNEM0VFRjcxQ0MtZm90b3MvOWZhZTkzM2QtMzU2MTAyOWZkZjdlZjE1YTYwZjU4NmRlZmU5M2YxMDkucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tOTMxMzUzNzc4NDJFNDc4N0FEQ0Y5RkNEM0VFRjcxQ0MtZm90b3MvYzg0MTI5OWMtMGFjY2RmNTRlMDk2NWJmYmJiZmM5YjZjNDhiYzU2MzAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tOTMxMzUzNzc4NDJFNDc4N0FEQ0Y5RkNEM0VFRjcxQ0MtZm90b3MvYzBmYThmMDQtMDRhZTUzOTBiNTE5ZDc2NTY2YTAwZmQ1MjgyZGE1ZDUucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tOTMxMzUzNzc4NDJFNDc4N0FEQ0Y5RkNEM0VFRjcxQ0MtZm90b3MvOGMyZjE3N2YtZGNjNTdlNjk4OWM5ZjhjZGFhNDJlODFhNzkwMzMxMzgucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tOTMxMzUzNzc4NDJFNDc4N0FEQ0Y5RkNEM0VFRjcxQ0MtZm90b3MvMjFmMThiMGMtODlkYTE3MjViMjVjYjQ5MDYzNmJmOGMzYmMxNzhjNzkucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tOTMxMzUzNzc4NDJFNDc4N0FEQ0Y5RkNEM0VFRjcxQ0MtZm90b3MvYmYzYWRkNmYtYzkyMDYxYjEzMTczZjFjMzBkYjIyZjk2M2M5ZGI2NTIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tOTMxMzUzNzc4NDJFNDc4N0FEQ0Y5RkNEM0VFRjcxQ0MtZm90b3MvMzJmYjkyMDMtZWQwNTA5NzI3MDA4MjVmNTY2ZmEwM2JlNjVlYzFhNzgucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tOTMxMzUzNzc4NDJFNDc4N0FEQ0Y5RkNEM0VFRjcxQ0MtZm90b3MvOTM5OGIxYWEtZGU5YTE0ZGYyNjk3ZGJhMTBmYzMyMmNhZmZkYzIxOGUucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <listing_type>for_sale_by_agent</listing_type>
+    <num_beds>4</num_beds>
+    <num_baths>6</num_baths>
+    <price>3200000 BRL</price>
+    <property_type>house</property_type>
+    <custom_label_0>359m²</custom_label_0>
+    <custom_label_1>Parque Tecnológico Damha II São Carlos</custom_label_1>
+    <custom_label_2>Alameda 2 1400</custom_label_2>
+    <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1329</url>
   </listing>
   <listing>
     <home_listing_id>1141V-MEU</home_listing_id>
@@ -8621,7 +8727,7 @@
     <listing_type>for_sale_by_agent</listing_type>
     <num_beds>0</num_beds>
     <num_baths>0</num_baths>
-    <price>1800000 BRL</price>
+    <price>1670000 BRL</price>
     <property_type>other</property_type>
     <custom_label_0>208m²</custom_label_0>
     <custom_label_1>Vila Monteiro (Gleba I)</custom_label_1>
