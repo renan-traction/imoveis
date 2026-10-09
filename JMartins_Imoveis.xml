@@ -76,7 +76,7 @@
     <listing_type>for_rent_by_agent</listing_type>
     <num_beds>3</num_beds>
     <num_baths>2</num_baths>
-    <price>3100 BRL</price>
+    <price>3190 BRL</price>
     <property_type>house</property_type>
     <custom_label_0>130m²</custom_label_0>
     <custom_label_1>Parque Santa Felícia Jardim</custom_label_1>
@@ -1080,6 +1080,42 @@
     <custom_label_1>Jardim Macarenco</custom_label_1>
     <custom_label_2>Rua Dom Pedro II 660</custom_label_2>
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/927</url>
+  </listing>
+  <listing>
+    <home_listing_id>603L-MEU</home_listing_id>
+    <name>Apartamento 2 quartos para Locação Jardim Dona Francisca, São Carlos</name>
+    <title>Apartamento 2 quartos para Locação Jardim Dona Francisca, São Carlos</title>
+    <availability>for_rent</availability>
+    <description>A união perfeita entre a tranquilidade do Jardim Dona Francisca e a conveniência de ter uma das avenidas mais completas de São Carlos ao seu lado. Apresentamos este excelente apartamento de 2 quartos, ideal para quem busca praticidade no dia a dia, seja para morar com conforto ou para fazer um investimento seguro em uma região com altíssima procura. O grande diferencial deste imóvel é a sua localização estratégica. Estando a poucos metros da Avenida Getúlio Vargas, você terá acesso rápido e fácil a supermercados, padarias, farmácias, academias, bancos e transporte público, além de uma excelente conexão com o Centro da cidade e a Rodovia. Destaques do Imóvel: 2 Quartos confortáveis e com ótima iluminação natural. Planta Dinâmica: Ambientes bem distribuídos e fáceis de manter. Mobilidade: Excelente logística para quem precisa se deslocar rapidamente por São Carlos. Aproveite a oportunidade de adquirir um imóvel com excelente liquidez e em uma das localizações mais práticas da cidade. Agende agora mesmo a sua visita e venha conhecer o seu próximo endereço!</description>
+    <address format="simple">
+      <component name="addr1">Rua Roberto Martinez 647</component>
+      <component name="city">São Carlos</component>
+      <component name="region">SP</component>
+    <component name="country">Brazil</component>
+      <component name="postal_code">13571010</component>
+    </address>
+    <neighborhood>Jardim Dona Francisca</neighborhood>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTlEMjkxRkM5MjlFNDVGOEE0MkRGRUI4REFBQjYwNUYtZm90b3MvZjliN2MyZTAtY2E0M2MyOGNlNGIwNGZhYjRjYWRjOWE4OGZlMzQzNmMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTlEMjkxRkM5MjlFNDVGOEE0MkRGRUI4REFBQjYwNUYtZm90b3MvYTVhMGUwM2MtY2Q1YTI2NGUyNmYwMmU2M2UyMDk5YjZlZTQ5ZTMzMDYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTlEMjkxRkM5MjlFNDVGOEE0MkRGRUI4REFBQjYwNUYtZm90b3MvZjY2NzhiMzAtN2QxNDFjNWJmZGUzYzdlNDk1ODUzYjNmNDc0ZTBjMDgucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTlEMjkxRkM5MjlFNDVGOEE0MkRGRUI4REFBQjYwNUYtZm90b3MvYjQ3ZTlhMDUtM2Y0NjljYmM3YjcxMWE0MzZiMWQyOGI5NjNiZDFlNWEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTlEMjkxRkM5MjlFNDVGOEE0MkRGRUI4REFBQjYwNUYtZm90b3MvNzJlMTUyYjAtM2Y4OGFjM2Y0NDI1MmJhMjZlY2UzMjgzZjA5NTZkNzIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTlEMjkxRkM5MjlFNDVGOEE0MkRGRUI4REFBQjYwNUYtZm90b3MvOTM1ZDdhMTEtYzBjZDAzMWJiZjI3NjBlNDEzYTBlN2FiOTQ0MjYwOGMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTlEMjkxRkM5MjlFNDVGOEE0MkRGRUI4REFBQjYwNUYtZm90b3MvZWVhODJhM2ItMDVlYzIyZjMwNjhlNzdlZjllMmYxNTAxOTU4MmFhMWYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTlEMjkxRkM5MjlFNDVGOEE0MkRGRUI4REFBQjYwNUYtZm90b3MvZDk3Y2M3MjYtMTliODRkZDM3ODc1MDcyODMwZDIzZmFhNDhmMDA3NmEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTlEMjkxRkM5MjlFNDVGOEE0MkRGRUI4REFBQjYwNUYtZm90b3MvYjBhMDlkMmItMTg1ZDQyZWI1Y2U5MjY5MzVlN2I0N2EwZTBlZmY0MjgucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTlEMjkxRkM5MjlFNDVGOEE0MkRGRUI4REFBQjYwNUYtZm90b3MvNDhmOTQzODUtYWU2OGQ4YmIzMzYzNjAwMDRmYmFiMTI3ODBjYTgxM2YucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTlEMjkxRkM5MjlFNDVGOEE0MkRGRUI4REFBQjYwNUYtZm90b3MvNzViMDc5NDktZDQ4NDhkMjQ4NzNiODFhYWZjMDJjZTViYmM0MWQyZTMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTlEMjkxRkM5MjlFNDVGOEE0MkRGRUI4REFBQjYwNUYtZm90b3MvZDkyZTg0ZDgtOTVmYjI0Nzc4ZjFmNWNjMWVmNzcxZDMyNWE5M2U4MDQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <listing_type>for_rent_by_agent</listing_type>
+    <num_beds>2</num_beds>
+    <num_baths>1</num_baths>
+    <price>1490 BRL</price>
+    <property_type>apartment</property_type>
+    <custom_label_0>50m²</custom_label_0>
+    <custom_label_1>Jardim Dona Francisca</custom_label_1>
+    <custom_label_2>Rua Roberto Martinez 647</custom_label_2>
+    <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/603</url>
   </listing>
   <listing>
     <home_listing_id>1107V-MEU</home_listing_id>
@@ -4470,6 +4506,39 @@
     <custom_label_1>Santa Felícia</custom_label_1>
     <custom_label_2>Rua Danilo Micalli 50</custom_label_2>
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1281</url>
+  </listing>
+  <listing>
+    <home_listing_id>1339V-MEU</home_listing_id>
+    <name>Apartamento 2 quartos para Venda Vila Pelicano, São Carlos</name>
+    <title>Apartamento 2 quartos para Venda Vila Pelicano, São Carlos</title>
+    <availability>for_sale</availability>
+    <description>A combinação exata entre a tranquilidade de um bairro residencial e o acesso imediato a uma das vias mais importantes de São Carlos. Este apartamento de 2 quartos na Vila Pelicano é a opção ideal para quem busca morar com praticidade ou investir em uma região de alta liquidez. A proximidade com a Avenida Getúlio Vargas coloca você a poucos passos de supermercados, farmácias, restaurantes, academias e de toda a infraestrutura comercial necessária para um dia a dia sem complicações. Destaques do Imóvel: 2 Quartos: Ambientes confortáveis e com excelente iluminação natural. Localização Estratégica: Acesso rápido ao Centro, universidades e rodovias pela facilidade logística da Av. Getúlio Vargas. Planta Funcional: Integração inteligente entre sala e cozinha, otimizando o espaço e a convivência. Uma oportunidade excelente para adquirir um imóvel bem posicionado, com alto potencial de valorização e pronto para receber a sua família.</description>
+    <address format="simple">
+      <component name="addr1">Rua Roberto Simonsen 2000</component>
+      <component name="city">São Carlos</component>
+      <component name="region">SP</component>
+    <component name="country">Brazil</component>
+      <component name="postal_code">13574022</component>
+    </address>
+    <neighborhood>Vila Pelicano</neighborhood>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNkRGNDc3RTVENTI3NEQ5OTg4OEMwOUExRDY4Q0RBRDAtZm90b3MvODI3NmJiZTYtM2Y4MjBkZjNjZWM3NzE4ZTU5Nzc0YjcxMmQwOGRkOGMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNkRGNDc3RTVENTI3NEQ5OTg4OEMwOUExRDY4Q0RBRDAtZm90b3MvZjhjOGFiZGEtYTJkMzFlYzNlMjJlNGExMjRkMGU1ODI3N2Q5MWVjNjMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNkRGNDc3RTVENTI3NEQ5OTg4OEMwOUExRDY4Q0RBRDAtZm90b3MvNWM0OTc2YWEtZmIzOTE2NGI1YzJmYzk0ZDc2Mzg0NjJlM2VmNTNmMDUucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNkRGNDc3RTVENTI3NEQ5OTg4OEMwOUExRDY4Q0RBRDAtZm90b3MvNjU0Y2VkNjUtNjBiMmFhOTIzZTQ5YTYyNDI0OTU5YmIxMzNkYjAxOTEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNkRGNDc3RTVENTI3NEQ5OTg4OEMwOUExRDY4Q0RBRDAtZm90b3MvNDI5YWU1ZjQtYTk2NTBkYTZhOTdmODZjOGUzYjU2ODE4Njg5YTU0ZDQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNkRGNDc3RTVENTI3NEQ5OTg4OEMwOUExRDY4Q0RBRDAtZm90b3MvNGE5MWM2NjYtNDdmZGNmYjU4YzU0Mzc1ZmNkMzc5NTk0Zjk4MWNmOWYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNkRGNDc3RTVENTI3NEQ5OTg4OEMwOUExRDY4Q0RBRDAtZm90b3MvYjUyZmE0MjQtYmY0YmUwMDZiY2JiMzJkOGMxNTE0ODZhYjY2YjE5YjAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNkRGNDc3RTVENTI3NEQ5OTg4OEMwOUExRDY4Q0RBRDAtZm90b3MvYTdkYjIwYTUtY2UwNTgyZDA1YmRiZjY3YzkwMjkyMzA5ZWNkMjU3YjMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNkRGNDc3RTVENTI3NEQ5OTg4OEMwOUExRDY4Q0RBRDAtZm90b3MvYzg0NGRhMTItYWY3NDU4YmRjYzJiOWIyZGNhYjAxNDdjODhhNmY3OGUucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <listing_type>for_sale_by_agent</listing_type>
+    <num_beds>2</num_beds>
+    <num_baths>1</num_baths>
+    <price>250000 BRL</price>
+    <property_type>apartment</property_type>
+    <custom_label_0>56m²</custom_label_0>
+    <custom_label_1>Vila Pelicano</custom_label_1>
+    <custom_label_2>Rua Roberto Simonsen 2000</custom_label_2>
+    <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1339</url>
   </listing>
   <listing>
     <home_listing_id>1228V-MEU</home_listing_id>
@@ -9092,6 +9161,39 @@
     <custom_label_1>Jardim Ipanema</custom_label_1>
     <custom_label_2>Avenida Otto Werner Rosel 340</custom_label_2>
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1236</url>
+  </listing>
+  <listing>
+    <home_listing_id>1340V-MEU</home_listing_id>
+    <name>Salão Comercial 1 quarto para Venda Jardim Nova São Carlos, São Carlos</name>
+    <title>Salão Comercial 1 quarto para Venda Jardim Nova São Carlos, São Carlos</title>
+    <availability>for_sale</availability>
+    <description>Excelente oportunidade para quem busca um espaço amplo, versátil e com grande potencial para diferentes tipos de atividades comerciais. O imóvel possui uma sala ampla e espaçosa, proporcionando um ambiente aberto e com excelente aproveitamento da área. Sua estrutura permite diversas possibilidades de utilização, podendo ser adaptada para comércio, escritório, salão para eventos, academia, espaço para cursos, centro de atendimento, depósito, instituição religiosa, entre outras atividades, conforme as necessidades do comprador e a legislação aplicável. Um imóvel com ótimo potencial de adaptação e investimento, ideal para quem procura um espaço amplo para instalar ou expandir seu negócio. Entre em contato para mais informações e agende uma visita!</description>
+    <address format="simple">
+      <component name="addr1">Rua Antônio Masselli 820</component>
+      <component name="city">São Carlos</component>
+      <component name="region">SP</component>
+    <component name="country">Brazil</component>
+      <component name="postal_code">13570110</component>
+    </address>
+    <neighborhood>Jardim Nova São Carlos</neighborhood>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRUM1ODBFODA5ODJFNDUzNEI4ODNGMjIzNzU5N0ExMTktZm90b3MvOTM5MWM0ZWYtNDc4Mjg2NGJlYjgzMWMwMTkzZGY4MWQ3YTY2YjFlNDIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRUM1ODBFODA5ODJFNDUzNEI4ODNGMjIzNzU5N0ExMTktZm90b3MvNTg1NTc1MmMtMzg4MjA5YzY1YzllMDk3MmQ4MGI1NzM2MGY0ZGVhNTMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRUM1ODBFODA5ODJFNDUzNEI4ODNGMjIzNzU5N0ExMTktZm90b3MvZDU4MWRhNzMtYTQxZjIxNDEzYTRiZjkwYmU2ZjEzY2UwNzMzZTMxZmYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRUM1ODBFODA5ODJFNDUzNEI4ODNGMjIzNzU5N0ExMTktZm90b3MvMGRjMjJhN2MtNmE5YTQ5YTgxODM5YTRkYTVlNjY3NGZhMmQxNmNmYTEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRUM1ODBFODA5ODJFNDUzNEI4ODNGMjIzNzU5N0ExMTktZm90b3MvOTFkMWQwMWMtMzVjODBiNWE1Njg5YjlmZjA0MTM2Yzc5YzFmNjFhMjgucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRUM1ODBFODA5ODJFNDUzNEI4ODNGMjIzNzU5N0ExMTktZm90b3MvMmI3ZjZiYTAtNDA3ZTZmNTAxNzgyYzU1ZDA2MGRlN2IwNzZlOWVjYWYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRUM1ODBFODA5ODJFNDUzNEI4ODNGMjIzNzU5N0ExMTktZm90b3MvNjFmMTlkZGItNjY2YmI2MDAzNGY2NDEwNjA5MTA4ZTNlMmQ2ZDYzYWYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRUM1ODBFODA5ODJFNDUzNEI4ODNGMjIzNzU5N0ExMTktZm90b3MvZmYyYWViYTUtYmZlMTk0Zjg2YjhiNmY4OTgxNDdhOGMxNGI5NWZhNGMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRUM1ODBFODA5ODJFNDUzNEI4ODNGMjIzNzU5N0ExMTktZm90b3MvOTcwY2Q2NWUtZDE4NmEyODhlY2Q2NTNhNWJhNGZhYWRjNTAzMzkxNmQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <listing_type>for_sale_by_agent</listing_type>
+    <num_beds>1</num_beds>
+    <num_baths>2</num_baths>
+    <price>438000 BRL</price>
+    <property_type>other</property_type>
+    <custom_label_0>205m²</custom_label_0>
+    <custom_label_1>Jardim Nova São Carlos</custom_label_1>
+    <custom_label_2>Rua Antônio Masselli 820</custom_label_2>
+    <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1340</url>
   </listing>
   <listing>
     <home_listing_id>1330V-MEU</home_listing_id>
