@@ -2,6 +2,100 @@
 <listings>
   <title>Brasil Brokers - Imóveis prontos</title>
   <listing>
+    <home_listing_id>2016334</home_listing_id>
+    <name>ÓTIMO APARTAMENTO DE 1 QUARTOS A 100 METROS DA PRAIA DA BICA</name>
+    <title>ÓTIMO APARTAMENTO DE 1 QUARTOS A 100 METROS DA PRAIA DA BICA</title>
+    <availability>for_sale</availability>
+    <description>COD 2016334 - Apartamento de 1 quarto à venda no Jardim Guanabara, Rio de Janeiro, com excelente custo-benefício e localização privilegiada. Com 45 m² de área total e útil, o imóvel oferece 1 quarto, sala, cozinha, banheiro social e 1 vaga de garagem coberta. Situado na Rua Uça, próximo à Rua Cambaúba e à Praia da Bica, o apartamento proporciona praticidade e qualidade de vida, com fácil acesso a comércio, transporte, serviços e diversas facilidades do bairro. O condomínio conta com churrasqueira, criando um ambiente agradável para momentos de lazer e confraternização. O baixo custo condominial, de apenas R$ 350, já inclui água e gás, tornando esta uma ótima oportunidade para morar ou investir. Imóvel pronto para morar no Jardim Guanabara. Agende sua visita e venha conhecer esta excelente oportunidade. Entre em contato com o anunciante e saiba mais.</description>
+    <address format="simple">
+      <component name="addr1">Rua Uca 636</component>
+      <component name="city">Rio de Janeiro</component>
+      <component name="region">RJ</component>
+    <component name="country">Brazil</component>
+      <component name="postal_code">21940-480</component>
+    </address>
+    <latitude>-22.8172944</latitude>
+    <longitude>-43.2028032</longitude>
+    <neighborhood>Jardim Guanabara</neighborhood>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556305/2016334/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556307/2016334/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556304/2016334/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556300/2016334/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556298/2016334/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556314/2016334/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556319/2016334/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556299/2016334/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556321/2016334/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556316/2016334/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556306/2016334/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556320/2016334/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556315/2016334/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556301/2016334/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556302/2016334/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556303/2016334/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556312/2016334/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556317/2016334/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556313/2016334/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556318/2016334/1080/768/foto.jpg</url></image>
+    <listing_type>for_sale_by_agent</listing_type>
+    <num_beds>1</num_beds>
+    <num_baths>1</num_baths>
+    <price>299000 BRL</price>
+    <property_type>apartment</property_type>
+    <custom_label_0>45m²</custom_label_0>
+    <custom_label_1>Jardim Guanabara</custom_label_1>
+    <custom_label_2>Rua Uca 636</custom_label_2>
+    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2016334</url>
+    <year_built>1971</year_built>
+  </listing>
+  <listing>
+    <home_listing_id>2015618</home_listing_id>
+    <name>Apartamento reformado, 2 quartos , vista livre, com vaga</name>
+    <title>Apartamento reformado, 2 quartos , vista livre, com vaga</title>
+    <availability>for_sale</availability>
+    <description>COD 2015618 - Brasil Brokers vende! Aparatamento 2 quartos, banheiro social, cozinha com armários planejados, área de serviço e 1 vaga de garagem no condomínio. Apartamento de fundos, silencioso, e vista livre. O apartamento passou por reforma, conta com teto rebaixado em gesso, iluminação indireta, porcelanato, cozinha modernizada e banheiro atualizado. O prédio dispõe de elevadores e portaria em horario comercial. Apartamento localizado a uma quadra da Avenida Boulevard 28 de Setembro, próximo ao Shopping Boulevard Rio, Praça Barão de Drumond (Praça Sete), comércio, serviços e transporte público Preços, condições e disponibilidade dos imóveis anunciados estão sujeitos a alteração e confirmação. Agende sua visita</description>
+    <address format="simple">
+      <component name="addr1">Rua Torres Homem 761</component>
+      <component name="city">Rio de Janeiro</component>
+      <component name="region">RJ</component>
+    <component name="country">Brazil</component>
+      <component name="postal_code">20551-070</component>
+    </address>
+    <latitude>-22.914542</latitude>
+    <longitude>-43.248923</longitude>
+    <neighborhood>Vila Isabel</neighborhood>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530105/2015618/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530118/2015618/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530119/2015618/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530125/2015618/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530123/2015618/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530104/2015618/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530106/2015618/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530127/2015618/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530112/2015618/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530126/2015618/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530131/2015618/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530108/2015618/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530130/2015618/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530132/2015618/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530129/2015618/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530128/2015618/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530116/2015618/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530107/2015618/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530120/2015618/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530121/2015618/1080/768/foto.jpg</url></image>
+    <listing_type>for_sale_by_agent</listing_type>
+    <num_beds>2</num_beds>
+    <num_baths>1</num_baths>
+    <price>254990 BRL</price>
+    <property_type>apartment</property_type>
+    <custom_label_0>64m²</custom_label_0>
+    <custom_label_1>Vila Isabel</custom_label_1>
+    <custom_label_2>Rua Torres Homem 761</custom_label_2>
+    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2015618</url>
+    <year_built>1972</year_built>
+  </listing>
+  <listing>
     <home_listing_id>2007671</home_listing_id>
     <name>Casa de condomínio 3 quartos à venda no Méier - Rio de Janeiro/RJ</name>
     <title>Casa de condomínio 3 quartos à venda no Méier - Rio de Janeiro/RJ</title>
@@ -46653,53 +46747,6 @@
     <year_built>2001</year_built>
   </listing>
   <listing>
-    <home_listing_id>2016334</home_listing_id>
-    <name>ÓTIMO APARTAMENTO DE 1 QUARTOS A 100 METROS DA PRAIA DA BICA</name>
-    <title>ÓTIMO APARTAMENTO DE 1 QUARTOS A 100 METROS DA PRAIA DA BICA</title>
-    <availability>for_sale</availability>
-    <description>COD 2016334 - Apartamento de 1 quarto à venda no Jardim Guanabara, Rio de Janeiro, com excelente custo-benefício e localização privilegiada. Com 45 m² de área total e útil, o imóvel oferece 1 quarto, sala, cozinha, banheiro social e 1 vaga de garagem coberta. Situado na Rua Uça, próximo à Rua Cambaúba e à Praia da Bica, o apartamento proporciona praticidade e qualidade de vida, com fácil acesso a comércio, transporte, serviços e diversas facilidades do bairro. O condomínio conta com churrasqueira, criando um ambiente agradável para momentos de lazer e confraternização. O baixo custo condominial, de apenas R$ 350, já inclui água e gás, tornando esta uma ótima oportunidade para morar ou investir. Imóvel pronto para morar no Jardim Guanabara. Agende sua visita e venha conhecer esta excelente oportunidade. Entre em contato com o anunciante e saiba mais.</description>
-    <address format="simple">
-      <component name="addr1">Rua Uca 636</component>
-      <component name="city">Rio de Janeiro</component>
-      <component name="region">RJ</component>
-    <component name="country">Brazil</component>
-      <component name="postal_code">21940-480</component>
-    </address>
-    <latitude>-22.8172944</latitude>
-    <longitude>-43.2028032</longitude>
-    <neighborhood>Jardim Guanabara</neighborhood>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556305/2016334/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556307/2016334/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556304/2016334/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556300/2016334/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556298/2016334/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556314/2016334/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556319/2016334/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556299/2016334/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556321/2016334/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556316/2016334/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556306/2016334/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556320/2016334/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556315/2016334/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556301/2016334/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556302/2016334/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556303/2016334/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556312/2016334/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556317/2016334/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556313/2016334/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1556318/2016334/1080/768/foto.jpg</url></image>
-    <listing_type>for_sale_by_agent</listing_type>
-    <num_beds>1</num_beds>
-    <num_baths>1</num_baths>
-    <price>320000 BRL</price>
-    <property_type>apartment</property_type>
-    <custom_label_0>45m²</custom_label_0>
-    <custom_label_1>Jardim Guanabara</custom_label_1>
-    <custom_label_2>Rua Uca 636</custom_label_2>
-    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2016334</url>
-    <year_built>1971</year_built>
-  </listing>
-  <listing>
     <home_listing_id>2016370</home_listing_id>
     <name>Apartamanto tipo casa com varanda, 2 vagas em condominio fechado junto a floresta da Tijuca</name>
     <title>Apartamanto tipo casa com varanda, 2 vagas em condominio fechado junto a floresta da Tijuca</title>
@@ -58738,53 +58785,6 @@
     <custom_label_2>Rua Mário Piragibe 28</custom_label_2>
     <url>https://www.brasilbrokers.com.br/prontos/-/-/-/862230</url>
     <year_built>1980</year_built>
-  </listing>
-  <listing>
-    <home_listing_id>2015618</home_listing_id>
-    <name>Apartamento reformado, 2 quartos , vista livre, com vaga</name>
-    <title>Apartamento reformado, 2 quartos , vista livre, com vaga</title>
-    <availability>for_sale</availability>
-    <description>COD 2015618 - Brasil Brokers vende! Aparatamento 2 quartos, banheiro social, cozinha com armários planejados, área de serviço e 1 vaga de garagem no condomínio. Apartamento de fundos, silencioso, e vista livre. O apartamento passou por reforma, conta com teto rebaixado em gesso, iluminação indireta, porcelanato, cozinha modernizada e banheiro atualizado. O prédio dispõe de elevadores e portaria em horario comercial. Apartamento localizado a uma quadra da Avenida Boulevard 28 de Setembro, próximo ao Shopping Boulevard Rio, Praça Barão de Drumond (Praça Sete), comércio, serviços e transporte público Preços, condições e disponibilidade dos imóveis anunciados estão sujeitos a alteração e confirmação. Agende sua visita</description>
-    <address format="simple">
-      <component name="addr1">Rua Torres Homem 761</component>
-      <component name="city">Rio de Janeiro</component>
-      <component name="region">RJ</component>
-    <component name="country">Brazil</component>
-      <component name="postal_code">20551-070</component>
-    </address>
-    <latitude>-22.914542</latitude>
-    <longitude>-43.248923</longitude>
-    <neighborhood>Vila Isabel</neighborhood>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530105/2015618/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530118/2015618/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530119/2015618/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530125/2015618/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530123/2015618/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530104/2015618/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530106/2015618/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530127/2015618/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530112/2015618/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530126/2015618/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530131/2015618/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530108/2015618/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530130/2015618/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530132/2015618/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530129/2015618/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530128/2015618/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530116/2015618/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530107/2015618/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530120/2015618/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1530121/2015618/1080/768/foto.jpg</url></image>
-    <listing_type>for_sale_by_agent</listing_type>
-    <num_beds>2</num_beds>
-    <num_baths>1</num_baths>
-    <price>280000 BRL</price>
-    <property_type>apartment</property_type>
-    <custom_label_0>64m²</custom_label_0>
-    <custom_label_1>Vila Isabel</custom_label_1>
-    <custom_label_2>Rua Torres Homem 761</custom_label_2>
-    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2015618</url>
-    <year_built>1972</year_built>
   </listing>
   <listing>
     <home_listing_id>2015815</home_listing_id>
