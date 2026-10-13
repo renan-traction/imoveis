@@ -2,6 +2,100 @@
 <listings>
   <title>Brasil Brokers - Imóveis prontos</title>
   <listing>
+    <home_listing_id>2015070</home_listing_id>
+    <name>Apartamento 2 quartos com dependência à venda no Méier - Rio de Janeiro</name>
+    <title>Apartamento 2 quartos com dependência à venda no Méier - Rio de Janeiro</title>
+    <availability>for_sale</availability>
+    <description>COD 2015070 - Imóvel com planta bem distribuída, claro e bem ventilado. Foi totalmente reformado. Sala, dois quartos, banheiro social amplo e cozinha com dependência revertida, proporcionando mais versatilidade para atender às necessidades da sua família, seja como área de serviço ampliada, escritório ou espaço de apoio. Play com espaço para confraternizações com churrasqueira a carvão. Localizado em uma região estratégica, está próximo ao centro do Méier, com fácil acesso a uma ampla variedade de comércios, serviços, escolas, bancos e opções de transporte público, garantindo mais comodidade e praticidade para o dia a dia. Documentação em ordem. Aceita financiamento e FGTS. Entre em contato para mais informações e/ou agendar uma visita.</description>
+    <address format="simple">
+      <component name="addr1">Rua Vinte e Quatro de Maio 1265</component>
+      <component name="city">Rio de Janeiro</component>
+      <component name="region">RJ</component>
+    <component name="country">Brazil</component>
+      <component name="postal_code">20725-001</component>
+    </address>
+    <latitude>-22.9047785</latitude>
+    <longitude>-43.2747201</longitude>
+    <neighborhood>Méier</neighborhood>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507864/2015070/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507865/2015070/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507866/2015070/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507867/2015070/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507868/2015070/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507869/2015070/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507870/2015070/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507871/2015070/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507872/2015070/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507873/2015070/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507874/2015070/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507875/2015070/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507876/2015070/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507877/2015070/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507878/2015070/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507879/2015070/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507880/2015070/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507881/2015070/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507882/2015070/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507883/2015070/1080/768/foto.jpg</url></image>
+    <listing_type>for_sale_by_agent</listing_type>
+    <num_beds>2</num_beds>
+    <num_baths>1</num_baths>
+    <price>230000 BRL</price>
+    <property_type>apartment</property_type>
+    <custom_label_0>66m²</custom_label_0>
+    <custom_label_1>Méier</custom_label_1>
+    <custom_label_2>Rua Vinte e Quatro de Maio 1265</custom_label_2>
+    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2015070</url>
+    <year_built>1972</year_built>
+  </listing>
+  <listing>
+    <home_listing_id>2014938</home_listing_id>
+    <name>Pronto para Morar: 3 Quartos (Suíte), 138m², 2 Vagas e Infra Total em Rua Fechada na Tijuca</name>
+    <title>Pronto para Morar: 3 Quartos (Suíte), 138m², 2 Vagas e Infra Total em Rua Fechada na Tijuca</title>
+    <availability>for_sale</availability>
+    <description>COD 2014938 - Procurando o equilíbrio perfeito entre a tranquilidade de uma rua reservada e o espaço que sua família merece? Descubra este espetacular apartamento de 138 m² no coração da Tijuca, localizado em uma das poucas ruas do bairro que oferece a exclusividade de uma guarita com segurança 24 horas. Aqui, o sossego e a proteção começam antes mesmo de você entrar no prédio. Imagine morar em um verdadeiro clube privativo, onde o tédio não tem vez. O condomínio dispõe de uma infraestrutura de lazer impecável com portaria 24 horas, piscina, sauna relaxante, churrasqueira para os momentos em família e um amplo salão de festas para celebrar as grandes conquistas. Além disso, o imóvel conta com 2 vagas de garagem cobertas e demarcadas na escritura, garantindo total comodidade no seu dia a dia. Ao abrir a porta, você é recebido por uma sala imensa, inundada por luz natural, que se conecta harmonicamente a uma varanda generosa — o cenário ideal para o seu café da manhã ou para receber os amigos. A área íntima é composta por 3 quartos espaçosos, sendo 1 suíte master que conta com sua própria varanda privativa, oferecendo um refúgio particular para os seus dias mais longos. Para quem não abre mão da funcionalidade, a cozinha é enorme e já vem repleta de armários, integrada a uma excelente área de serviço e dependência completa de empregada. É o espaço definitivo, onde cada metro quadrado foi pensado para o seu bem-estar. Imóveis com essa metragem, segurança dupla e lazer completo são raridades na Tijuca e não ficam muito tempo no mercado. 📞 Não perca essa oportunidade única!</description>
+    <address format="simple">
+      <component name="addr1">Rua Fernandes Figueira 55</component>
+      <component name="city">Rio de Janeiro</component>
+      <component name="region">RJ</component>
+    <component name="country">Brazil</component>
+      <component name="postal_code">20550-110</component>
+    </address>
+    <latitude>-22.922470</latitude>
+    <longitude>-43.229172</longitude>
+    <neighborhood>Tijuca</neighborhood>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503237/2014938/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503229/2014938/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503230/2014938/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503232/2014938/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503231/2014938/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503222/2014938/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503223/2014938/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503225/2014938/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503228/2014938/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503226/2014938/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503227/2014938/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503233/2014938/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503224/2014938/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503220/2014938/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503218/2014938/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503217/2014938/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503221/2014938/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503215/2014938/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503214/2014938/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503216/2014938/1080/768/foto.jpg</url></image>
+    <listing_type>for_sale_by_agent</listing_type>
+    <num_beds>3</num_beds>
+    <num_baths>2</num_baths>
+    <price>700000 BRL</price>
+    <property_type>apartment</property_type>
+    <custom_label_0>138m²</custom_label_0>
+    <custom_label_1>Tijuca</custom_label_1>
+    <custom_label_2>Rua Fernandes Figueira 55</custom_label_2>
+    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2014938</url>
+    <year_built>1991</year_built>
+  </listing>
+  <listing>
     <home_listing_id>2016334</home_listing_id>
     <name>ÓTIMO APARTAMENTO DE 1 QUARTOS A 100 METROS DA PRAIA DA BICA</name>
     <title>ÓTIMO APARTAMENTO DE 1 QUARTOS A 100 METROS DA PRAIA DA BICA</title>
@@ -4027,53 +4121,6 @@
     <custom_label_2>Rua Maria Lópes 701</custom_label_2>
     <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2014624</url>
     <year_built>2023</year_built>
-  </listing>
-  <listing>
-    <home_listing_id>2015070</home_listing_id>
-    <name>Apartamento 2 quartos com dependência à venda no Méier - Rio de Janeiro</name>
-    <title>Apartamento 2 quartos com dependência à venda no Méier - Rio de Janeiro</title>
-    <availability>for_sale</availability>
-    <description>COD 2015070 - Imóvel com planta bem distribuída, claro e bem ventilado. Foi totalmente reformado. Sala, dois quartos, banheiro social amplo e cozinha com dependência revertida, proporcionando mais versatilidade para atender às necessidades da sua família, seja como área de serviço ampliada, escritório ou espaço de apoio. Play com espaço para confraternizações com churrasqueira a carvão. Localizado em uma região estratégica, está próximo ao centro do Méier, com fácil acesso a uma ampla variedade de comércios, serviços, escolas, bancos e opções de transporte público, garantindo mais comodidade e praticidade para o dia a dia. Documentação em ordem. Aceita financiamento e FGTS. Entre em contato para mais informações e/ou agendar uma visita.</description>
-    <address format="simple">
-      <component name="addr1">Rua Vinte e Quatro de Maio 1265</component>
-      <component name="city">Rio de Janeiro</component>
-      <component name="region">RJ</component>
-    <component name="country">Brazil</component>
-      <component name="postal_code">20725-001</component>
-    </address>
-    <latitude>-22.9047785</latitude>
-    <longitude>-43.2747201</longitude>
-    <neighborhood>Méier</neighborhood>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507864/2015070/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507865/2015070/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507866/2015070/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507867/2015070/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507868/2015070/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507869/2015070/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507870/2015070/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507871/2015070/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507872/2015070/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507873/2015070/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507874/2015070/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507875/2015070/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507876/2015070/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507877/2015070/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507878/2015070/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507879/2015070/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507880/2015070/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507881/2015070/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507882/2015070/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1507883/2015070/1080/768/foto.jpg</url></image>
-    <listing_type>for_sale_by_agent</listing_type>
-    <num_beds>2</num_beds>
-    <num_baths>1</num_baths>
-    <price>240000 BRL</price>
-    <property_type>apartment</property_type>
-    <custom_label_0>66m²</custom_label_0>
-    <custom_label_1>Méier</custom_label_1>
-    <custom_label_2>Rua Vinte e Quatro de Maio 1265</custom_label_2>
-    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2015070</url>
-    <year_built>1972</year_built>
   </listing>
   <listing>
     <home_listing_id>2015068</home_listing_id>
@@ -172480,53 +172527,6 @@
     <custom_label_2>Rua Comandante Rúbens Silva 90</custom_label_2>
     <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2014838</url>
     <year_built>1993</year_built>
-  </listing>
-  <listing>
-    <home_listing_id>2014938</home_listing_id>
-    <name>Pronto para Morar: 3 Quartos (Suíte), 138m², 2 Vagas e Infra Total em Rua Fechada na Tijuca</name>
-    <title>Pronto para Morar: 3 Quartos (Suíte), 138m², 2 Vagas e Infra Total em Rua Fechada na Tijuca</title>
-    <availability>for_sale</availability>
-    <description>COD 2014938 - Procurando o equilíbrio perfeito entre a tranquilidade de uma rua reservada e o espaço que sua família merece? Descubra este espetacular apartamento de 138 m² no coração da Tijuca, localizado em uma das poucas ruas do bairro que oferece a exclusividade de uma guarita com segurança 24 horas. Aqui, o sossego e a proteção começam antes mesmo de você entrar no prédio. Imagine morar em um verdadeiro clube privativo, onde o tédio não tem vez. O condomínio dispõe de uma infraestrutura de lazer impecável com portaria 24 horas, piscina, sauna relaxante, churrasqueira para os momentos em família e um amplo salão de festas para celebrar as grandes conquistas. Além disso, o imóvel conta com 2 vagas de garagem cobertas e demarcadas na escritura, garantindo total comodidade no seu dia a dia. Ao abrir a porta, você é recebido por uma sala imensa, inundada por luz natural, que se conecta harmonicamente a uma varanda generosa — o cenário ideal para o seu café da manhã ou para receber os amigos. A área íntima é composta por 3 quartos espaçosos, sendo 1 suíte master que conta com sua própria varanda privativa, oferecendo um refúgio particular para os seus dias mais longos. Para quem não abre mão da funcionalidade, a cozinha é enorme e já vem repleta de armários, integrada a uma excelente área de serviço e dependência completa de empregada. É o espaço definitivo, onde cada metro quadrado foi pensado para o seu bem-estar. Imóveis com essa metragem, segurança dupla e lazer completo são raridades na Tijuca e não ficam muito tempo no mercado. 📞 Não perca essa oportunidade única!</description>
-    <address format="simple">
-      <component name="addr1">Rua Fernandes Figueira 55</component>
-      <component name="city">Rio de Janeiro</component>
-      <component name="region">RJ</component>
-    <component name="country">Brazil</component>
-      <component name="postal_code">20550-110</component>
-    </address>
-    <latitude>-22.922470</latitude>
-    <longitude>-43.229172</longitude>
-    <neighborhood>Tijuca</neighborhood>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503237/2014938/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503229/2014938/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503230/2014938/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503232/2014938/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503231/2014938/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503222/2014938/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503223/2014938/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503225/2014938/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503228/2014938/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503226/2014938/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503227/2014938/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503233/2014938/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503224/2014938/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503220/2014938/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503218/2014938/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503217/2014938/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503221/2014938/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503215/2014938/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503214/2014938/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1503216/2014938/1080/768/foto.jpg</url></image>
-    <listing_type>for_sale_by_agent</listing_type>
-    <num_beds>3</num_beds>
-    <num_baths>2</num_baths>
-    <price>700000 BRL</price>
-    <property_type>apartment</property_type>
-    <custom_label_0>138m²</custom_label_0>
-    <custom_label_1>Tijuca</custom_label_1>
-    <custom_label_2>Rua Fernandes Figueira 55</custom_label_2>
-    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2014938</url>
-    <year_built>1991</year_built>
   </listing>
   <listing>
     <home_listing_id>2007647</home_listing_id>
