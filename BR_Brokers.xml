@@ -2,6 +2,53 @@
 <listings>
   <title>Brasil Brokers - Imóveis prontos</title>
   <listing>
+    <home_listing_id>2006730</home_listing_id>
+    <name>Casa de frente de rua LINEAR, sol da manhã, 05 quartos, localização privilegiada no bairro Anil.</name>
+    <title>Casa de frente de rua LINEAR, sol da manhã, 05 quartos, localização privilegiada no bairro Anil.</title>
+    <availability>for_sale</availability>
+    <description>COD 2006730 - Casa de frente de rua LINEAR, sol da manhã, Compondo: jardim, sala ampla em 02 ambientes, piso frio, grades por toda casa, 5 quartos , sendo 2 com armários , cozinha com armário, uma copa espaçosa podendo usar como salão complementar para café, almoço,jantar em família. 2 banheiros sociais, hall, quarto de empregada e banheiro externo, canil e espeço para depósito, uma ótimo espaço para lavanderia. Terraço com piscina desativada, possuí uma vista para montanhas. O imóvel conta com espaços amplos e bem distribuídos, 308 m², área edificada, 360 m² de área total do terreno. Localização privilegiada com transporte, comércio, feira todos os sábados, praça , shopping, podendo realizar tudo a pé. Documentação 100% para financiamento e utilização do FGTS.</description>
+    <address format="simple">
+      <component name="addr1">Rua General André Chaves 56</component>
+      <component name="city">Rio de Janeiro</component>
+      <component name="region">RJ</component>
+    <component name="country">Brazil</component>
+      <component name="postal_code">22755-100</component>
+    </address>
+    <latitude>-22.952540</latitude>
+    <longitude>-43.335285</longitude>
+    <neighborhood>Anil</neighborhood>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168867/2006730/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168853/2006730/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168857/2006730/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168880/2006730/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168849/2006730/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168847/2006730/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168858/2006730/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168870/2006730/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1572924/2006730/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168848/2006730/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1572926/2006730/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168865/2006730/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168859/2006730/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168860/2006730/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1572927/2006730/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168851/2006730/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168866/2006730/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168876/2006730/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168871/2006730/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1572928/2006730/1080/768/foto.jpg</url></image>
+    <listing_type>for_sale_by_agent</listing_type>
+    <num_beds>5</num_beds>
+    <num_baths>2</num_baths>
+    <price>740000 BRL</price>
+    <property_type>house</property_type>
+    <custom_label_0>308m²</custom_label_0>
+    <custom_label_1>Anil</custom_label_1>
+    <custom_label_2>Rua General André Chaves 56</custom_label_2>
+    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2006730</url>
+    <year_built>1967</year_built>
+  </listing>
+  <listing>
     <home_listing_id>1019163</home_listing_id>
     <name>Apartamento à venda com 60,00m² e 2 quartos em Campinho, Rio de Janeiro - rj</name>
     <title>Apartamento à venda com 60,00m² e 2 quartos em Campinho, Rio de Janeiro - rj</title>
@@ -19579,53 +19626,6 @@
     <custom_label_2>Rua Santo Amaro 172</custom_label_2>
     <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2011304</url>
     <year_built>1980</year_built>
-  </listing>
-  <listing>
-    <home_listing_id>2014251</home_listing_id>
-    <name>Apartamento 4 quartos, sol da manhã, no considerado condomínio Atelier Três Rios, Freguesia.</name>
-    <title>Apartamento 4 quartos, sol da manhã, no considerado condomínio Atelier Três Rios, Freguesia.</title>
-    <availability>for_sale</availability>
-    <description>COD 2014251 - Apartamento no considerado condomínio Atelier Três Rios, no bairro Freguesia, sol da manhã com vista para montanhas. Local privilegiado próximo ao comércio e transporte na porta para Cidade, zona Sul Zona Norte, Grajaú Jacarepaguá . Composto de sala com 2 ambientes interligado com gesso desenhado e luz indireta dando acabamento luxuoso ao ambiente, varanda goumed com armário e uma vista deslumbrante para as montanhas, 4 quartos em porcelanato, todos em armários embutidos , 02 suítes com blindex e armários e nicho, banheiro social com blindex, cozinha toda decorada com armários embutidos e dependência completa ,, sendo revertido o quarto de empregada para um mobiliado escritório com bancada e armários modernos novos. 02 vagas na escritura cobertas. Condomínio com todos os itens de lazer, piscina, sala de estudo, salão de festas adulto, teen, infantil, churrasqueira coletiva, salão de jogos, bar de piscina, 23 vagas para visitantes e muito lazer. Documentação 100%. Aceita financiamento e FGTS. Pronto para morar! Venha conhecer!</description>
-    <address format="simple">
-      <component name="addr1">Estrada dos Três Rios 1395</component>
-      <component name="city">Rio de Janeiro</component>
-      <component name="region">RJ</component>
-    <component name="country">Brazil</component>
-      <component name="postal_code">22745-004</component>
-    </address>
-    <latitude>-22.935158</latitude>
-    <longitude>-43.326701</longitude>
-    <neighborhood>Freguesia (Jacarepaguá)</neighborhood>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1567633/2014251/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1567635/2014251/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1567634/2014251/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1567636/2014251/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1478908/2014251/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1478871/2014251/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1478870/2014251/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1478872/2014251/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1478873/2014251/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1478876/2014251/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1478874/2014251/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1478905/2014251/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1478875/2014251/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1478869/2014251/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1478866/2014251/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1478867/2014251/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1478868/2014251/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1478877/2014251/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1478878/2014251/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1478879/2014251/1080/768/foto.jpg</url></image>
-    <listing_type>for_sale_by_agent</listing_type>
-    <num_beds>4</num_beds>
-    <num_baths>3</num_baths>
-    <price>1099000 BRL</price>
-    <property_type>apartment</property_type>
-    <custom_label_0>130m²</custom_label_0>
-    <custom_label_1>Freguesia (Jacarepaguá)</custom_label_1>
-    <custom_label_2>Estrada dos Três Rios 1395</custom_label_2>
-    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2014251</url>
-    <year_built>2014</year_built>
   </listing>
   <listing>
     <home_listing_id>2015919</home_listing_id>
@@ -98748,53 +98748,6 @@
     <year_built>1995</year_built>
   </listing>
   <listing>
-    <home_listing_id>2006730</home_listing_id>
-    <name>Casa de frente de rua LINEAR, sol da manhã, 05 quartos, localização privilegiada no bairro Anil.</name>
-    <title>Casa de frente de rua LINEAR, sol da manhã, 05 quartos, localização privilegiada no bairro Anil.</title>
-    <availability>for_sale</availability>
-    <description>COD 2006730 - Casa de frente de rua LINEAR, sol da manhã, Compondo: jardim, sala ampla em 02 ambientes, piso frio, grades por toda casa, 5 quartos , sendo 2 com armários , cozinha com armário, uma copa espaçosa podendo usar como salão complementar para café, almoço,jantar em família. 2 banheiros sociais, hall, quarto de empregada e banheiro externo, canil e espeço para depósito, uma ótimo espaço para lavanderia. Terraço com piscina desativada, possuí uma vista para montanhas. O imóvel conta com espaços amplos e bem distribuídos, 308 m², área edificada, 360 m² de área total do terreno. Localização privilegiada com transporte, comércio, feira todos os sábados, praça , shopping, podendo realizar tudo a pé. Documentação 100% para financiamento e utilização do FGTS.</description>
-    <address format="simple">
-      <component name="addr1">Rua General André Chaves 56</component>
-      <component name="city">Rio de Janeiro</component>
-      <component name="region">RJ</component>
-    <component name="country">Brazil</component>
-      <component name="postal_code">22755-100</component>
-    </address>
-    <latitude>-22.952540</latitude>
-    <longitude>-43.335285</longitude>
-    <neighborhood>Anil</neighborhood>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168867/2006730/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168857/2006730/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168880/2006730/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168853/2006730/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168849/2006730/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168847/2006730/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168850/2006730/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168858/2006730/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168870/2006730/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168865/2006730/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168859/2006730/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168860/2006730/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168851/2006730/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168866/2006730/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168868/2006730/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168875/2006730/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168876/2006730/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168871/2006730/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168861/2006730/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1168854/2006730/1080/768/foto.jpg</url></image>
-    <listing_type>for_sale_by_agent</listing_type>
-    <num_beds>5</num_beds>
-    <num_baths>2</num_baths>
-    <price>740000 BRL</price>
-    <property_type>house</property_type>
-    <custom_label_0>308m²</custom_label_0>
-    <custom_label_1>Anil</custom_label_1>
-    <custom_label_2>Rua General André Chaves 56</custom_label_2>
-    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2006730</url>
-    <year_built>1967</year_built>
-  </listing>
-  <listing>
     <home_listing_id>2013640</home_listing_id>
     <name>Apartamento 3 quartos com suíte</name>
     <title>Apartamento 3 quartos com suíte</title>
@@ -123687,53 +123640,6 @@
     <year_built>1981</year_built>
   </listing>
   <listing>
-    <home_listing_id>2015800</home_listing_id>
-    <name>Casa à venda com 303,00m² e 4 quartos em Jardim Guanabara, Rio de Janeiro - RJ</name>
-    <title>Casa à venda com 303,00m² e 4 quartos em Jardim Guanabara, Rio de Janeiro - RJ</title>
-    <availability>for_sale</availability>
-    <description>COD 2015800 - Descubra esta magnífica casa duplex no cobiçado Jardim Guanabara, Ilha do Governador, uma área nobre que une exclusividade e tranquilidade. Este imóvel residencial de alto padrão oferece o espaço e o conforto que sua família merece, com 303 m² de área total e útil, pronto para morar. No primeiro piso, desfrute de varandas convidativas e uma ampla sala dividida em três ambientes, perfeita para receber amigos e familiares com elegância. Um acolhedor hall de entrada, um quarto confortável ideal para hóspedes ou escritório, e uma cozinha moderna e planejada completam o andar, garantindo funcionalidade no dia a dia. Suba e encontre o segundo piso com varandas adicionais. Este andar dispõe de três quartos espaçosos, incluindo duas suítes privativas. A suíte master é um verdadeiro refúgio, com um luxuoso closet e relaxante hidromassagem, assegurando seu bem-estar diário. Um banheiro social atende aos demais quartos. A área externa é um convite ao lazer e entretenimento! Desfrute de momentos inesquecíveis na piscina refrescante, celebre com amigos e família na churrasqueira e aproveite o amplo quintal privativo, complementado por um banheiro de apoio. A comodidade é garantida com lavanderia funcional e uma dependência completa de empregada, que pode ser facilmente adaptada como uma charmosa suíte de hóspedes. Estacione seus veículos com segurança nas quatro vagas de garagem. Esta casa oferece vista para a rua e está estrategicamente localizada no Rio de Janeiro, no bairro Jardim Guanabara. Com quatro quartos, duas suítes, um banheiro social e um banheiro de serviço, este imóvel é a definição de um lar completo. Espaço, conforto, lazer e privacidade definem este lar. Agende sua visita hoje mesmo e venha se encantar com seu novo endereço no Jardim Guanabara, Ilha do Governador. Não perca esta oportunidade única!</description>
-    <address format="simple">
-      <component name="addr1">Rua Elyno Líra 43</component>
-      <component name="city">Rio de Janeiro</component>
-      <component name="region">RJ</component>
-    <component name="country">Brazil</component>
-      <component name="postal_code">21941-020</component>
-    </address>
-    <latitude>-22.9110137</latitude>
-    <longitude>-43.2093727</longitude>
-    <neighborhood>Jardim Guanabara</neighborhood>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536098/2015800/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536099/2015800/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536100/2015800/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536097/2015800/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536101/2015800/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536102/2015800/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536103/2015800/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536104/2015800/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536105/2015800/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536106/2015800/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536107/2015800/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536108/2015800/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536109/2015800/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536110/2015800/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536111/2015800/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536112/2015800/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536113/2015800/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536114/2015800/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536115/2015800/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536116/2015800/1080/768/foto.jpg</url></image>
-    <listing_type>for_sale_by_agent</listing_type>
-    <num_beds>4</num_beds>
-    <num_baths>3</num_baths>
-    <price>2300000 BRL</price>
-    <property_type>house</property_type>
-    <custom_label_0>303m²</custom_label_0>
-    <custom_label_1>Jardim Guanabara</custom_label_1>
-    <custom_label_2>Rua Elyno Líra 43</custom_label_2>
-    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2015800</url>
-    <year_built>1987</year_built>
-  </listing>
-  <listing>
     <home_listing_id>2015875</home_listing_id>
     <name>Casa de condomínio com 4 quartos e 292 m² no Anil</name>
     <title>Casa de condomínio com 4 quartos e 292 m² no Anil</title>
@@ -132752,53 +132658,6 @@
     <custom_label_2>Rua Eulina Ribeiro 226</custom_label_2>
     <url>https://www.brasilbrokers.com.br/prontos/-/-/-/1020667</url>
     <year_built>2007</year_built>
-  </listing>
-  <listing>
-    <home_listing_id>910375</home_listing_id>
-    <name>Apartamento à venda com 50,00m² e 1 quarto em Engenho de Dentro, Rio de Janeiro - rj</name>
-    <title>Apartamento à venda com 50,00m² e 1 quarto em Engenho de Dentro, Rio de Janeiro - rj</title>
-    <availability>for_sale</availability>
-    <description>COD 910375 - Encontre o apartamento dos seus sonhos no Engenho de Dentro! Este espaçoso imóvel térreo oferece conforto e praticidade em uma localização privilegiada no Rio de Janeiro. Desfrute de uma ampla sala, quarto aconchegante, cozinha funcional com área de serviço separada, banheiro social e dependência que pode ser convertida em um segundo quarto. Aproveite a proximidade com o Hospital, Supermercado Guanabara e uma excelente academia, garantindo comodidade no seu dia a dia. O condomínio Edifício Leal oferece acessibilidade e uma vaga de garagem. Com documentação impecável, este apartamento está pronto para financiamento. Não perca esta oportunidade única! Agende agora mesmo sua visita e realize o sonho da casa própria!</description>
-    <address format="simple">
-      <component name="addr1">Rua Doutor Leal 294</component>
-      <component name="city">Rio de Janeiro</component>
-      <component name="region">RJ</component>
-    <component name="country">Brazil</component>
-      <component name="postal_code">20730-380</component>
-    </address>
-    <latitude>-22.8983496</latitude>
-    <longitude>-43.2986939</longitude>
-    <neighborhood>Engenho de Dentro</neighborhood>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/739751/910375/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/739754/910375/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/739757/910375/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/739760/910375/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/739755/910375/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/739745/910375/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/739761/910375/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/739752/910375/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/739747/910375/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/739749/910375/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/739746/910375/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/739748/910375/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/739753/910375/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/739750/910375/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/739756/910375/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/739758/910375/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/739759/910375/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1360493/910375/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1360494/910375/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1360495/910375/1080/768/foto.jpg</url></image>
-    <listing_type>for_sale_by_agent</listing_type>
-    <num_beds>1</num_beds>
-    <num_baths>1</num_baths>
-    <price>190000 BRL</price>
-    <property_type>apartment</property_type>
-    <custom_label_0>50m²</custom_label_0>
-    <custom_label_1>Engenho de Dentro</custom_label_1>
-    <custom_label_2>Rua Doutor Leal 294</custom_label_2>
-    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/910375</url>
-    <year_built>1999</year_built>
   </listing>
   <listing>
     <home_listing_id>901551</home_listing_id>
@@ -246117,510 +245976,6 @@
     <year_built>1984</year_built>
   </listing>
   <listing>
-    <home_listing_id>2003674</home_listing_id>
-    <name>Apartamento à venda com 45,94m² e 2 quartos em Freguesia (Ilha do Governador), Rio de Janeiro - RJ</name>
-    <title>Apartamento à venda com 45,94m² e 2 quartos em Freguesia (Ilha do Governador), Rio de Janeiro - RJ</title>
-    <availability>for_sale</availability>
-    <description>COD 2003674 - Localizado na Rua Magno Martins, na Freguesia da Ilha do Governador, o prédio é composto por apenas 35 apartamentos, o que proporciona maior conforto e exclusividade para os moradores. O prédio residencial fica a 700 m da praia da Guanabara, na Freguesia, além de estar perto do comércio local e transportes coletivos. Prédio com elevador somente dando ao acesso a deficientes físicos e pessoas com dificuldade de locomoção da portaria do prédio a recepção. O apartamento possui vista livre sendo extremamente claro e arejado, e é constituído por boa sala, 02 quartos confortáveis, banheiro social com ventilação natural, cozinha e área de serviço. Documentação em perfeita ordem podendo ser utilizado financiamento bancário e / ou FGTS. Entre em contato e agende sua visita!!!</description>
-    <address format="simple">
-      <component name="addr1">Rua Magno Martins 272</component>
-      <component name="city">Rio de Janeiro</component>
-      <component name="region">RJ</component>
-    <component name="country">Brazil</component>
-      <component name="postal_code">21911-430</component>
-    </address>
-    <latitude>-22.898992</latitude>
-    <longitude>-43.197302</longitude>
-    <neighborhood>Freguesia (Ilha do Governador)</neighborhood>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1058243/2003674/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1058244/2003674/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1058245/2003674/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1058246/2003674/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1058247/2003674/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1058248/2003674/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1058249/2003674/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1058250/2003674/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1058251/2003674/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1058252/2003674/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1058253/2003674/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1058254/2003674/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1058255/2003674/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1058256/2003674/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1058257/2003674/1080/768/foto.jpg</url></image>
-    <listing_type>for_sale_by_agent</listing_type>
-    <num_beds>2</num_beds>
-    <num_baths>1</num_baths>
-    <price>225000 BRL</price>
-    <property_type>apartment</property_type>
-    <custom_label_0>45m²</custom_label_0>
-    <custom_label_1>Freguesia (Ilha do Governador)</custom_label_1>
-    <custom_label_2>Rua Magno Martins 272</custom_label_2>
-    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2003674</url>
-    <year_built>2023</year_built>
-  </listing>
-  <listing>
-    <home_listing_id>2003668</home_listing_id>
-    <name>Apartamento à venda com 44,38m² e 2 quartos em Freguesia (Ilha do Governador), Rio de Janeiro - RJ</name>
-    <title>Apartamento à venda com 44,38m² e 2 quartos em Freguesia (Ilha do Governador), Rio de Janeiro - RJ</title>
-    <availability>for_sale</availability>
-    <description>COD 2003668 - Localizado na Rua Magno Martins, na Freguesia da Ilha do Governador, o prédio é composto por apenas 35 apartamentos, o que proporciona maior conforto e exclusividade para os moradores. O prédio residencial fica a 700 m da praia da Guanabara, na Freguesia, além de estar perto do comércio local e transportes coletivos. Prédio com elevador somente dando ao acesso a deficientes físicos e pessoas com dificuldade de locomoção da portaria do prédio a recepção. O apartamento possui vista livre sendo extremamente claro e arejado, e é constituído por boa sala, 02 quartos confortáveis, banheiro social com ventilação natural, cozinha e área de serviço. Documentação em perfeita ordem podendo ser utilizado financiamento bancário e / ou FGTS. Entre em contato e agende sua visita!!!</description>
-    <address format="simple">
-      <component name="addr1">Rua Magno Martins 272</component>
-      <component name="city">Rio de Janeiro</component>
-      <component name="region">RJ</component>
-    <component name="country">Brazil</component>
-      <component name="postal_code">21911-430</component>
-    </address>
-    <latitude>-22.896462</latitude>
-    <longitude>-43.187002</longitude>
-    <neighborhood>Freguesia (Ilha do Governador)</neighborhood>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1058153/2003668/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1058154/2003668/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1058155/2003668/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1058156/2003668/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1058157/2003668/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1058158/2003668/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1058159/2003668/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1058160/2003668/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1058161/2003668/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1058162/2003668/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1058163/2003668/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1058164/2003668/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1058165/2003668/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1058166/2003668/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1058167/2003668/1080/768/foto.jpg</url></image>
-    <listing_type>for_sale_by_agent</listing_type>
-    <num_beds>2</num_beds>
-    <num_baths>1</num_baths>
-    <price>219500 BRL</price>
-    <property_type>apartment</property_type>
-    <custom_label_0>44m²</custom_label_0>
-    <custom_label_1>Freguesia (Ilha do Governador)</custom_label_1>
-    <custom_label_2>Rua Magno Martins 272</custom_label_2>
-    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2003668</url>
-    <year_built>2023</year_built>
-  </listing>
-  <listing>
-    <home_listing_id>2003653</home_listing_id>
-    <name>Apartamento à venda com 44,37m² e 2 quartos em Freguesia (Ilha do Governador), Rio de Janeiro - RJ</name>
-    <title>Apartamento à venda com 44,37m² e 2 quartos em Freguesia (Ilha do Governador), Rio de Janeiro - RJ</title>
-    <availability>for_sale</availability>
-    <description>COD 2003653 - Localizado na Rua Magno Martins, na Freguesia da Ilha do Governador, o prédio é composto por apenas 35 apartamentos, o que proporciona maior conforto e exclusividade para os moradores. O prédio residencial fica a 700 m da praia da Guanabara, na Freguesia, além de estar perto do comércio local e transportes coletivos. Prédio com elevador somente dando ao acesso a deficientes físicos e pessoas com dificuldade de locomoção da portaria do prédio a recepção. O apartamento possui vista livre sendo extremamente claro e arejado, e é constituído por boa sala, 02 quartos confortáveis, banheiro social com ventilação natural, cozinha e área de serviço. Unidade com 01 vaga da garagem na escritura. Documentação em perfeita ordem podendo ser utilizado financiamento bancário e / ou FGTS. Entre em contato e agende sua visita!!!</description>
-    <address format="simple">
-      <component name="addr1">Rua Magno Martins 272</component>
-      <component name="city">Rio de Janeiro</component>
-      <component name="region">RJ</component>
-    <component name="country">Brazil</component>
-      <component name="postal_code">21911-430</component>
-    </address>
-    <latitude>-22.906740</latitude>
-    <longitude>-43.183912</longitude>
-    <neighborhood>Freguesia (Ilha do Governador)</neighborhood>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057869/2003653/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057870/2003653/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057871/2003653/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057872/2003653/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057873/2003653/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057874/2003653/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057875/2003653/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057876/2003653/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057877/2003653/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057878/2003653/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057879/2003653/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057880/2003653/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057881/2003653/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057882/2003653/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057883/2003653/1080/768/foto.jpg</url></image>
-    <listing_type>for_sale_by_agent</listing_type>
-    <num_beds>2</num_beds>
-    <num_baths>1</num_baths>
-    <price>265000 BRL</price>
-    <property_type>apartment</property_type>
-    <custom_label_0>44m²</custom_label_0>
-    <custom_label_1>Freguesia (Ilha do Governador)</custom_label_1>
-    <custom_label_2>Rua Magno Martins 272</custom_label_2>
-    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2003653</url>
-    <year_built>2023</year_built>
-  </listing>
-  <listing>
-    <home_listing_id>2003659</home_listing_id>
-    <name>Apartamento à venda com 44,43m² e 2 quartos em Freguesia (Ilha do Governador), Rio de Janeiro - RJ</name>
-    <title>Apartamento à venda com 44,43m² e 2 quartos em Freguesia (Ilha do Governador), Rio de Janeiro - RJ</title>
-    <availability>for_sale</availability>
-    <description>COD 2003659 - Localizado na Rua Magno Martins, na Freguesia da Ilha do Governador, o prédio é composto por apenas 35 apartamentos, o que proporciona maior conforto e exclusividade para os moradores. O prédio residencial fica a 700 m da praia da Guanabara, na Freguesia, além de estar perto do comércio local e transportes coletivos. Prédio com elevador somente dando ao acesso a deficientes físicos e pessoas com dificuldade de locomoção da portaria do prédio a recepção. O apartamento possui vista livre sendo extremamente claro e arejado, e é constituído por boa sala, 02 quartos confortáveis, banheiro social com ventilação natural, cozinha e área de serviço. Unidade com 01 vaga da garagem na escritura. Documentação em perfeita ordem podendo ser utilizado financiamento bancário e / ou FGTS. Entre em contato e agende sua visita!!!</description>
-    <address format="simple">
-      <component name="addr1">Rua Magno Martins 272</component>
-      <component name="city">Rio de Janeiro</component>
-      <component name="region">RJ</component>
-    <component name="country">Brazil</component>
-      <component name="postal_code">21911-430</component>
-    </address>
-    <latitude>-22.900257</latitude>
-    <longitude>-43.191808</longitude>
-    <neighborhood>Freguesia (Ilha do Governador)</neighborhood>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057959/2003659/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057960/2003659/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057961/2003659/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057962/2003659/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057963/2003659/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057964/2003659/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057965/2003659/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057966/2003659/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057967/2003659/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057968/2003659/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057969/2003659/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057970/2003659/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057971/2003659/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057972/2003659/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057973/2003659/1080/768/foto.jpg</url></image>
-    <listing_type>for_sale_by_agent</listing_type>
-    <num_beds>2</num_beds>
-    <num_baths>1</num_baths>
-    <price>264000 BRL</price>
-    <property_type>apartment</property_type>
-    <custom_label_0>44m²</custom_label_0>
-    <custom_label_1>Freguesia (Ilha do Governador)</custom_label_1>
-    <custom_label_2>Rua Magno Martins 272</custom_label_2>
-    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2003659</url>
-    <year_built>2023</year_built>
-  </listing>
-  <listing>
-    <home_listing_id>2003658</home_listing_id>
-    <name>Apartamento à venda com 44,00 m² e 2 quartos em Freguesia (Ilha do Governador), Rio de Janeiro - RJ</name>
-    <title>Apartamento à venda com 44,00 m² e 2 quartos em Freguesia (Ilha do Governador), Rio de Janeiro - RJ</title>
-    <availability>for_sale</availability>
-    <description>COD 2003658 - Localizado na Rua Magno Martins, na Freguesia da Ilha do Governador, o prédio é composto por apenas 35 apartamentos, o que proporciona maior conforto e exclusividade para os moradores. O prédio residencial fica a 700 m da praia da Guanabara, na Freguesia, além de estar perto do comércio local e transportes coletivos. Prédio com elevador somente dando ao acesso a deficientes físicos e pessoas com dificuldade de locomoção da portaria do prédio a recepção. O apartamento possui vista livre sendo extremamente claro e arejado, e é constituído por boa sala, 02 quartos confortáveis, banheiro social com ventilação natural, cozinha e área de serviço. Unidade com 01 vaga da garagem na escritura. Documentação em perfeita ordem podendo ser utilizado financiamento bancário e / ou FGTS. Entre em contato e agende sua visita!!!</description>
-    <address format="simple">
-      <component name="addr1">Rua Magno Martins 272</component>
-      <component name="city">Rio de Janeiro</component>
-      <component name="region">RJ</component>
-    <component name="country">Brazil</component>
-      <component name="postal_code">21911-430</component>
-    </address>
-    <latitude>-22.900890</latitude>
-    <longitude>-43.193868</longitude>
-    <neighborhood>Freguesia (Ilha do Governador)</neighborhood>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057944/2003658/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057945/2003658/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057946/2003658/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057947/2003658/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057948/2003658/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057949/2003658/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057950/2003658/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057951/2003658/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057952/2003658/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057953/2003658/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057954/2003658/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057955/2003658/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057956/2003658/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057957/2003658/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057958/2003658/1080/768/foto.jpg</url></image>
-    <listing_type>for_sale_by_agent</listing_type>
-    <num_beds>2</num_beds>
-    <num_baths>1</num_baths>
-    <price>269000 BRL</price>
-    <property_type>apartment</property_type>
-    <custom_label_0>44m²</custom_label_0>
-    <custom_label_1>Freguesia (Ilha do Governador)</custom_label_1>
-    <custom_label_2>Rua Magno Martins 272</custom_label_2>
-    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2003658</url>
-    <year_built>2023</year_built>
-  </listing>
-  <listing>
-    <home_listing_id>2003657</home_listing_id>
-    <name>Apartamento à venda com 44,37m² e 2 quartos em Freguesia (Ilha do Governador), Rio de Janeiro - RJ</name>
-    <title>Apartamento à venda com 44,37m² e 2 quartos em Freguesia (Ilha do Governador), Rio de Janeiro - RJ</title>
-    <availability>for_sale</availability>
-    <description>COD 2003657 - Localizado na Rua Magno Martins, na Freguesia da Ilha do Governador, o prédio é composto por apenas 35 apartamentos, o que proporciona maior conforto e exclusividade para os moradores. O prédio residencial fica a 700 m da praia da Guanabara, na Freguesia, além de estar perto do comércio local e transportes coletivos. Prédio com elevador somente dando ao acesso a deficientes físicos e pessoas com dificuldade de locomoção da portaria do prédio a recepção. O apartamento possui vista livre sendo extremamente claro e arejado, e é constituído por boa sala, 02 quartos confortáveis, banheiro social com ventilação natural, cozinha e área de serviço. Unidade com 01 vaga da garagem na escritura. Documentação em perfeita ordem podendo ser utilizado financiamento bancário e / ou FGTS. Entre em contato e agende sua visita!!!</description>
-    <address format="simple">
-      <component name="addr1">Rua Magno Martins 272</component>
-      <component name="city">Rio de Janeiro</component>
-      <component name="region">RJ</component>
-    <component name="country">Brazil</component>
-      <component name="postal_code">21911-430</component>
-    </address>
-    <latitude>-22.908322</latitude>
-    <longitude>-43.186830</longitude>
-    <neighborhood>Freguesia (Ilha do Governador)</neighborhood>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057929/2003657/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057930/2003657/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057931/2003657/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057932/2003657/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057933/2003657/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057934/2003657/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057935/2003657/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057936/2003657/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057937/2003657/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057938/2003657/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057939/2003657/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057940/2003657/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057941/2003657/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057942/2003657/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057943/2003657/1080/768/foto.jpg</url></image>
-    <listing_type>for_sale_by_agent</listing_type>
-    <num_beds>2</num_beds>
-    <num_baths>1</num_baths>
-    <price>259000 BRL</price>
-    <property_type>apartment</property_type>
-    <custom_label_0>44m²</custom_label_0>
-    <custom_label_1>Freguesia (Ilha do Governador)</custom_label_1>
-    <custom_label_2>Rua Magno Martins 272</custom_label_2>
-    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2003657</url>
-    <year_built>2023</year_built>
-  </listing>
-  <listing>
-    <home_listing_id>2003656</home_listing_id>
-    <name>Apartamento à venda com 44,00m² e 2 quartos em Freguesia (Ilha do Governador), Rio de Janeiro - RJ</name>
-    <title>Apartamento à venda com 44,00m² e 2 quartos em Freguesia (Ilha do Governador), Rio de Janeiro - RJ</title>
-    <availability>for_sale</availability>
-    <description>COD 2003656 - Localizado na Rua Magno Martins, na Freguesia da Ilha do Governador, o prédio é composto por apenas 35 apartamentos, o que proporciona maior conforto e exclusividade para os moradores. O prédio residencial fica a 700 m da praia da Guanabara, na Freguesia, além de estar perto do comércio local e transportes coletivos. Prédio com elevador somente dando ao acesso a deficientes físicos e pessoas com dificuldade de locomoção da portaria do prédio a recepção. O apartamento possui vista livre sendo extremamente claro e arejado, e é constituído por boa sala, 02 quartos confortáveis, banheiro social com ventilação natural, cozinha e área de serviço. Unidade com 01 vaga da garagem na escritura. Documentação em perfeita ordem podendo ser utilizado financiamento bancário e / ou FGTS. Entre em contato e agende sua visita!!!</description>
-    <address format="simple">
-      <component name="addr1">Rua Magno Martins 272</component>
-      <component name="city">Rio de Janeiro</component>
-      <component name="region">RJ</component>
-    <component name="country">Brazil</component>
-      <component name="postal_code">21911-430</component>
-    </address>
-    <latitude>-22.914014</latitude>
-    <longitude>-43.193525</longitude>
-    <neighborhood>Freguesia (Ilha do Governador)</neighborhood>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057914/2003656/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057915/2003656/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057916/2003656/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057917/2003656/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057918/2003656/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057919/2003656/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057920/2003656/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057921/2003656/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057922/2003656/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057923/2003656/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057924/2003656/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057925/2003656/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057926/2003656/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057927/2003656/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057928/2003656/1080/768/foto.jpg</url></image>
-    <listing_type>for_sale_by_agent</listing_type>
-    <num_beds>2</num_beds>
-    <num_baths>1</num_baths>
-    <price>265000 BRL</price>
-    <property_type>apartment</property_type>
-    <custom_label_0>44m²</custom_label_0>
-    <custom_label_1>Freguesia (Ilha do Governador)</custom_label_1>
-    <custom_label_2>Rua Magno Martins 272</custom_label_2>
-    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2003656</url>
-    <year_built>2023</year_built>
-  </listing>
-  <listing>
-    <home_listing_id>2003652</home_listing_id>
-    <name>Apartamento à venda com 45,16m² e 2 quartos em Freguesia (Ilha do Governador), Rio de Janeiro - RJ</name>
-    <title>Apartamento à venda com 45,16m² e 2 quartos em Freguesia (Ilha do Governador), Rio de Janeiro - RJ</title>
-    <availability>for_sale</availability>
-    <description>COD 2003652 - Localizado na Rua Magno Martins, na Freguesia da Ilha do Governador, o prédio é composto por apenas 35 apartamentos, o que proporciona maior conforto e exclusividade para os moradores. O prédio residencial fica a 700 m da praia da Guanabara, na Freguesia, além de estar perto do comércio local e transportes coletivos. Prédio com elevador somente dando ao acesso a deficientes físicos e pessoas com dificuldade de locomoção da portaria do prédio a recepção. O apartamento possui vista livre sendo extremamente claro e arejado, e é constituído por boa sala, 02 quartos confortáveis, banheiro social com ventilação natural, cozinha e área de serviço. Unidade com 01 vaga da garagem na escritura. Documentação em perfeita ordem podendo ser utilizado financiamento bancário e / ou FGTS. Entre em contato e agende sua visita!!!</description>
-    <address format="simple">
-      <component name="addr1">Rua Magno Martins 272</component>
-      <component name="city">Rio de Janeiro</component>
-      <component name="region">RJ</component>
-    <component name="country">Brazil</component>
-      <component name="postal_code">21911-430</component>
-    </address>
-    <latitude>-22.916069</latitude>
-    <longitude>-43.189062</longitude>
-    <neighborhood>Freguesia (Ilha do Governador)</neighborhood>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057854/2003652/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057855/2003652/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057856/2003652/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057857/2003652/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057858/2003652/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057859/2003652/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057860/2003652/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057861/2003652/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057862/2003652/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057863/2003652/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057864/2003652/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057865/2003652/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057866/2003652/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057867/2003652/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057868/2003652/1080/768/foto.jpg</url></image>
-    <listing_type>for_sale_by_agent</listing_type>
-    <num_beds>2</num_beds>
-    <num_baths>1</num_baths>
-    <price>264000 BRL</price>
-    <property_type>apartment</property_type>
-    <custom_label_0>45m²</custom_label_0>
-    <custom_label_1>Freguesia (Ilha do Governador)</custom_label_1>
-    <custom_label_2>Rua Magno Martins 272</custom_label_2>
-    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2003652</url>
-    <year_built>2023</year_built>
-  </listing>
-  <listing>
-    <home_listing_id>2003651</home_listing_id>
-    <name>Apartamento à venda com 66,90m² e 2 quartos em Freguesia (Ilha do Governador), Rio de Janeiro - RJ</name>
-    <title>Apartamento à venda com 66,90m² e 2 quartos em Freguesia (Ilha do Governador), Rio de Janeiro - RJ</title>
-    <availability>for_sale</availability>
-    <description>COD 2003651 - Localizado na Rua Magno Martins, na Freguesia da Ilha do Governador, o prédio é composto por apenas 35 apartamentos, o que proporciona maior conforto e exclusividade para os moradores. O prédio residencial fica a 700 m da praia da Guanabara, na Freguesia, além de estar perto do comércio local e transportes coletivos. Prédio com elevador somente dando ao acesso a deficientes físicos e pessoas com dificuldade de locomoção da portaria do prédio a recepção. O apartamento é tipo &quot;garden&quot; possui espaço físico para instalação de piscina com deck em madeira e construção de churrasqueira, e é constituído por boa sala, 02 quartos confortáveis, banheiro social com ventilação natural, cozinha e área de serviço. Unidade com 01 vaga da garagem na escritura. Documentação em perfeita ordem podendo ser utilizado financiamento bancário e / ou FGTS. Entre em contato e agende sua visita!!!</description>
-    <address format="simple">
-      <component name="addr1">Rua Magno Martins 272</component>
-      <component name="city">Rio de Janeiro</component>
-      <component name="region">RJ</component>
-    <component name="country">Brazil</component>
-      <component name="postal_code">21911-430</component>
-    </address>
-    <latitude>-22.897253</latitude>
-    <longitude>-43.194555</longitude>
-    <neighborhood>Freguesia (Ilha do Governador)</neighborhood>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057839/2003651/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057840/2003651/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057841/2003651/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057842/2003651/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057843/2003651/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057844/2003651/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057845/2003651/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057846/2003651/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057847/2003651/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057848/2003651/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057849/2003651/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057850/2003651/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057851/2003651/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057852/2003651/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057853/2003651/1080/768/foto.jpg</url></image>
-    <listing_type>for_sale_by_agent</listing_type>
-    <num_beds>2</num_beds>
-    <num_baths>1</num_baths>
-    <price>338000 BRL</price>
-    <property_type>apartment</property_type>
-    <custom_label_0>67m²</custom_label_0>
-    <custom_label_1>Freguesia (Ilha do Governador)</custom_label_1>
-    <custom_label_2>Rua Magno Martins 272</custom_label_2>
-    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2003651</url>
-    <year_built>2023</year_built>
-  </listing>
-  <listing>
-    <home_listing_id>2003648</home_listing_id>
-    <name>Apartamento à venda com 43,44m² e 1 quarto em Freguesia (Ilha do Governador), Rio de Janeiro - RJ</name>
-    <title>Apartamento à venda com 43,44m² e 1 quarto em Freguesia (Ilha do Governador), Rio de Janeiro - RJ</title>
-    <availability>for_sale</availability>
-    <description>COD 2003648 - Localizado na Rua Magno Martins, na Freguesia da Ilha do Governador, o prédio é composto por apenas 35 apartamentos, o que proporciona maior conforto e exclusividade para os moradores. O prédio residencial fica a 700 m da praia da Guanabara, na Freguesia, além de estar perto do comércio local e transportes coletivos. Prédio com elevador somente dando ao acesso a deficientes físicos e pessoas com dificuldade de locomoção da portaria do prédio a recepção. O apartamento possui vista livre sendo extremamente claro e arejado, e é constituído por boa sala, 1 quartos confortável, banheiro social com ventilação natural, cozinha e área de serviço. Ideal para portadores de necessidades especiais e pessoas que possuem dificuldade de locomoção. Unidade com 01 vaga da garagem na escritura. Documentação em perfeita ordem podendo ser utilizado financiamento bancário e / ou FGTS. Entre em contato e agende sua visita!!!</description>
-    <address format="simple">
-      <component name="addr1">Rua Magno Martins 272</component>
-      <component name="city">Rio de Janeiro</component>
-      <component name="region">RJ</component>
-    <component name="country">Brazil</component>
-      <component name="postal_code">21911-430</component>
-    </address>
-    <latitude>-22.904695</latitude>
-    <longitude>-43.188370</longitude>
-    <neighborhood>Freguesia (Ilha do Governador)</neighborhood>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057794/2003648/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057795/2003648/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057796/2003648/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057797/2003648/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057798/2003648/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057799/2003648/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057800/2003648/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057801/2003648/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057802/2003648/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057803/2003648/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057804/2003648/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057805/2003648/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057806/2003648/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057807/2003648/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057808/2003648/1080/768/foto.jpg</url></image>
-    <listing_type>for_sale_by_agent</listing_type>
-    <num_beds>1</num_beds>
-    <num_baths>1</num_baths>
-    <price>324450 BRL</price>
-    <property_type>apartment</property_type>
-    <custom_label_0>56m²</custom_label_0>
-    <custom_label_1>Freguesia (Ilha do Governador)</custom_label_1>
-    <custom_label_2>Rua Magno Martins 272</custom_label_2>
-    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2003648</url>
-    <year_built>2023</year_built>
-  </listing>
-  <listing>
-    <home_listing_id>2003654</home_listing_id>
-    <name>Apartamento à venda com 44,37m² e 2 quartos em Freguesia (Ilha do Governador), Rio de Janeiro - RJ</name>
-    <title>Apartamento à venda com 44,37m² e 2 quartos em Freguesia (Ilha do Governador), Rio de Janeiro - RJ</title>
-    <availability>for_sale</availability>
-    <description>COD 2003654 - Localizado na Rua Magno Martins, na Freguesia da Ilha do Governador, o prédio é composto por apenas 35 apartamentos, o que proporciona maior conforto e exclusividade para os moradores. O prédio residencial fica a 700 m da praia da Guanabara, na Freguesia, além de estar perto do comércio local e transportes coletivos. Prédio com elevador somente dando ao acesso a deficientes físicos e pessoas com dificuldade de locomoção da portaria do prédio a recepção. O apartamento possui vista livre sendo extremamente claro e arejado, e é constituído por boa sala, 02 quartos confortáveis, banheiro social com ventilação natural, cozinha e área de serviço. Unidade com 01 vaga da garagem na escritura. Documentação em perfeita ordem podendo ser utilizado financiamento bancário e / ou FGTS. Entre em contato e agende sua visita!!!</description>
-    <address format="simple">
-      <component name="addr1">Rua Magno Martins 272</component>
-      <component name="city">Rio de Janeiro</component>
-      <component name="region">RJ</component>
-    <component name="country">Brazil</component>
-      <component name="postal_code">21911-430</component>
-    </address>
-    <latitude>-22.905001</latitude>
-    <longitude>-43.185285</longitude>
-    <neighborhood>Freguesia (Ilha do Governador)</neighborhood>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057884/2003654/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057885/2003654/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057886/2003654/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057887/2003654/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057888/2003654/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057889/2003654/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057890/2003654/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057891/2003654/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057892/2003654/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057893/2003654/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057894/2003654/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057895/2003654/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057896/2003654/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057897/2003654/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057898/2003654/1080/768/foto.jpg</url></image>
-    <listing_type>for_sale_by_agent</listing_type>
-    <num_beds>2</num_beds>
-    <num_baths>1</num_baths>
-    <price>259000 BRL</price>
-    <property_type>apartment</property_type>
-    <custom_label_0>44m²</custom_label_0>
-    <custom_label_1>Freguesia (Ilha do Governador)</custom_label_1>
-    <custom_label_2>Rua Magno Martins 272</custom_label_2>
-    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2003654</url>
-    <year_built>2023</year_built>
-  </listing>
-  <listing>
-    <home_listing_id>2003629</home_listing_id>
-    <name>Apartamento à venda com 43,40m² e 1 quarto em Freguesia (Ilha do Governador), Rio de Janeiro - RJ</name>
-    <title>Apartamento à venda com 43,40m² e 1 quarto em Freguesia (Ilha do Governador), Rio de Janeiro - RJ</title>
-    <availability>for_sale</availability>
-    <description>COD 2003629 - Localizado na Rua Magno Martins, na Freguesia da Ilha do Governador, o prédio é composto por apenas 35 apartamentos, o que proporciona maior conforto e exclusividade para os moradores. O prédio residencial fica a 700 m da praia da Guanabara, na Freguesia, além de estar perto do comércio local e transportes coletivos. Prédio com elevador somente dando ao acesso a deficientes físicos e pessoas com dificuldade de locomoção da portaria do prédio a recepção. O apartamento possui vista livre sendo extremamente claro e arejado, e é constituído por boa sala, 1 quarto confortável, banheiro social com ventilação natural, cozinha e área de serviço. Ideal para portadores de necessidades especiais e pessoas que possuem dificuldade de locomoção. Unidade com 01 vaga da garagem na escritura. Documentação em perfeita ordem podendo ser utilizado financiamento bancário e / ou FGTS. Entre em contato e agende sua visita!!!</description>
-    <address format="simple">
-      <component name="addr1">Rua Magno Martins 272</component>
-      <component name="city">Rio de Janeiro</component>
-      <component name="region">RJ</component>
-    <component name="country">Brazil</component>
-      <component name="postal_code">21911-430</component>
-    </address>
-    <latitude>-22.898834</latitude>
-    <longitude>-43.192838</longitude>
-    <neighborhood>Freguesia (Ilha do Governador)</neighborhood>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057272/2003629/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057258/2003629/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057259/2003629/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057260/2003629/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057261/2003629/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057262/2003629/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057263/2003629/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057264/2003629/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057265/2003629/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057266/2003629/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057267/2003629/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057268/2003629/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057269/2003629/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057270/2003629/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1057271/2003629/1080/768/foto.jpg</url></image>
-    <listing_type>for_sale_by_agent</listing_type>
-    <num_beds>1</num_beds>
-    <num_baths>1</num_baths>
-    <price>334950 BRL</price>
-    <property_type>apartment</property_type>
-    <custom_label_0>57m²</custom_label_0>
-    <custom_label_1>Freguesia (Ilha do Governador)</custom_label_1>
-    <custom_label_2>Rua Magno Martins 272</custom_label_2>
-    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2003629</url>
-    <year_built>2023</year_built>
-  </listing>
-  <listing>
     <home_listing_id>1012221</home_listing_id>
     <name>Outros em Jardim Carioca - 740m²</name>
     <title>Outros em Jardim Carioca - 740m²</title>
@@ -267922,50 +267277,6 @@
     <custom_label_2>Rua do Rosário 108</custom_label_2>
     <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2006663</url>
     <year_built>1960</year_built>
-  </listing>
-  <listing>
-    <home_listing_id>2002404</home_listing_id>
-    <name>LINDO IMÓVEL DE 2 QUARTOS DE PRIMEIRA LOCAÇÃO</name>
-    <title>LINDO IMÓVEL DE 2 QUARTOS DE PRIMEIRA LOCAÇÃO</title>
-    <availability>for_sale</availability>
-    <description>COD 2002404 - Localizado na Rua Magno Martins, na Freguesia da Ilha do Governador, o prédio é composto por apenas 35 apartamentos, o que proporciona maior conforto e exclusividade para os moradores. O prédio residencial fica a 700 m da praia da Guanabara, na Freguesia, além de estar perto do comércio local e transportes coletivos. Prédio com elevador somente dando ao acesso a deficientes físicos e pessoas com dificuldade de locomoção da portaria do prédio a recepção. O apartamento possui vista livre sendo extremamente claro e arejado, e é constituído por boa sala, 02 quartos confortáveis, banheiro social com ventilação natural, cozinha e área de serviço. Unidade com 01 vaga da garagem na escritura. Documentação em perfeita ordem podendo ser utilizado financiamento bancário e / ou FGTS. Entre em contato e agende sua visita!!!</description>
-    <address format="simple">
-      <component name="addr1">Rua Magno Martins 272</component>
-      <component name="city">Rio de Janeiro</component>
-      <component name="region">RJ</component>
-    <component name="country">Brazil</component>
-      <component name="postal_code">21911-430</component>
-    </address>
-    <latitude>-22.901759</latitude>
-    <longitude>-43.216528</longitude>
-    <neighborhood>Freguesia (Ilha do Governador)</neighborhood>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1009757/2002404/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1009778/2002404/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1009764/2002404/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1009765/2002404/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1009766/2002404/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1009777/2002404/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1009769/2002404/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1009768/2002404/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1009772/2002404/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1009767/2002404/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1009770/2002404/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1009771/2002404/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1009773/2002404/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1009774/2002404/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1009775/2002404/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1009779/2002404/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1009776/2002404/1080/768/foto.jpg</url></image>
-    <listing_type>for_sale_by_agent</listing_type>
-    <num_beds>2</num_beds>
-    <num_baths>1</num_baths>
-    <price>269000 BRL</price>
-    <property_type>apartment</property_type>
-    <custom_label_0>45m²</custom_label_0>
-    <custom_label_1>Freguesia (Ilha do Governador)</custom_label_1>
-    <custom_label_2>Rua Magno Martins 272</custom_label_2>
-    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2002404</url>
-    <year_built>2022</year_built>
   </listing>
   <listing>
     <home_listing_id>2009978</home_listing_id>
