@@ -1723,6 +1723,50 @@
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1233</url>
   </listing>
   <listing>
+    <home_listing_id>1346L-MEU</home_listing_id>
+    <name>Galpão para Locação CEAT, São Carlos</name>
+    <title>Galpão para Locação CEAT, São Carlos</title>
+    <availability>for_rent</availability>
+    <description>Excelente oportunidade de investimento ou expansão para o seu negócio! Amplo galpão com 2.700 m² de área, localizado no CEAT (Centro Empresarial de Alta Tecnologia), um dos polos industriais e logísticos mais estratégicos de São Carlos. Destaques do Imóvel: 2.700 m² de área total construída/terreno, oferecendo versatilidade para operações logísticas, centro de distribuição, indústrias ou depósitos. Localização privilegiada no CEAT, com fácil acesso para caminhões e rodovias da região. Estrutura robusta pronta para atender às necessidades operacionais e corporativas da sua empresa. Um imóvel com grande potencial de valorização e perfeito para consolidar o seu negócio com infraestrutura de ponta. Entre em contato agora mesmo com a J. Martins Imóveis e agende uma visita com um dos nossos consultores!</description>
+    <address format="simple">
+      <component name="addr1">Rua José Zanetti 5100</component>
+      <component name="city">São Carlos</component>
+      <component name="region">SP</component>
+    <component name="country">Brazil</component>
+      <component name="postal_code">13573400</component>
+    </address>
+    <neighborhood>CEAT</neighborhood>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjc0RjYwMTAzNEY3NEZCRjhCNzc5MzdFNjE3RUM5Q0ItZm90b3MvMTk0ZDk5ZjEtNjZlODZlNGI2ZjUyODM5ZGM5MmRmOWNiNzA5MTRjYzYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjc0RjYwMTAzNEY3NEZCRjhCNzc5MzdFNjE3RUM5Q0ItZm90b3MvYTA4ZjU3MDMtOWUxYzhiZTAyODYzMDZmNDRmYjFmMzZhYjhlNGIyNjUucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjc0RjYwMTAzNEY3NEZCRjhCNzc5MzdFNjE3RUM5Q0ItZm90b3MvNzI1ODc0OTQtYWE1ZmI5ZTcyYzViYWM5ZWUyZjMzMjY2ODRhNzAyZWYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjc0RjYwMTAzNEY3NEZCRjhCNzc5MzdFNjE3RUM5Q0ItZm90b3MvMzE4MGU1NzUtZDZjYWM1ZWYzZTUyYWNhZmRiMmE5YzFiNDQwY2NiN2UucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjc0RjYwMTAzNEY3NEZCRjhCNzc5MzdFNjE3RUM5Q0ItZm90b3MvNTc1OTEwYTgtOGE2M2M5YWY3YTBiNjM0ZGI1ZDFkMjNhNDQ2NzEyYzkucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjc0RjYwMTAzNEY3NEZCRjhCNzc5MzdFNjE3RUM5Q0ItZm90b3MvNjM0NzFkMDMtM2EwNDIxMmE0ZDBkMWIxODIxNzkwNmE3NzM0YTI1YzIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjc0RjYwMTAzNEY3NEZCRjhCNzc5MzdFNjE3RUM5Q0ItZm90b3MvOTU5ODlhNGItZTM0MmVjOWEwMjQ2MGQxMGM1ZmExNjc5NGM5YjlhMGYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjc0RjYwMTAzNEY3NEZCRjhCNzc5MzdFNjE3RUM5Q0ItZm90b3MvYmUwMTRiNjAtNzBhZjY3ZGE4Y2IwZGM3Yzk3Njc5YmY3NWIyZDEyYWQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjc0RjYwMTAzNEY3NEZCRjhCNzc5MzdFNjE3RUM5Q0ItZm90b3MvODY2MWQ4NWYtOWQ0MWM0ODg3MjE4YjVlMDJlMmEzODk4ZmZhNGJiZjEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjc0RjYwMTAzNEY3NEZCRjhCNzc5MzdFNjE3RUM5Q0ItZm90b3MvYTRkNTM0MzMtOTg3MGFlNDJlYWUxOWE5ZjVhMDY2MjVlYjIyOTk1MTMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjc0RjYwMTAzNEY3NEZCRjhCNzc5MzdFNjE3RUM5Q0ItZm90b3MvYWE5YzI1MzEtNjBlYWE5YjU2MzgzNzMyYzkzYzkzMGI5NzNkZjliMTEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjc0RjYwMTAzNEY3NEZCRjhCNzc5MzdFNjE3RUM5Q0ItZm90b3MvZDhlYWY0YTMtYzUzNWFlMWZlZTlkOGI0M2Y2MjMwNTg3ZDFiNDU2NDEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjc0RjYwMTAzNEY3NEZCRjhCNzc5MzdFNjE3RUM5Q0ItZm90b3MvZTJkOTljNTUtODRhMWFmNzIyMmI1ZTBmMjk3Yzk0NGRhYTY1NzRhYTIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjc0RjYwMTAzNEY3NEZCRjhCNzc5MzdFNjE3RUM5Q0ItZm90b3MvMzRjNmNhNjQtMmFiM2I4NWZhZmMwNzhiNzJkYjA4NmIyNzJiZjRmMjMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjc0RjYwMTAzNEY3NEZCRjhCNzc5MzdFNjE3RUM5Q0ItZm90b3MvMzY4YjA1NzItZDE4ODU4NzJmODE3MTc2YzRkZDBlYzI2MmNiNjIwZDYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjc0RjYwMTAzNEY3NEZCRjhCNzc5MzdFNjE3RUM5Q0ItZm90b3MvOTk2NGI5NGUtMGE0MWY0MDcxMWQ5ZGE3ZjI1YTk0NjAzMjE4M2QyMTMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjc0RjYwMTAzNEY3NEZCRjhCNzc5MzdFNjE3RUM5Q0ItZm90b3MvMGI2NjcyYzUtODczODFkMWU2YWQwYjRkZGU5MzA2MzJkZGEyZmQzMjQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjc0RjYwMTAzNEY3NEZCRjhCNzc5MzdFNjE3RUM5Q0ItZm90b3MvY2EzYmY5MDktNmQ2MTEzMTRlNTcxMDlmYmIwNTcwMDJhOThmOGMyNTMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjc0RjYwMTAzNEY3NEZCRjhCNzc5MzdFNjE3RUM5Q0ItZm90b3MvZmRmNTZiMzYtN2MzZTdiNzEwZmY2MWJhNjRkODYyZjU4MWJiYzhkNDgucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjc0RjYwMTAzNEY3NEZCRjhCNzc5MzdFNjE3RUM5Q0ItZm90b3MvZmQ5ZjJhZmUtZjA1OWU1ZjRiYjY3ZDAwNTc1MjRiNzEyMDI4OTE1MDMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <listing_type>for_rent_by_agent</listing_type>
+    <num_beds>0</num_beds>
+    <num_baths>0</num_baths>
+    <price>34000 BRL</price>
+    <property_type>other</property_type>
+    <custom_label_0>1600m²</custom_label_0>
+    <custom_label_1>CEAT</custom_label_1>
+    <custom_label_2>Rua José Zanetti 5100</custom_label_2>
+    <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1346</url>
+  </listing>
+  <listing>
     <home_listing_id>1104V-MEU</home_listing_id>
     <name>Apartamento 2 quartos para Venda Jardim Bandeirantes, São Carlos</name>
     <title>Apartamento 2 quartos para Venda Jardim Bandeirantes, São Carlos</title>
@@ -7572,6 +7616,34 @@
     <custom_label_2>Avenida Miguel Damha 1000</custom_label_2>
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1286</url>
     <year_built>2023</year_built>
+  </listing>
+  <listing>
+    <home_listing_id>1345V-MEU</home_listing_id>
+    <name>Lote em Condomínio para Venda Condominio Parque Das Araucarias, São Carlos</name>
+    <title>Lote em Condomínio para Venda Condominio Parque Das Araucarias, São Carlos</title>
+    <availability>for_sale</availability>
+    <description>Já imaginou construir o projeto dos seus sonhos em um dos condomínios fechados mais desejados e arborizados de São Carlos? Este excelente lote no Condomínio Parque das Araucárias oferece a combinação perfeita entre segurança, contato com a natureza e uma localização privilegiada na região do Parque Faber. Destaques do Condomínio: Segurança e portaria 24h para a tranquilidade da sua família. Ambiente extremamente arborizado, tranquilo e com infraestrutura completa. Localização estratégica, próxima a polos comerciais, serviços essenciais e vias de acesso rápido. O espaço ideal para quem busca qualidade de vida, privacidade e valorização garantida. Entre em contato agora mesmo com a J. Martins Imóveis e agende uma visita com um dos nossos consultores!</description>
+    <address format="simple">
+      <component name="addr1">Avenida dos Sanhaços 1179</component>
+      <component name="city">São Carlos</component>
+      <component name="region">SP</component>
+    <component name="country">Brazil</component>
+      <component name="postal_code">13561390</component>
+    </address>
+    <neighborhood>Condominio Parque Das Araucarias</neighborhood>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQkY4RUI3MTVCQTFFNDY5OEE0NEY5NzAxNzEyMjJCN0ItZm90b3MvMzEyNmI0M2ItM2I3NWZlNTc5MTVhMWY5NmJlODY4ZjU4MzA4NDFhYWEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQkY4RUI3MTVCQTFFNDY5OEE0NEY5NzAxNzEyMjJCN0ItZm90b3MvNWZjYzkyZjItYTNiYmY4ODE2OTQ1YzRhMTM0NzBkYTY5NGQ5Y2Q4ZmQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQkY4RUI3MTVCQTFFNDY5OEE0NEY5NzAxNzEyMjJCN0ItZm90b3MvMGFkZTQ5MmUtOGY0NTdjNzJmNDk1YWVlNWUxM2Q2MmUwODY2NGNjN2IucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQkY4RUI3MTVCQTFFNDY5OEE0NEY5NzAxNzEyMjJCN0ItZm90b3MvOGU2MDZhZWItMzAwODQzNTdmNzg0MTRkNDBmODExNThmMTczNWJhZTkucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQkY4RUI3MTVCQTFFNDY5OEE0NEY5NzAxNzEyMjJCN0ItZm90b3MvODY1MTA1M2UtNDczMmNmZWI4MGM4ZWUzOTFkYmQ1NWY2Y2I1ODg2ZDUucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <listing_type>for_sale_by_agent</listing_type>
+    <num_beds>0</num_beds>
+    <num_baths>0</num_baths>
+    <price>345000 BRL</price>
+    <property_type>land</property_type>
+    <custom_label_1>Condominio Parque Das Araucarias</custom_label_1>
+    <custom_label_2>Avenida dos Sanhaços 1179</custom_label_2>
+    <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1345</url>
   </listing>
   <listing>
     <home_listing_id>1266V-MEU</home_listing_id>
