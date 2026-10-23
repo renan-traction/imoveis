@@ -4349,6 +4349,42 @@
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1093</url>
   </listing>
   <listing>
+    <home_listing_id>1357V-MEU</home_listing_id>
+    <name>Apartamento 3 quartos para Venda Parque Santa Mônica, São Carlos</name>
+    <title>Apartamento 3 quartos para Venda Parque Santa Mônica, São Carlos</title>
+    <availability>for_sale</availability>
+    <description>Excelente oportunidade de investimento ou moradia para quem busca espaço, conforto e uma localização verdadeiramente privilegiada em São Carlos. Este amplo apartamento de 3 dormitórios está situado no Parque Santa Mônica, um dos bairros mais valorizados e estruturados da cidade, garantindo excelente qualidade de vida. Características do Imóvel: 3 dormitórios bem distribuídos, oferecendo versatilidade para acomodar toda a família com conforto ou estruturar um ambiente para home office. Planta inteligente com ambientes integrados, arejados e com ótima iluminação natural ao longo do dia. Ótima localização: Posicionado estrategicamente no Parque Santa Mônica, o imóvel oferece acesso rápido aos principais polos comerciais, universidades, supermercados e conveniências da região, combinando a tranquilidade de um bairro residencial com a praticidade do dia a dia. Um imóvel perfeito para quem não abre mão de morar bem, com segurança e comodidade a poucos minutos de tudo o que você precisa. Gostou deste imóvel? Entre em contato agora mesmo com a J. Martins Imóveis e fale com um dos nossos consultores para agendar a sua visita e conhecer todos os detalhes!</description>
+    <address format="simple">
+      <component name="addr1">Rua São Sebastião 100</component>
+      <component name="city">São Carlos</component>
+      <component name="region">SP</component>
+    <component name="country">Brazil</component>
+      <component name="postal_code">13561207</component>
+    </address>
+    <neighborhood>Parque Santa Mônica</neighborhood>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNjZGMUU4NkZBNERGNEVDN0EyMjc3OUYyMDBEODI4OTItZm90b3MvMGNhZDNjNjYtZjcxNzkwMmZiZjBmYmQ4MGFjZmM4N2Y3M2ZmNmVjNTkuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTkyMCwiaGVpZ2h0IjoxMDgwLCJmaXQiOiJpbnNpZGUifSwidG9Gb3JtYXQiOiJqcGVnIiwianBlZyI6eyJxdWFsaXR5Ijo4MCwicHJvZ3Jlc3NpdmUiOnRydWV9fX0=</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNjZGMUU4NkZBNERGNEVDN0EyMjc3OUYyMDBEODI4OTItZm90b3MvNzk0NWEwNWItODViYzQxNjEzYjQwZjg5YTJlZDVkN2RmMWFhYzE4N2MuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTkyMCwiaGVpZ2h0IjoxMDgwLCJmaXQiOiJpbnNpZGUifSwidG9Gb3JtYXQiOiJqcGVnIiwianBlZyI6eyJxdWFsaXR5Ijo4MCwicHJvZ3Jlc3NpdmUiOnRydWV9fX0=</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNjZGMUU4NkZBNERGNEVDN0EyMjc3OUYyMDBEODI4OTItZm90b3MvM2ZjNWVkZGUtZDg3N2UxMWJlOWVjNjM0NDVkNTRiZjg2NmVlYWFmYmMuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTkyMCwiaGVpZ2h0IjoxMDgwLCJmaXQiOiJpbnNpZGUifSwidG9Gb3JtYXQiOiJqcGVnIiwianBlZyI6eyJxdWFsaXR5Ijo4MCwicHJvZ3Jlc3NpdmUiOnRydWV9fX0=</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNjZGMUU4NkZBNERGNEVDN0EyMjc3OUYyMDBEODI4OTItZm90b3MvMDY3OTc1NjEtNzMzMGY0ZTM0ODE4MTNkMzg5NTM1MDA3ODEwYjFjMTYuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTkyMCwiaGVpZ2h0IjoxMDgwLCJmaXQiOiJpbnNpZGUifSwidG9Gb3JtYXQiOiJqcGVnIiwianBlZyI6eyJxdWFsaXR5Ijo4MCwicHJvZ3Jlc3NpdmUiOnRydWV9fX0=</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNjZGMUU4NkZBNERGNEVDN0EyMjc3OUYyMDBEODI4OTItZm90b3MvNWMyNTkyMGYtZGNlNTI5YjkzMGM3NDVjNjZkOTkwNmE0MWFiYmU2OTkuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTkyMCwiaGVpZ2h0IjoxMDgwLCJmaXQiOiJpbnNpZGUifSwidG9Gb3JtYXQiOiJqcGVnIiwianBlZyI6eyJxdWFsaXR5Ijo4MCwicHJvZ3Jlc3NpdmUiOnRydWV9fX0=</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNjZGMUU4NkZBNERGNEVDN0EyMjc3OUYyMDBEODI4OTItZm90b3MvZjVmMGQwYzQtNTk3NzQ0M2ZmYmUzNTNhNjkwYjc2Yzk4M2NkZmNiOGUuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTkyMCwiaGVpZ2h0IjoxMDgwLCJmaXQiOiJpbnNpZGUifSwidG9Gb3JtYXQiOiJqcGVnIiwianBlZyI6eyJxdWFsaXR5Ijo4MCwicHJvZ3Jlc3NpdmUiOnRydWV9fX0=</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNjZGMUU4NkZBNERGNEVDN0EyMjc3OUYyMDBEODI4OTItZm90b3MvY2ZiMzZiOTUtNmNiMTBjZDdhYzFhNTk1NjM5MWJlMzExZmM2MWM3NzYuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTkyMCwiaGVpZ2h0IjoxMDgwLCJmaXQiOiJpbnNpZGUifSwidG9Gb3JtYXQiOiJqcGVnIiwianBlZyI6eyJxdWFsaXR5Ijo4MCwicHJvZ3Jlc3NpdmUiOnRydWV9fX0=</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNjZGMUU4NkZBNERGNEVDN0EyMjc3OUYyMDBEODI4OTItZm90b3MvMzRkMGNjNTMtNTg5MDMwNGNmZGYwNjliMTM3ZTliYzdiZDY5ZDYwMmQuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTkyMCwiaGVpZ2h0IjoxMDgwLCJmaXQiOiJpbnNpZGUifSwidG9Gb3JtYXQiOiJqcGVnIiwianBlZyI6eyJxdWFsaXR5Ijo4MCwicHJvZ3Jlc3NpdmUiOnRydWV9fX0=</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNjZGMUU4NkZBNERGNEVDN0EyMjc3OUYyMDBEODI4OTItZm90b3MvZmM4ODBmZGUtNjZhMDQ2YjA4MzI4ODM1NzBmNzZlNTVlNTFhMjQxZTQuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTkyMCwiaGVpZ2h0IjoxMDgwLCJmaXQiOiJpbnNpZGUifSwidG9Gb3JtYXQiOiJqcGVnIiwianBlZyI6eyJxdWFsaXR5Ijo4MCwicHJvZ3Jlc3NpdmUiOnRydWV9fX0=</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNjZGMUU4NkZBNERGNEVDN0EyMjc3OUYyMDBEODI4OTItZm90b3MvY2NjMjcyNzEtOTE3NzkxMDExMTI5OWQ3NzVlYWM0MDk2MWYyMDhkM2EuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTkyMCwiaGVpZ2h0IjoxMDgwLCJmaXQiOiJpbnNpZGUifSwidG9Gb3JtYXQiOiJqcGVnIiwianBlZyI6eyJxdWFsaXR5Ijo4MCwicHJvZ3Jlc3NpdmUiOnRydWV9fX0=</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNjZGMUU4NkZBNERGNEVDN0EyMjc3OUYyMDBEODI4OTItZm90b3MvYjk2NWJiODUtZmI5N2U3YzA5NGI1NmQ3MWZiYzhlMGMxZDU2NjQxZTIuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTkyMCwiaGVpZ2h0IjoxMDgwLCJmaXQiOiJpbnNpZGUifSwidG9Gb3JtYXQiOiJqcGVnIiwianBlZyI6eyJxdWFsaXR5Ijo4MCwicHJvZ3Jlc3NpdmUiOnRydWV9fX0=</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNjZGMUU4NkZBNERGNEVDN0EyMjc3OUYyMDBEODI4OTItZm90b3MvMmYzMTFlYTAtYjUyMGY2NDVjMzMzZDVlNzQyMDNhN2JjMTBkNDc1NDguanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTkyMCwiaGVpZ2h0IjoxMDgwLCJmaXQiOiJpbnNpZGUifSwidG9Gb3JtYXQiOiJqcGVnIiwianBlZyI6eyJxdWFsaXR5Ijo4MCwicHJvZ3Jlc3NpdmUiOnRydWV9fX0=</url></image>
+    <listing_type>for_sale_by_agent</listing_type>
+    <num_beds>3</num_beds>
+    <num_baths>3</num_baths>
+    <price>750000 BRL</price>
+    <property_type>apartment</property_type>
+    <custom_label_0>150m²</custom_label_0>
+    <custom_label_1>Parque Santa Mônica</custom_label_1>
+    <custom_label_2>Rua São Sebastião 100</custom_label_2>
+    <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1357</url>
+  </listing>
+  <listing>
     <home_listing_id>1232V-MEU</home_listing_id>
     <name>Casa de Condomínio 3 quartos para Venda Condomínio Residencial Montreal, São Carlos</name>
     <title>Casa de Condomínio 3 quartos para Venda Condomínio Residencial Montreal, São Carlos</title>
@@ -8638,39 +8674,6 @@
     <custom_label_1>Centro</custom_label_1>
     <custom_label_2>Centro</custom_label_2>
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1111</url>
-  </listing>
-  <listing>
-    <home_listing_id>790L-MEU</home_listing_id>
-    <name>Apartamento 2 quartos para Locação Centro, São Carlos</name>
-    <title>Apartamento 2 quartos para Locação Centro, São Carlos</title>
-    <availability>for_rent</availability>
-    <description>APARTAMENTO PARA LOCAÇÃO - CENTRO DE SÃO CARLOS Excelente apartamento de 2 quartos e 1 banheiro, com 74m² de área útil, localizado no Centro de São Carlos. O imóvel conta com garagem, proporcionando comodidade e segurança para seu veículo. A localização privilegiada no Centro oferece fácil acesso a comércios, serviços, bancos, restaurantes e transporte público. São Carlos é conhecida como a capital da tecnologia, com universidades renomadas como USP e UFSCar, garantindo um ambiente dinâmico e valorizado. O apartamento é ideal para profissionais, estudantes ou pequenas famílias que buscam praticidade e localização estratégica. A região central proporciona economia de tempo e deslocamento, com tudo ao alcance. Valor da locação: R$ 2.200,00 Agende sua visita e conheça este imóvel que combina localização excepcional com boa metragem e comodidades essenciais no coração de São Carlos.</description>
-    <address format="simple">
-      <component name="addr1">Rua Marechal Deodoro 23</component>
-      <component name="city">São Carlos</component>
-      <component name="region">SP</component>
-    <component name="country">Brazil</component>
-      <component name="postal_code">13560200</component>
-    </address>
-    <neighborhood>Centro</neighborhood>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDZGMzk1QzU2N0Q0NDkyQkI1QzQyRTI5OTMyMEJCQkEtZm90b3MvMTIyNzUwYzctMDZkOTZlMGFhZGE0NTNmN2JlNzUyNmMwMWUzNTBmODkuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDZGMzk1QzU2N0Q0NDkyQkI1QzQyRTI5OTMyMEJCQkEtZm90b3MvMTEwOGM3ODItN2UyYWE5ODdhODQ3MzY4ZDkxZjA2MWU4MWM2NWVmMTEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDZGMzk1QzU2N0Q0NDkyQkI1QzQyRTI5OTMyMEJCQkEtZm90b3MvM2JkYTlmYTQtNDdkYzJiNjAxMTRjNTUzZjIwNWZlMzk2NGJkMTNhY2UuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDZGMzk1QzU2N0Q0NDkyQkI1QzQyRTI5OTMyMEJCQkEtZm90b3MvN2VlNWJhOTAtYWRhNWViYTA2OGFlOThmNDBhYmUyZGJmZWUxMDY2M2MuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDZGMzk1QzU2N0Q0NDkyQkI1QzQyRTI5OTMyMEJCQkEtZm90b3MvMmFkNGE5MGQtZDJjNTI3NzVlYjMxMmY0YTFkYjFlZWFlZGQwYTQ4NDEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDZGMzk1QzU2N0Q0NDkyQkI1QzQyRTI5OTMyMEJCQkEtZm90b3MvZWQxN2M5ZmYtNzM2YWI3NjYzZGQ1YmE4N2QwZjAxZmMzNzg1YjRiNGMuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDZGMzk1QzU2N0Q0NDkyQkI1QzQyRTI5OTMyMEJCQkEtZm90b3MvNDUyNzY2NTctMjE4ZGY5MGQzZTkyNDI4Y2RiNzMwZWQyODE2ZDcyNDAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDZGMzk1QzU2N0Q0NDkyQkI1QzQyRTI5OTMyMEJCQkEtZm90b3MvODRjNTZmNmYtYjM4Yjg4NzM4ZTlhMTMzMTA1MjFmMDBlMzU4NzUzM2YuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDZGMzk1QzU2N0Q0NDkyQkI1QzQyRTI5OTMyMEJCQkEtZm90b3MvZWMwYWFkMzctMDZiNWFiZDlhNTdiOGM2Y2JjM2FiMzBhOGFkMmM3MWEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <listing_type>for_rent_by_agent</listing_type>
-    <num_beds>2</num_beds>
-    <num_baths>1</num_baths>
-    <price>2200 BRL</price>
-    <property_type>apartment</property_type>
-    <custom_label_0>74m²</custom_label_0>
-    <custom_label_1>Centro</custom_label_1>
-    <custom_label_2>Rua Marechal Deodoro 23</custom_label_2>
-    <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/790</url>
   </listing>
   <listing>
     <home_listing_id>1260V-MEU</home_listing_id>
