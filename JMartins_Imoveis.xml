@@ -848,25 +848,25 @@
     </address>
     <neighborhood>Cidade Jardim</neighborhood>
     <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTA0NzAzMUE0QTIxNEIwQThEMjhBMkI1MkNGRjg1MEItZm90b3MvNTUyYzY3NzgtYmZkMGI5MDBmYzU1NDJjNGQ0ZmVhNTQwMDNmMDQxNDUucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTA0NzAzMUE0QTIxNEIwQThEMjhBMkI1MkNGRjg1MEItZm90b3MvYTExNTJkNzQtOWY4M2VlMTIyMDdkNjc4ZDQwNDQ3ZWY4MDA0MmVkODQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTA0NzAzMUE0QTIxNEIwQThEMjhBMkI1MkNGRjg1MEItZm90b3MvMGYyN2I0YzctMGE4ZjEwZDY4ZjNhZjBhZDBmZjkwOTMzZWU0MTk3MWYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
     <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTA0NzAzMUE0QTIxNEIwQThEMjhBMkI1MkNGRjg1MEItZm90b3MvZDkwMDA5YTItNTIzNThhY2QyYzdkOGRhMTA0ZDZjNDM4OTI4ZWJjMmQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTA0NzAzMUE0QTIxNEIwQThEMjhBMkI1MkNGRjg1MEItZm90b3MvZjgyZGQ0N2QtNWFhNjRhNGZjOGY5YTAxNjM1ZGI1ZjVmMGJmNDkyMGYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTA0NzAzMUE0QTIxNEIwQThEMjhBMkI1MkNGRjg1MEItZm90b3MvYzRjZWMxY2QtNTc4Mjc2YjMzYTY5MWQxNjgxMjNkNWMxNGI1OTg1MDMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTA0NzAzMUE0QTIxNEIwQThEMjhBMkI1MkNGRjg1MEItZm90b3MvNjJiZjU5YjAtMzUxZTE0NjY3N2Q2ZWU3YjNmYWRiN2E0NTAyYzIwNjAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTA0NzAzMUE0QTIxNEIwQThEMjhBMkI1MkNGRjg1MEItZm90b3MvZjFkOTVhNzItODFlZjA5YTZiYzc3MjdmMDhmYjk2YzcwZDk5YWY1NTYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTA0NzAzMUE0QTIxNEIwQThEMjhBMkI1MkNGRjg1MEItZm90b3MvZWVmZDg4OWQtM2Q4ZjBmMGI3NDk4NmY3OWNlYzMyZDEyY2IwMGYyYzEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTA0NzAzMUE0QTIxNEIwQThEMjhBMkI1MkNGRjg1MEItZm90b3MvZjlmNzBmYjMtMTMxZGFjMzA4MWVjMDQ5ZmYyYzYwNTlkNzAyOGZkYjkucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTA0NzAzMUE0QTIxNEIwQThEMjhBMkI1MkNGRjg1MEItZm90b3MvZjBlYjVhMmEtZjYyNDE2ZGE0NWE0NmU4NjM1OGJiZjU5ZmNlZTZkZjQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTA0NzAzMUE0QTIxNEIwQThEMjhBMkI1MkNGRjg1MEItZm90b3MvNTc5MWE3MDctMGM4NTA1YWE3N2MzZWZmMjUxNGI3YThmMzY2MDAxYzAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
     <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTA0NzAzMUE0QTIxNEIwQThEMjhBMkI1MkNGRjg1MEItZm90b3MvMmY5NmFlMDQtZDNiYWIyNDdiNWVkM2NlMzcwNzZkNTc2M2M4OTFjNmUucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
     <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTA0NzAzMUE0QTIxNEIwQThEMjhBMkI1MkNGRjg1MEItZm90b3MvMzYzNjFiYzgtZTI3OWM3NTE4NzE3YTdiMmQwMmYyMzVlMzI5ZWZkZGIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTA0NzAzMUE0QTIxNEIwQThEMjhBMkI1MkNGRjg1MEItZm90b3MvYmVkNTk5MDAtZTQ2ZWQ4NzRkYjZkZTE2NDE5Y2FlYjM2ZDIzNTc2NjkucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
     <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTA0NzAzMUE0QTIxNEIwQThEMjhBMkI1MkNGRjg1MEItZm90b3MvZTk0YWZiM2ItZTE1NzQ3MmNjMmVkYTY2MmVhMTIzMjI2ZGI5ZmE2M2QucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTA0NzAzMUE0QTIxNEIwQThEMjhBMkI1MkNGRjg1MEItZm90b3MvM2FlMWNlMzYtZTQyMDFiNTRkYzFjMjA5MjVhMjllOGI3ZThhYTQ3ZjIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
     <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTA0NzAzMUE0QTIxNEIwQThEMjhBMkI1MkNGRjg1MEItZm90b3MvYzM0NTlkNmUtZTg3Y2M5NjAyMzQwNzlhYTc3ZTJhYmI3MDBhZjc2ZGIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
     <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTA0NzAzMUE0QTIxNEIwQThEMjhBMkI1MkNGRjg1MEItZm90b3MvMTcyNWYzMWQtZDFiOTA0MTYxZTMxMzA2YjcxYWE4NDkzNDhlNjNhM2MucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
     <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTA0NzAzMUE0QTIxNEIwQThEMjhBMkI1MkNGRjg1MEItZm90b3MvNTU1Y2Y3YjgtNTI3ZjUyZDUyNjNmYjNjZDJhNWY3ZTJhZWZjZDA2M2MucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTA0NzAzMUE0QTIxNEIwQThEMjhBMkI1MkNGRjg1MEItZm90b3MvOTlkNDc2MmQtYzZlYjIwMzY2NWExYTZkNmJjMmFjYzQxM2QzZTZmYmQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTA0NzAzMUE0QTIxNEIwQThEMjhBMkI1MkNGRjg1MEItZm90b3MvZTBhMTQ1OTUtZmY1MzE4MGMyZTlmNmNjY2I0MDAwMDBmOTkxMmE1MTgucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTA0NzAzMUE0QTIxNEIwQThEMjhBMkI1MkNGRjg1MEItZm90b3MvMjk4YzM2MjgtZjcyZjA0ZTE4MjliNjBiZTIyMzcxZjVlMTkwZjA4NjkucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTA0NzAzMUE0QTIxNEIwQThEMjhBMkI1MkNGRjg1MEItZm90b3MvZmExMTUyZGQtNDRmNjUwYTBiNTQxYzIzMGNhZjZjNmYxYjg5NjFmZTcucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTA0NzAzMUE0QTIxNEIwQThEMjhBMkI1MkNGRjg1MEItZm90b3MvOTBmNThjNjEtOTVmY2I2MTQ2ZDRiNjRlYWIwOTljMGMzNjE0ODZhNWQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTA0NzAzMUE0QTIxNEIwQThEMjhBMkI1MkNGRjg1MEItZm90b3MvZmMxNmYxNzItODg0NjBmZDBmMDk0ZDc0ZTNkMGI2OTVjOWRjMTdkOGYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTA0NzAzMUE0QTIxNEIwQThEMjhBMkI1MkNGRjg1MEItZm90b3MvNWQ0NTAxN2MtNDlhZGM3MGJlZTExOTViYTY1OTQ1ZTgwODA1YTMxMzkucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTA0NzAzMUE0QTIxNEIwQThEMjhBMkI1MkNGRjg1MEItZm90b3MvMmFlNjU2NzMtYzJiNDQ4MTg2OWQ0ZWRiNGE2MzY0MTc2N2JhMjYzM2QucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTA0NzAzMUE0QTIxNEIwQThEMjhBMkI1MkNGRjg1MEItZm90b3MvYmM0MWI0NWQtN2I0OTJkYTM3NDIwODFjNGI0N2FmYTk2ZGYxZmZmMzUucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTA0NzAzMUE0QTIxNEIwQThEMjhBMkI1MkNGRjg1MEItZm90b3MvY2NlOWI3YjMtODlkM2M4NGViMDc5NGRlYzU0M2QxYTUwOTAxZTkyYjkucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTA0NzAzMUE0QTIxNEIwQThEMjhBMkI1MkNGRjg1MEItZm90b3MvOTAwOThkOTgtODA0NzJhMzZkYjVlMWZhMTNiMDAzNTc2NGI2ZWUzYjcucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMTA0NzAzMUE0QTIxNEIwQThEMjhBMkI1MkNGRjg1MEItZm90b3MvNzcxYmJlZjctMjZhNGMwY2Y2MTk1ZThkMzgwZmExYTVhMDBkYmFhY2MucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
     <listing_type>for_rent_by_agent</listing_type>
     <num_beds>2</num_beds>
     <num_baths>2</num_baths>
@@ -1765,6 +1765,34 @@
     <custom_label_1>CEAT</custom_label_1>
     <custom_label_2>Rua José Zanetti 5100</custom_label_2>
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1346</url>
+  </listing>
+  <listing>
+    <home_listing_id>1358L-MEU</home_listing_id>
+    <name>Apartamento 2 quartos para Locação Vila Lutfalla, São Carlos</name>
+    <title>Apartamento 2 quartos para Locação Vila Lutfalla, São Carlos</title>
+    <availability>for_rent</availability>
+    <description>Praticidade e conforto em uma das localizações mais estratégicas da cidade. Este apartamento de 2 dormitórios na Vila Lutfalla é a escolha ideal para quem busca otimizar a rotina sem abrir mão do bem-estar. Com ambientes bem distribuídos e excelente iluminação natural, o imóvel oferece o espaço perfeito para estudantes, casais ou profissionais que valorizam mobilidade e conveniência. Destaques do Imóvel: 2 Dormitórios: Espaçosos, com ótima ventilação e prontos para acomodar sua rotina de descanso ou home office. Área Social Integrada: Sala para dois ambientes (estar e jantar), criando um espaço convidativo para receber visitas ou relaxar. Cozinha Funcional: Área prática, conectada à área de serviço para maior dinamismo no dia a dia. Banheiro Social: Com acabamento atualizado e box de vidro. 1 Vaga de Garagem: Segurança e comodidade para o seu veículo. Sobre a Vila Lutfalla: Morar aqui é ter a cidade aos seus pés. O bairro é amplamente reconhecido pela sua infraestrutura completa e proximidade com o campus da USP (Campus I), além de estar a poucos minutos da Santa Casa, supermercados, farmácias, padarias e do centro comercial de São Carlos. Fácil acesso ao transporte público e às principais vias da cidade.</description>
+    <address format="simple">
+      <component name="addr1">Avenida Getúlio Vargas 1000</component>
+      <component name="city">São Carlos</component>
+      <component name="region">SP</component>
+    <component name="country">Brazil</component>
+      <component name="postal_code">13570390</component>
+    </address>
+    <neighborhood>Vila Lutfalla</neighborhood>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjc2QzM2NzZBMkQ4NEE4QUIyMjAyN0RFMkE5RDkyRDMtZm90b3MvYWM5MmFlNDMtOTNhZjk2NDk5MDgwMDQ3Y2YyYWI3YThjMjNiYmUxMDAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjc2QzM2NzZBMkQ4NEE4QUIyMjAyN0RFMkE5RDkyRDMtZm90b3MvNzkxYzMzMjMtZWQ0MjI2OGE4NTY5YWYzMDcyNWFkYTFkMThiODdjZjQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjc2QzM2NzZBMkQ4NEE4QUIyMjAyN0RFMkE5RDkyRDMtZm90b3MvZTg2ZTZhMGYtYjUzOTNmMzA1Yjc4NmRhZTliMmZhMGE5MWRmM2Q2YTkucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjc2QzM2NzZBMkQ4NEE4QUIyMjAyN0RFMkE5RDkyRDMtZm90b3MvOTBiMTg0Y2YtYmQwYTM2YzYwNzQzMjIyMTEzMzRiYTE4MGE3ZTc3MmYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <listing_type>for_rent_by_agent</listing_type>
+    <num_beds>2</num_beds>
+    <num_baths>1</num_baths>
+    <price>2000 BRL</price>
+    <property_type>apartment</property_type>
+    <custom_label_0>51m²</custom_label_0>
+    <custom_label_1>Vila Lutfalla</custom_label_1>
+    <custom_label_2>Avenida Getúlio Vargas 1000</custom_label_2>
+    <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1358</url>
   </listing>
   <listing>
     <home_listing_id>1104V-MEU</home_listing_id>
@@ -4934,38 +4962,6 @@
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/757</url>
   </listing>
   <listing>
-    <home_listing_id>1269L-MEU</home_listing_id>
-    <name>SALÃO COMERCIAL PARA LOCAÇÃO NO CENTRO PADRE TEIXEIRA | SÃO CARLOS</name>
-    <title>SALÃO COMERCIAL PARA LOCAÇÃO NO CENTRO PADRE TEIXEIRA | SÃO CARLOS</title>
-    <availability>for_rent</availability>
-    <description>SALÃO COMERCIAL PARA LOCAÇÃO PADRE TEIXEIRA | SÃO CARLOS Excelente oportunidade para empresas que buscam visibilidade, fácil acesso e uma localização estratégica em uma das regiões mais movimentadas de São Carlos. Com 228 m² de área, este salão comercial está situado na Rua Padre Teixeira, endereço reconhecido pelo intenso fluxo de veículos e pedestres, cercado por comércios, serviços, clínicas, escritórios, bancos, escolas e diversas empresas consolidadas. A localização privilegiada proporciona grande exposição para a sua marca, facilitando a captação de clientes e o fortalecimento do seu negócio. Além disso, a região conta com fácil acesso aos principais bairros da cidade e ao centro, tornando o deslocamento prático para clientes e colaboradores. Destaques do imóvel: 228 m² de área Excelente visibilidade comercial Região de alto fluxo diário Fácil acesso ao Centro e principais avenidas Localização estratégica para diversos segmentos Entorno consolidado com forte atividade comercial Ideal para lojas, clínicas, escritórios, escolas, academias, centros de estética, showrooms e empresas em geral Se você procura um ponto comercial capaz de agregar valor ao seu negócio e aumentar sua presença no mercado, esta é uma oportunidade que merece sua atenção. Entre em contato para mais informações e agende uma visita. Seu próximo endereço comercial pode estar aqui.</description>
-    <address format="simple">
-      <component name="addr1">Rua Padre Teixeira 650</component>
-      <component name="city">São Carlos</component>
-      <component name="region">SP</component>
-    <component name="country">Brazil</component>
-      <component name="postal_code">13560210</component>
-    </address>
-    <neighborhood>Centro</neighborhood>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNzNDNUIzMTdEMjY0NDc1MDgyRkU5NEY4ODdGQzlDQUEtZm90b3MvY2FiZjVmZjgtMTM1YzUxOGM2NDQ0OGNjMTNhODc5ZGQwMTliNTFhYjkucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNzNDNUIzMTdEMjY0NDc1MDgyRkU5NEY4ODdGQzlDQUEtZm90b3MvMmNhM2NhMTYtNmJhY2UxYTg5NzE1OWQ1MDRjMTgyMzdjMzljMzRiNGYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNzNDNUIzMTdEMjY0NDc1MDgyRkU5NEY4ODdGQzlDQUEtZm90b3MvMTRiY2JkZWUtYmY2YjIxYTk0NDgxMGFhMDY3ZjBlMjg3NmMxNTFmYzEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNzNDNUIzMTdEMjY0NDc1MDgyRkU5NEY4ODdGQzlDQUEtZm90b3MvNzQ4ZTgwMjYtNWRjNjRjNDE4N2M3MjU0MjU3MDBjZGZhZGUyZTRhNGUucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNzNDNUIzMTdEMjY0NDc1MDgyRkU5NEY4ODdGQzlDQUEtZm90b3MvYjVhNzVmMWUtZGIyNTBhOGRkN2M0ZGQ5ZGNiMjJmZTU2OGVhNTAwY2UucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNzNDNUIzMTdEMjY0NDc1MDgyRkU5NEY4ODdGQzlDQUEtZm90b3MvNGY1ZGI3MDktNGU4ZGUzN2E4MTg5M2NkNTEzNmYyN2U4ZGExMzkzNGYuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTkyMCwiaGVpZ2h0IjoxMDgwLCJmaXQiOiJpbnNpZGUifSwidG9Gb3JtYXQiOiJqcGVnIiwianBlZyI6eyJxdWFsaXR5Ijo4MCwicHJvZ3Jlc3NpdmUiOnRydWV9fX0=</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNzNDNUIzMTdEMjY0NDc1MDgyRkU5NEY4ODdGQzlDQUEtZm90b3MvYWQwOTU1MDMtNzQwNzk0NWFlYzliOWYxNmQ3OGU2NmRjNDMxNDkxZGQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNzNDNUIzMTdEMjY0NDc1MDgyRkU5NEY4ODdGQzlDQUEtZm90b3MvMTYxZDhjZGUtYTQzYTY1YmM0Njg1YzdjN2VlM2I0MTRiYzYwMWE1MjEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <listing_type>for_rent_by_agent</listing_type>
-    <num_beds>1</num_beds>
-    <num_baths>2</num_baths>
-    <price>12550 BRL</price>
-    <property_type>other</property_type>
-    <custom_label_0>228m²</custom_label_0>
-    <custom_label_1>Centro</custom_label_1>
-    <custom_label_2>Rua Padre Teixeira 650</custom_label_2>
-    <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1269</url>
-  </listing>
-  <listing>
     <home_listing_id>1139V-MEU</home_listing_id>
     <name>Casa 3 quartos para Venda Parque Delta, São Carlos</name>
     <title>Casa 3 quartos para Venda Parque Delta, São Carlos</title>
@@ -6064,38 +6060,6 @@
     <custom_label_1>Jardim Hikari</custom_label_1>
     <custom_label_2>Rua Vicente Petrilli 322</custom_label_2>
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1142</url>
-  </listing>
-  <listing>
-    <home_listing_id>1290L-MEU</home_listing_id>
-    <name>SALÕES COMERCIAIS PARA LOCAÇÃO NO CENTRO | RUA PADRE TEIXEIRA</name>
-    <title>SALÕES COMERCIAIS PARA LOCAÇÃO NO CENTRO | RUA PADRE TEIXEIRA</title>
-    <availability>for_rent</availability>
-    <description>Uma localização estratégica para o seu negócio em São Carlos. Situados na Rua Padre Teixeira, os salões estão em uma região de grande circulação e acesso, oferecendo praticidade para clientes, colaboradores e fornecedores. Cada salão possui: 1 com 106 m² de área e o outro com 122 m² de área 2 banheiros Espaço amplo e versátil Os salões podem ser locados individualmente ou se necessitar de uma estrutura maior, existe a possibilidade de locação conjunta, ampliando a área disponível. Uma excelente alternativa para comércio, serviços, escritórios, clínicas, empresas e diversas outras atividades que buscam um endereço estratégico em São Carlos. Valor: R$ 5.500,00 salão de esquina (valor referente à locação de 1 salão com 2 banheiros). Valor: R$ 6.000,00 salão lado direito (valor referente à locação de 1 salão com 2 banheiros). Consulte-nos para conhecer as condições de locação e disponibilidade.</description>
-    <address format="simple">
-      <component name="addr1">Rua Padre Teixeira 655</component>
-      <component name="city">São Carlos</component>
-      <component name="region">SP</component>
-    <component name="country">Brazil</component>
-      <component name="postal_code">13560210</component>
-    </address>
-    <neighborhood>Centro</neighborhood>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tOTgzNTIwODVCQjI3NDNGMEIyRDE5RTBBNUIxN0REOEUtZm90b3MvZmQ5NzBkMTAtMzU2OTE0YjU4MGRlNWE4OTU1ZWJlNGY2Y2I5NmIzZmIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tOTgzNTIwODVCQjI3NDNGMEIyRDE5RTBBNUIxN0REOEUtZm90b3MvYzI0ZmQ2YzktNjI4NjVkZjJkNjBhOTY2YTEwYjk3ZTE4MDc0YmQwNTYuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tOTgzNTIwODVCQjI3NDNGMEIyRDE5RTBBNUIxN0REOEUtZm90b3MvYzA1Y2YyODktYmY2YjIxYTk0NDgxMGFhMDY3ZjBlMjg3NmMxNTFmYzEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tOTgzNTIwODVCQjI3NDNGMEIyRDE5RTBBNUIxN0REOEUtZm90b3MvMTA5MTRkOGYtNWRjNjRjNDE4N2M3MjU0MjU3MDBjZGZhZGUyZTRhNGUucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tOTgzNTIwODVCQjI3NDNGMEIyRDE5RTBBNUIxN0REOEUtZm90b3MvZjc2ZmRlZDQtZGIyNTBhOGRkN2M0ZGQ5ZGNiMjJmZTU2OGVhNTAwY2UucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tOTgzNTIwODVCQjI3NDNGMEIyRDE5RTBBNUIxN0REOEUtZm90b3MvZTU0NjFlYmEtNGU4ZGUzN2E4MTg5M2NkNTEzNmYyN2U4ZGExMzkzNGYuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTkyMCwiaGVpZ2h0IjoxMDgwLCJmaXQiOiJpbnNpZGUifSwidG9Gb3JtYXQiOiJqcGVnIiwianBlZyI6eyJxdWFsaXR5Ijo4MCwicHJvZ3Jlc3NpdmUiOnRydWV9fX0=</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tOTgzNTIwODVCQjI3NDNGMEIyRDE5RTBBNUIxN0REOEUtZm90b3MvYzNmOWIzZTgtNzQwNzk0NWFlYzliOWYxNmQ3OGU2NmRjNDMxNDkxZGQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tOTgzNTIwODVCQjI3NDNGMEIyRDE5RTBBNUIxN0REOEUtZm90b3MvN2YzMWM0OTQtYTQzYTY1YmM0Njg1YzdjN2VlM2I0MTRiYzYwMWE1MjEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <listing_type>for_rent_by_agent</listing_type>
-    <num_beds>0</num_beds>
-    <num_baths>2</num_baths>
-    <price>5500 BRL</price>
-    <property_type>other</property_type>
-    <custom_label_0>106m²</custom_label_0>
-    <custom_label_1>Centro</custom_label_1>
-    <custom_label_2>Rua Padre Teixeira 655</custom_label_2>
-    <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1290</url>
   </listing>
   <listing>
     <home_listing_id>1332V-MEU</home_listing_id>
@@ -7715,42 +7679,6 @@
     <custom_label_1>Jardim Brasil</custom_label_1>
     <custom_label_2>Rua Totó Leite 344</custom_label_2>
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1168</url>
-  </listing>
-  <listing>
-    <home_listing_id>1286L-MEU</home_listing_id>
-    <name>Casa 3 quartos para Locação e Venda no Parque Tecnológico Damha I São Carlos, São Carlos</name>
-    <title>Casa 3 quartos para Locação e Venda no Parque Tecnológico Damha I São Carlos, São Carlos</title>
-    <availability>for_rent</availability>
-    <description>Residência Térrea de Alto Padrão à Venda no Residencial Damha I Porteira Fechada | São Carlos/SP Apresentamos uma belíssima residência térrea, oferecida porteira fechada, localizada em um dos condomínios mais valorizados e desejados de São Carlos: o Residencial Damha I. Com 499 m² de terreno e 205 m² de área construída, esta casa foi construída há apenas 3 anos e reúne arquitetura contemporânea, excelente padrão construtivo e acabamentos de alto nível, proporcionando conforto, sofisticação e praticidade no dia a dia. A área íntima conta com 3 amplas suítes, todas equipadas com móveis planejados e ar-condicionado. Ao todo, o imóvel dispõe de 4 banheiros e 4 vagas de garagem. A área social encanta pelo pé-direito duplo nas salas de estar e jantar, criando ambientes amplos, iluminados e elegantes. A residência também oferece sala de TV, cozinha, copa, escritório, despensa, lavanderia e uma excelente área gourmet, perfeita para momentos de lazer e confraternização. Como diferencial, o imóvel conta ainda com uma edícula completa, composta por quarto, sala, cozinha e banheiro, ideal para receber hóspedes, acomodar familiares ou até mesmo ser utilizada como espaço de apoio. Entre os diferenciais que tornam esta residência ainda mais especial, destacam-se: * Residência térrea; * Porteira fechada (toda a mobília inclusa); * Móveis planejados em todos os ambientes; * Ar-condicionado em todos os ambientes; * Aquecimento solar; * Sistema de energia fotovoltaica; * Acabamentos em porcelanato Portinari em toda a residência; * Casa com apenas 3 anos de construção; * Excelente padrão de acabamento e conservação. Uma excelente oportunidade para quem busca um imóvel completo, moderno e pronto para morar, em um dos melhores condomínios de São Carlos. Agende sua visita e venha conhecer de perto todos os detalhes desta incrível residência.</description>
-    <address format="simple">
-      <component name="addr1">Avenida Miguel Damha 1000</component>
-      <component name="city">São Carlos</component>
-      <component name="region">SP</component>
-    <component name="country">Brazil</component>
-      <component name="postal_code">13565251</component>
-    </address>
-    <neighborhood>Parque Tecnológico Damha I São Carlos</neighborhood>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQkYyOEQ1NTVFN0NBNDk1QjlBQTI3MDA0NUQ1NjA2MDEtZm90b3MvYmNmMTBiMTMtYzEyZTIzZjdhZTczMmZmYzdiZGJmOWI0YzU4Nzc0NGQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQkYyOEQ1NTVFN0NBNDk1QjlBQTI3MDA0NUQ1NjA2MDEtZm90b3MvZTA3OTZiNDQtMmNiN2RhOThjYzVhZGY4MTM2OTk5NWFmOTgwOWFiOTAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQkYyOEQ1NTVFN0NBNDk1QjlBQTI3MDA0NUQ1NjA2MDEtZm90b3MvYzZhNGEyODgtNTg5OWM1MmVmMDIwYTRmZDY4YjJhZTA1YmM3NGExZTQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQkYyOEQ1NTVFN0NBNDk1QjlBQTI3MDA0NUQ1NjA2MDEtZm90b3MvZDBkZjczMjgtMWE3YjI4NzdiMWNhYzM5M2FlYjRkMjg3M2Y1NTZmYjUuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQkYyOEQ1NTVFN0NBNDk1QjlBQTI3MDA0NUQ1NjA2MDEtZm90b3MvNGFhMWY0ZmEtNGU1NTAxOWNkZjYxYjg2NzIwNmE1ZDE4MmNiMjQ3ZDguanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQkYyOEQ1NTVFN0NBNDk1QjlBQTI3MDA0NUQ1NjA2MDEtZm90b3MvNTZmZjgzNDctNTZhYjBlYTZlOTNlNjEyY2ZhYzA3MTY1MTE4MzNkNDAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQkYyOEQ1NTVFN0NBNDk1QjlBQTI3MDA0NUQ1NjA2MDEtZm90b3MvYThmNzUzMGUtYTkyZjRmZmVhMjBhNjkzMGMwZTBiOTQ0Y2E1ZDc5YzUuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQkYyOEQ1NTVFN0NBNDk1QjlBQTI3MDA0NUQ1NjA2MDEtZm90b3MvNWQ2YmIwNGMtODI0MDFkNDcyZjdiYWI3ZmNkMzgxNzRmMjU0YTU5NjIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQkYyOEQ1NTVFN0NBNDk1QjlBQTI3MDA0NUQ1NjA2MDEtZm90b3MvMjJkOGVhMmQtNjE2ZDRiODRmZDA4NzZmMmM3NGViYmI0NDZjNDVjYjIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQkYyOEQ1NTVFN0NBNDk1QjlBQTI3MDA0NUQ1NjA2MDEtZm90b3MvOWU1MTBjM2YtYWRhMWE2MzYwYzA0ZDc0MGVmYWJlODc2ZWQyY2JmMjguanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tQkYyOEQ1NTVFN0NBNDk1QjlBQTI3MDA0NUQ1NjA2MDEtZm90b3MvMzQ3ZmU3MzItNzFlMDJhYzhiZWI0ZTYwN2ExMjkzN2RlZjQ3MjZjZTkuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
-    <listing_type>for_rent_by_agent</listing_type>
-    <num_beds>3</num_beds>
-    <num_baths>4</num_baths>
-    <price>10000 BRL</price>
-    <property_type>condo</property_type>
-    <custom_label_0>205m²</custom_label_0>
-    <custom_label_1>Parque Tecnológico Damha I São Carlos</custom_label_1>
-    <custom_label_2>Avenida Miguel Damha 1000</custom_label_2>
-    <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1286</url>
-    <year_built>2023</year_built>
   </listing>
   <listing>
     <home_listing_id>1286V-MEU</home_listing_id>
