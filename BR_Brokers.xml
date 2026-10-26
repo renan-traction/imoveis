@@ -2,6 +2,335 @@
 <listings>
   <title>Brasil Brokers - Imóveis prontos</title>
   <listing>
+    <home_listing_id>2016762</home_listing_id>
+    <name>Apartamento à venda 2 Quartos com Suíte e Vaga na Escritura em Vila Isabel</name>
+    <title>Apartamento à venda 2 Quartos com Suíte e Vaga na Escritura em Vila Isabel</title>
+    <availability>for_sale</availability>
+    <description>COD 2016762 - Se você procura um apartamento confortável, funcional e bem localizado na Zona Norte do Rio de Janeiro, esta é uma excelente opção para conhecer em Vila Isabel. Com 68 m² de área útil, o imóvel apresenta uma planta bem distribuída, composta por sala ampla para dois ambientes, dois quartos, sendo uma suíte com armários, banheiro social com box blindex e armário, cozinha espaçosa com armários planejados, além de uma área de serviço ampla e um banheiro de serviço, atualmente utilizada como despensa. O apartamento possui ambientes funcionais e está pronto para morar, sendo uma boa alternativa para quem deseja se mudar sem precisar realizar uma reforma geral, mantendo também a possibilidade de personalizar alguns detalhes de acordo com seu estilo. Um diferencial importante é a vaga de garagem na escritura. A vaga pode ser coberta ou descoberta, conforme as condições e a disponibilidade a serem confirmadas junto ao condomínio. O condomínio é formado por dois prédios com fachada revestida em cerâmica e áreas ajardinadas, proporcionando um ambiente agradável. Conta com elevador, portaria com controle eletrônico, zelador, interfone, câmeras de segurança e espaço verde para convivência, descanso e brincadeiras das crianças. A localização facilita a rotina, com proximidade da UERJ, do Maracanã, das estações de trem e metrô do Maracanã, além de transporte público, escolas, universidades, comércio e serviços da região. O imóvel está vazio, possui documentação informada como regular e aceita financiamento bancário e FGTS. Também conta com IPTU isento, conforme informado. Uma opção interessante para casais, famílias pequenas ou compradores que buscam um apartamento com suíte, vaga na escritura, armários e áreas verdes em uma localização estratégica. Entre em contato para consultar o valor de venda, as condições do condomínio e agendar uma visita.</description>
+    <address format="simple">
+      <component name="addr1">Rua Oito de Dezembro 288</component>
+      <component name="city">Rio de Janeiro</component>
+      <component name="region">RJ</component>
+    <component name="country">Brazil</component>
+      <component name="postal_code">20550-201</component>
+    </address>
+    <latitude>-22.909626</latitude>
+    <longitude>-43.240083</longitude>
+    <neighborhood>Vila Isabel</neighborhood>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1572999/2016762/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573068/2016762/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573067/2016762/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1572996/2016762/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573066/2016762/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573071/2016762/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573069/2016762/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573070/2016762/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1572998/2016762/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573000/2016762/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573001/2016762/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1572997/2016762/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573003/2016762/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573010/2016762/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573006/2016762/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573007/2016762/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573008/2016762/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573009/2016762/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573011/2016762/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573012/2016762/1080/768/foto.jpg</url></image>
+    <listing_type>for_sale_by_agent</listing_type>
+    <num_beds>2</num_beds>
+    <num_baths>2</num_baths>
+    <price>400000 BRL</price>
+    <property_type>apartment</property_type>
+    <custom_label_0>68m²</custom_label_0>
+    <custom_label_1>Vila Isabel</custom_label_1>
+    <custom_label_2>Rua Oito de Dezembro 288</custom_label_2>
+    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2016762</url>
+    <year_built>1977</year_built>
+  </listing>
+  <listing>
+    <home_listing_id>2012205</home_listing_id>
+    <name>CASA DUPLEX À VENDA NO JARDIM GUANABARA - ILHA DO GOVERNADOR - 372m²</name>
+    <title>CASA DUPLEX À VENDA NO JARDIM GUANABARA - ILHA DO GOVERNADOR - 372m²</title>
+    <availability>for_sale</availability>
+    <description>COD 2012205 - Casa duplex imponente à venda no Jardim Guanabara – 372 m² de área construída Excelente casa duplex, construída no centro do terreno, com projeto amplo e muito bem distribuído, ideal para quem busca conforto, espaço e lazer em um dos bairros mais valorizados da Ilha do Governador. No primeiro pavimento, a casa é composta por três ambientes de sala muito bem definidos: Sala de estar, Sala de jantar e Sala de convivência. Além disso, conta com um quarto térreo, perfeito para hóspedes ou apoio, lavabo, uma cozinha extremamente ampla, área de serviço independente e, nos fundos, um verdadeiro espaço de lazer: área gourmet completa, com piscina, churrasqueira, canil e dependência completa de empregada. No segundo pavimento, a área íntima oferece três quartos, sendo uma suíte com closet, além de um hall que hoje funciona como escritório ou sala de estudos, com acesso a um varandão, trazendo ainda mais conforto e ventilação natural e um banheiro social espaçoso. No nível da rua, a casa dispõe de uma garagem ampla, com capacidade para três veículos, garantindo praticidade e segurança. São 372 m² de área construída, em uma residência sólida, espaçosa e com excelente potencial para quem deseja morar bem ou investir em um imóvel diferenciado no Jardim Guanabara. Parte Elétrica novas.</description>
+    <address format="simple">
+      <component name="addr1">Rua Breno Guimarães 236</component>
+      <component name="city">Rio de Janeiro</component>
+      <component name="region">RJ</component>
+    <component name="country">Brazil</component>
+      <component name="postal_code">21931-310</component>
+    </address>
+    <latitude>-22.806304</latitude>
+    <longitude>-43.205075</longitude>
+    <neighborhood>Jardim Guanabara</neighborhood>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400015/2012205/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400053/2012205/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400052/2012205/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400016/2012205/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400018/2012205/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400051/2012205/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400050/2012205/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400049/2012205/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400047/2012205/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400048/2012205/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400046/2012205/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400045/2012205/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400044/2012205/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400043/2012205/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400041/2012205/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400042/2012205/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400040/2012205/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400038/2012205/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400037/2012205/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400036/2012205/1080/768/foto.jpg</url></image>
+    <listing_type>for_sale_by_agent</listing_type>
+    <num_beds>4</num_beds>
+    <num_baths>3</num_baths>
+    <price>1300000 BRL</price>
+    <property_type>house</property_type>
+    <custom_label_0>372m²</custom_label_0>
+    <custom_label_1>Jardim Guanabara</custom_label_1>
+    <custom_label_2>Rua Breno Guimarães 236</custom_label_2>
+    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2012205</url>
+    <year_built>1970</year_built>
+  </listing>
+  <listing>
+    <home_listing_id>2014970</home_listing_id>
+    <name>Cobertura duplex reformada, com 180m em Botafogo</name>
+    <title>Cobertura duplex reformada, com 180m em Botafogo</title>
+    <availability>for_sale</availability>
+    <description>COD 2014970 - Cobertura Duplex Reformada com Piscina Privativa e Vista Deslumbrante em Botafogo Viva a experiência de morar em uma cobertura duplex exclusiva, totalmente reformada, com 180m² de área útil, ambientes amplos, área de lazer privativa e uma vista encantadora do Rio de Janeiro. Destaques do Imóvel • 180m² de área útil • Cobertura duplex totalmente reformada • 4 quartos • 2 suítes • Sala ampla em 2 ambientes • Varanda integrada • Banheiro social • Cozinha planejada • Área de serviço • 2 vagas de garagem • Aceita financiamento Primeiro Pavimento • Sala espaçosa distribuída em dois ambientes • Varanda integrada • 3 quartos bem iluminados, sendo 1 suíte • Banheiro social moderno • Cozinha planejada • Área de serviço funcional Segundo Pavimento • Suíte ampla e privativa • Área externa exclusiva • Piscina privativa • Churrasqueira • Vista panorâmica para a cidade Infraestrutura do Condomínio • Condomínio moderno e sofisticado • Segurança 24 horas • Portaria com controle de acesso • Circuito interno de monitoramento • Paisagismo cuidadosamente planejado Lazer Completo • Piscina adulto • Piscina infantil • Sauna • Playground • Salão de festas • Espaço gourmet • Salão de jogos • Brinquedoteca • 2 churrasqueiras Localização Localizada em Botafogo, um dos bairros mais desejados do Rio de Janeiro, com fácil acesso a comércio, serviços, gastronomia, transporte e tudo o que você precisa para viver com praticidade e qualidade de vida. Agende sua visita e descubra todos os detalhes desta cobertura única, que reúne conforto, exclusividade e lazer completo em um dos melhores endereços da Zona Sul carioca.</description>
+    <address format="simple">
+      <component name="addr1">Rua Fernandes Guimarães 25</component>
+      <component name="city">Rio de Janeiro</component>
+      <component name="region">RJ</component>
+    <component name="country">Brazil</component>
+      <component name="postal_code">22290-000</component>
+    </address>
+    <latitude>-22.9556758</latitude>
+    <longitude>-43.1819472</longitude>
+    <neighborhood>Botafogo</neighborhood>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536600/2014970/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536597/2014970/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536615/2014970/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536612/2014970/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536626/2014970/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536649/2014970/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536635/2014970/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536625/2014970/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536643/2014970/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536640/2014970/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536613/2014970/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536616/2014970/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536627/2014970/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536631/2014970/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536651/2014970/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536617/2014970/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536630/2014970/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536641/2014970/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536644/2014970/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536614/2014970/1080/768/foto.jpg</url></image>
+    <listing_type>for_sale_by_agent</listing_type>
+    <num_beds>4</num_beds>
+    <num_baths>3</num_baths>
+    <price>2590000 BRL</price>
+    <property_type>apartment</property_type>
+    <custom_label_0>180m²</custom_label_0>
+    <custom_label_1>Botafogo</custom_label_1>
+    <custom_label_2>Rua Fernandes Guimarães 25</custom_label_2>
+    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2014970</url>
+    <year_built>2014</year_built>
+  </listing>
+  <listing>
+    <home_listing_id>2016771</home_listing_id>
+    <name>Apartamento à venda 2 quartos e vaga / dependência de serviço completa</name>
+    <title>Apartamento à venda 2 quartos e vaga / dependência de serviço completa</title>
+    <availability>for_sale</availability>
+    <description>COD 2016771 - APARTAMENTO À VENDA EM COPACABANA – RUA SIQUEIRA CAMPOS Excelente oportunidade em uma das localizações mais privilegiadas de Copacabana, a apenas 50 metros do metrô e 300 metros da praia! Apartamento totalmente reformado e mobiliado, com 61 m² registrados, aparentando ter aproximadamente 67 m² de área útil. Características do imóvel 2 quartos, sendo 1 suíte; Dependência completa; Vaga de garagem na escritura; Fundos, com vista aberta; Sol da manhã; Extremamente silencioso e arejado; Totalmente reformado e mobiliado. Condomínio Portaria 24 horas; Salão de festas; Playground;</description>
+    <address format="simple">
+      <component name="addr1">Rua Siqueira Campos 74</component>
+      <component name="city">Rio de Janeiro</component>
+      <component name="region">RJ</component>
+    <component name="country">Brazil</component>
+      <component name="postal_code">22031-072</component>
+    </address>
+    <latitude>-22.9638226</latitude>
+    <longitude>-43.1910626</longitude>
+    <neighborhood>Copacabana</neighborhood>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573451/2016771/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573397/2016771/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573390/2016771/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573391/2016771/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573393/2016771/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573455/2016771/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573456/2016771/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573457/2016771/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573394/2016771/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573395/2016771/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573396/2016771/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573398/2016771/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573453/2016771/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573403/2016771/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573404/2016771/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573402/2016771/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573405/2016771/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573377/2016771/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573400/2016771/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573399/2016771/1080/768/foto.jpg</url></image>
+    <listing_type>for_sale_by_agent</listing_type>
+    <num_beds>2</num_beds>
+    <num_baths>2</num_baths>
+    <price>1300000 BRL</price>
+    <property_type>apartment</property_type>
+    <custom_label_0>61m²</custom_label_0>
+    <custom_label_1>Copacabana</custom_label_1>
+    <custom_label_2>Rua Siqueira Campos 74</custom_label_2>
+    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2016771</url>
+    <year_built>1979</year_built>
+  </listing>
+  <listing>
+    <home_listing_id>2015098</home_listing_id>
+    <name>Apartamento à venda com 68,00m² e 1 quarto em Ribeira, Rio de Janeiro - RJ</name>
+    <title>Apartamento à venda com 68,00m² e 1 quarto em Ribeira, Rio de Janeiro - RJ</title>
+    <availability>for_sale</availability>
+    <description>COD 2015098 - Descubra seu novo lar na pitoresca Ribeira, Rio de Janeiro. Este apartamento à venda oferece uma experiência de vida agradável, combinando conforto e uma boa localização. Imagine acordar com uma vista para o mar da Baía de Guanabara, diretamente da sua varanda privativa. Com 68m² de área útil, este imóvel inteligente e bem distribuído conta com um quarto aconchegante de boas dimensões, uma cozinha funcional, banheiro social e um pequeno banheiro de serviço, que faz parte das dependências de empregada, oferecendo flexibilidade para suas necessidades. Para sua comodidade, inclui uma vaga de garagem exclusiva. Situado no terceiro andar, garante privacidade e ótima iluminação natural. Perfeito para quem busca conforto, praticidade e a tranquilidade de morar próximo ao mar da cidade do Rio de Janeiro. Não deixe escapar esta oportunidade! Agende sua visita e venha conhecer este apartamento dos sonhos. Contate-nos hoje mesmo para mais informações e comece a viver a vida que você merece na Ribeira.</description>
+    <address format="simple">
+      <component name="addr1">Praia do Jequia 158</component>
+      <component name="city">Rio de Janeiro</component>
+      <component name="region">RJ</component>
+    <component name="country">Brazil</component>
+      <component name="postal_code">21930-010</component>
+    </address>
+    <latitude>-22.824147</latitude>
+    <longitude>-43.173357</longitude>
+    <neighborhood>Ribeira</neighborhood>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509427/2015098/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509422/2015098/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509423/2015098/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509420/2015098/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509424/2015098/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509421/2015098/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509425/2015098/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509426/2015098/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509451/2015098/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509428/2015098/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509429/2015098/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509430/2015098/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509437/2015098/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509432/2015098/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509442/2015098/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509439/2015098/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509448/2015098/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509446/2015098/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509445/2015098/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509449/2015098/1080/768/foto.jpg</url></image>
+    <listing_type>for_sale_by_agent</listing_type>
+    <num_beds>1</num_beds>
+    <num_baths>1</num_baths>
+    <price>230000 BRL</price>
+    <property_type>apartment</property_type>
+    <custom_label_0>68m²</custom_label_0>
+    <custom_label_1>Ribeira</custom_label_1>
+    <custom_label_2>Praia do Jequia 158</custom_label_2>
+    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2015098</url>
+    <year_built>1985</year_built>
+  </listing>
+  <listing>
+    <home_listing_id>1008017</home_listing_id>
+    <name>Apartamento tipo FLAT - quarto e sala no LEBLON!</name>
+    <title>Apartamento tipo FLAT - quarto e sala no LEBLON!</title>
+    <availability>for_sale</availability>
+    <description>COD 1008017 - Apartamento tipo flat, com 50 m², vista panorâmica para o mar do Leblon, totalmente reformado, quarto e sala ampla (podendo ser dividida em 2 ambientes), armários embutidos, cozinha equipada, banheiro social. Apartamento super arejado e luminoso. Todo mobiliado e com ar condicionado. O prédio possui serviço diário de arrumadeira, academia, restaurante, segurança interna, piscina. Facilidade para alugar vaga de garagem no prédio Excelente localização, alguns passos da praia do Leblon, do Shoppings Rio Design e Shopping Leblon. Metrô ao lado. Condomínio conta, ainda, com restaurante e espaço de lazer. A recepção tem total segurança com câmeras instaladas nas áreas comuns.</description>
+    <address format="simple">
+      <component name="addr1">Rua Almirante Guilhem 332</component>
+      <component name="city">Rio de Janeiro</component>
+      <component name="region">RJ</component>
+    <component name="country">Brazil</component>
+      <component name="postal_code">22440-000</component>
+    </address>
+    <latitude>-22.9834711</latitude>
+    <longitude>-43.21856820000</longitude>
+    <neighborhood>Leblon</neighborhood>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796292/1008017/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796288/1008017/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796299/1008017/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796301/1008017/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796305/1008017/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796293/1008017/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796284/1008017/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796302/1008017/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796296/1008017/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796304/1008017/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796283/1008017/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796303/1008017/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796297/1008017/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796294/1008017/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796286/1008017/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796306/1008017/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796290/1008017/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796295/1008017/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796300/1008017/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796291/1008017/1080/768/foto.jpg</url></image>
+    <listing_type>for_sale_by_agent</listing_type>
+    <num_beds>1</num_beds>
+    <num_baths>1</num_baths>
+    <price>2400000 BRL</price>
+    <property_type>apartment</property_type>
+    <custom_label_0>50m²</custom_label_0>
+    <custom_label_1>Leblon</custom_label_1>
+    <custom_label_2>Rua Almirante Guilhem 332</custom_label_2>
+    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/1008017</url>
+    <year_built>1980</year_built>
+  </listing>
+  <listing>
+    <home_listing_id>2010198</home_listing_id>
+    <name>Casa no Condomínio das Parc. das Palmiers - Recreio dos Bandeirantes.</name>
+    <title>Casa no Condomínio das Parc. das Palmiers - Recreio dos Bandeirantes.</title>
+    <availability>for_sale</availability>
+    <description>COD 2010198 - : OPORTUNIDADE IMPERDÍVEL – PREÇO REDUZIDO! De R$ 4.500.000,00 por R$ 3.990.000,00 - Casa nova triplex no Parque das Palmeiras 640 m² de área construída, 5 suítes amplas. Agora 100% equipada e pronta para morar! É entrar e trazer apenas a mobília. Diferenciais inclusos: ✔ Iluminação completa instalada ✔ Armários planejados em todas as bancadas e closets ✔ Cozinha equipada com cooktop na ilha central + forno de convecção na torre quente ✔ Banheiros completos com boxes e acabamentos instalados ✔ Boiler e sistema de gás prontos ✔ Piscina, jacuzzi e cascata com maquinário em pleno funcionamento. Aceita financiamento e FGTS Uma casa imponente, moderna e pronta para proporcionar conforto, sofisticação e lazer para toda a família. Entre em contato para agendar sua visita!</description>
+    <address format="simple">
+      <component name="addr1">AVENIDA ALDEMIR MARTINS 182</component>
+      <component name="city">Rio de Janeiro</component>
+      <component name="region">RJ</component>
+    <component name="country">Brazil</component>
+      <component name="postal_code">22790-707</component>
+    </address>
+    <latitude>-23.001947</latitude>
+    <longitude>-43.440971</longitude>
+    <neighborhood>RECREIO DOS BANDEIRANTES</neighborhood>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1313101/2010198/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1313108/2010198/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1439841/2010198/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1313094/2010198/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1313076/2010198/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1313105/2010198/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1439823/2010198/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1313096/2010198/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1313103/2010198/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1313093/2010198/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1313106/2010198/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1439828/2010198/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1439839/2010198/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1313102/2010198/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1313770/2010198/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1313091/2010198/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1313109/2010198/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1439821/2010198/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1313095/2010198/1080/768/foto.jpg</url></image>
+    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1313762/2010198/1080/768/foto.jpg</url></image>
+    <listing_type>for_sale_by_agent</listing_type>
+    <num_beds>5</num_beds>
+    <num_baths>7</num_baths>
+    <price>3990000 BRL</price>
+    <property_type>condo</property_type>
+    <custom_label_0>682m²</custom_label_0>
+    <custom_label_1>RECREIO DOS BANDEIRANTES</custom_label_1>
+    <custom_label_2>AVENIDA ALDEMIR MARTINS 182</custom_label_2>
+    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2010198</url>
+    <year_built>0</year_built>
+  </listing>
+  <listing>
     <home_listing_id>2016615</home_listing_id>
     <name>Condomínio London Green- Barra da Tijuca | 89m² | 2 quartos | Suíte com closet | Varanda gourmet |…</name>
     <title>Condomínio London Green- Barra da Tijuca | 89m² | 2 quartos | Suíte com closet | Varanda gourmet |…</title>
@@ -680,53 +1009,6 @@
     <custom_label_2>Rua Djalma Dutra 126</custom_label_2>
     <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2016645</url>
     <year_built>1975</year_built>
-  </listing>
-  <listing>
-    <home_listing_id>2016762</home_listing_id>
-    <name>Apartamento à venda 2 Quartos com Suíte e Vaga na Escritura em Vila Isabel</name>
-    <title>Apartamento à venda 2 Quartos com Suíte e Vaga na Escritura em Vila Isabel</title>
-    <availability>for_sale</availability>
-    <description>COD 2016762 - Se você procura um apartamento confortável, funcional e bem localizado na Zona Norte do Rio de Janeiro, esta é uma excelente opção para conhecer em Vila Isabel. Com 68 m² de área útil, o imóvel apresenta uma planta bem distribuída, composta por sala ampla para dois ambientes, dois quartos, sendo uma suíte com armários, banheiro social com box blindex e armário, cozinha espaçosa com armários planejados, além de uma área de serviço ampla e um banheiro de serviço, atualmente utilizada como despensa. O apartamento possui ambientes funcionais e está pronto para morar, sendo uma boa alternativa para quem deseja se mudar sem precisar realizar uma reforma geral, mantendo também a possibilidade de personalizar alguns detalhes de acordo com seu estilo. Um diferencial importante é a vaga de garagem na escritura. A vaga pode ser coberta ou descoberta, conforme as condições e a disponibilidade a serem confirmadas junto ao condomínio. O condomínio é formado por dois prédios com fachada revestida em cerâmica e áreas ajardinadas, proporcionando um ambiente agradável. Conta com elevador, portaria com controle eletrônico, zelador, interfone, câmeras de segurança e espaço verde para convivência, descanso e brincadeiras das crianças. A localização facilita a rotina, com proximidade da UERJ, do Maracanã, das estações de trem e metrô do Maracanã, além de transporte público, escolas, universidades, comércio e serviços da região. O imóvel está vazio, possui documentação informada como regular e aceita financiamento bancário e FGTS. Também conta com IPTU isento, conforme informado. Uma opção interessante para casais, famílias pequenas ou compradores que buscam um apartamento com suíte, vaga na escritura, armários e áreas verdes em uma localização estratégica. Entre em contato para consultar o valor de venda, as condições do condomínio e agendar uma visita.</description>
-    <address format="simple">
-      <component name="addr1">Rua Oito de Dezembro 288</component>
-      <component name="city">Rio de Janeiro</component>
-      <component name="region">RJ</component>
-    <component name="country">Brazil</component>
-      <component name="postal_code">20550-201</component>
-    </address>
-    <latitude>-22.909626</latitude>
-    <longitude>-43.240083</longitude>
-    <neighborhood>Vila Isabel</neighborhood>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1572999/2016762/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573067/2016762/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573068/2016762/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1572996/2016762/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573066/2016762/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573071/2016762/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573069/2016762/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573070/2016762/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1572998/2016762/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573000/2016762/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573001/2016762/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1572997/2016762/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573003/2016762/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573010/2016762/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573006/2016762/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573007/2016762/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573008/2016762/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573009/2016762/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573011/2016762/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573012/2016762/1080/768/foto.jpg</url></image>
-    <listing_type>for_sale_by_agent</listing_type>
-    <num_beds>2</num_beds>
-    <num_baths>2</num_baths>
-    <price>400000 BRL</price>
-    <property_type>apartment</property_type>
-    <custom_label_0>68m²</custom_label_0>
-    <custom_label_1>Vila Isabel</custom_label_1>
-    <custom_label_2>Rua Oito de Dezembro 288</custom_label_2>
-    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2016762</url>
-    <year_built>1977</year_built>
   </listing>
   <listing>
     <home_listing_id>2005155</home_listing_id>
@@ -7245,53 +7527,6 @@
     <custom_label_2>Rua Rainha Guilhermina 143</custom_label_2>
     <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2014751</url>
     <year_built>1969</year_built>
-  </listing>
-  <listing>
-    <home_listing_id>2016771</home_listing_id>
-    <name>Apartamento à venda 2 quartos e vaga</name>
-    <title>Apartamento à venda 2 quartos e vaga</title>
-    <availability>for_sale</availability>
-    <description>COD 2016771 - APARTAMENTO À VENDA EM COPACABANA – RUA SIQUEIRA CAMPOS Excelente oportunidade em uma das localizações mais privilegiadas de Copacabana, a apenas 50 metros do metrô e 300 metros da praia! Apartamento totalmente reformado e mobiliado, com 61 m² registrados, aparentando ter aproximadamente 67 m² de área útil. Características do imóvel 2 quartos, sendo 1 suíte; Dependência completa; Vaga de garagem na escritura; Fundos, com vista aberta; Sol da manhã; Extremamente silencioso e arejado; Totalmente reformado e mobiliado. Condomínio Portaria 24 horas; Salão de festas; Playground;</description>
-    <address format="simple">
-      <component name="addr1">Rua Siqueira Campos 74</component>
-      <component name="city">Rio de Janeiro</component>
-      <component name="region">RJ</component>
-    <component name="country">Brazil</component>
-      <component name="postal_code">22031-072</component>
-    </address>
-    <latitude>-22.9638226</latitude>
-    <longitude>-43.1910626</longitude>
-    <neighborhood>Copacabana</neighborhood>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573451/2016771/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573397/2016771/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573390/2016771/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573391/2016771/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573393/2016771/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573455/2016771/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573456/2016771/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573457/2016771/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573394/2016771/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573395/2016771/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573396/2016771/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573398/2016771/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573453/2016771/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573403/2016771/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573404/2016771/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573402/2016771/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573405/2016771/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573377/2016771/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573400/2016771/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1573399/2016771/1080/768/foto.jpg</url></image>
-    <listing_type>for_sale_by_agent</listing_type>
-    <num_beds>2</num_beds>
-    <num_baths>2</num_baths>
-    <price>1400000 BRL</price>
-    <property_type>apartment</property_type>
-    <custom_label_0>61m²</custom_label_0>
-    <custom_label_1>Copacabana</custom_label_1>
-    <custom_label_2>Rua Siqueira Campos 74</custom_label_2>
-    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2016771</url>
-    <year_built>1979</year_built>
   </listing>
   <listing>
     <home_listing_id>2016779</home_listing_id>
@@ -33376,53 +33611,6 @@
     <custom_label_2>Rua Marquês de São Vicente 343</custom_label_2>
     <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2016592</url>
     <year_built>1938</year_built>
-  </listing>
-  <listing>
-    <home_listing_id>2010198</home_listing_id>
-    <name>Casa no Condomínio das Parc. das Palmiers - Recreio dos Bandeirantes.</name>
-    <title>Casa no Condomínio das Parc. das Palmiers - Recreio dos Bandeirantes.</title>
-    <availability>for_sale</availability>
-    <description>COD 2010198 - : OPORTUNIDADE IMPERDÍVEL – PREÇO REDUZIDO! De R$ 4.500.000,00 por R$ 3.990.000,00 - Casa nova triplex no Parque das Palmeiras 640 m² de área construída, 5 suítes amplas. Agora 100% equipada e pronta para morar! É entrar e trazer apenas a mobília. Diferenciais inclusos: ✔ Iluminação completa instalada ✔ Armários planejados em todas as bancadas e closets ✔ Cozinha equipada com cooktop na ilha central + forno de convecção na torre quente ✔ Banheiros completos com boxes e acabamentos instalados ✔ Boiler e sistema de gás prontos ✔ Piscina, jacuzzi e cascata com maquinário em pleno funcionamento. Aceita financiamento e FGTS Uma casa imponente, moderna e pronta para proporcionar conforto, sofisticação e lazer para toda a família. Entre em contato para agendar sua visita!</description>
-    <address format="simple">
-      <component name="addr1">AVENIDA ALDEMIR MARTINS 182</component>
-      <component name="city">Rio de Janeiro</component>
-      <component name="region">RJ</component>
-    <component name="country">Brazil</component>
-      <component name="postal_code">22790-707</component>
-    </address>
-    <latitude>-23.001947</latitude>
-    <longitude>-43.440971</longitude>
-    <neighborhood>RECREIO DOS BANDEIRANTES</neighborhood>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1313101/2010198/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1313108/2010198/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1439841/2010198/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1313094/2010198/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1313076/2010198/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1313105/2010198/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1439823/2010198/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1313096/2010198/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1313103/2010198/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1313093/2010198/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1313106/2010198/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1439828/2010198/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1439839/2010198/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1313102/2010198/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1313770/2010198/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1313091/2010198/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1313109/2010198/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1439821/2010198/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1313095/2010198/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1313762/2010198/1080/768/foto.jpg</url></image>
-    <listing_type>for_sale_by_agent</listing_type>
-    <num_beds>5</num_beds>
-    <num_baths>7</num_baths>
-    <price>3990000 BRL</price>
-    <property_type>condo</property_type>
-    <custom_label_0>682m²</custom_label_0>
-    <custom_label_1>RECREIO DOS BANDEIRANTES</custom_label_1>
-    <custom_label_2>AVENIDA ALDEMIR MARTINS 182</custom_label_2>
-    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2010198</url>
-    <year_built>0</year_built>
   </listing>
   <listing>
     <home_listing_id>2012416</home_listing_id>
@@ -76158,53 +76346,6 @@
     <custom_label_2>Avenida Tim Maia 7345</custom_label_2>
     <url>https://www.brasilbrokers.com.br/prontos/-/-/-/848723</url>
     <year_built>2016</year_built>
-  </listing>
-  <listing>
-    <home_listing_id>2015098</home_listing_id>
-    <name>Apartamento à venda com 68,00m² e 1 quarto em Ribeira, Rio de Janeiro - RJ</name>
-    <title>Apartamento à venda com 68,00m² e 1 quarto em Ribeira, Rio de Janeiro - RJ</title>
-    <availability>for_sale</availability>
-    <description>COD 2015098 - Descubra seu novo lar na pitoresca Ribeira, Rio de Janeiro. Este apartamento à venda oferece uma experiência de vida agradável, combinando conforto e uma boa localização. Imagine acordar com uma vista para o mar da Baía de Guanabara, diretamente da sua varanda privativa. Com 68m² de área útil, este imóvel inteligente e bem distribuído conta com um quarto aconchegante de boas dimensões, uma cozinha funcional, banheiro social e um pequeno banheiro de serviço, que faz parte das dependências de empregada, oferecendo flexibilidade para suas necessidades. Para sua comodidade, inclui uma vaga de garagem exclusiva. Situado no terceiro andar, garante privacidade e ótima iluminação natural. Perfeito para quem busca conforto, praticidade e a tranquilidade de morar próximo ao mar da cidade do Rio de Janeiro. Não deixe escapar esta oportunidade! Agende sua visita e venha conhecer este apartamento dos sonhos. Contate-nos hoje mesmo para mais informações e comece a viver a vida que você merece na Ribeira.</description>
-    <address format="simple">
-      <component name="addr1">Praia do Jequia 158</component>
-      <component name="city">Rio de Janeiro</component>
-      <component name="region">RJ</component>
-    <component name="country">Brazil</component>
-      <component name="postal_code">21930-010</component>
-    </address>
-    <latitude>-22.824147</latitude>
-    <longitude>-43.173357</longitude>
-    <neighborhood>Ribeira</neighborhood>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509427/2015098/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509422/2015098/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509423/2015098/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509420/2015098/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509424/2015098/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509421/2015098/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509425/2015098/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509426/2015098/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509451/2015098/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509428/2015098/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509429/2015098/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509430/2015098/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509437/2015098/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509432/2015098/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509442/2015098/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509439/2015098/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509448/2015098/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509446/2015098/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509445/2015098/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1509449/2015098/1080/768/foto.jpg</url></image>
-    <listing_type>for_sale_by_agent</listing_type>
-    <num_beds>1</num_beds>
-    <num_baths>1</num_baths>
-    <price>230000 BRL</price>
-    <property_type>apartment</property_type>
-    <custom_label_0>68m²</custom_label_0>
-    <custom_label_1>Ribeira</custom_label_1>
-    <custom_label_2>Praia do Jequia 158</custom_label_2>
-    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2015098</url>
-    <year_built>1985</year_built>
   </listing>
   <listing>
     <home_listing_id>2014835</home_listing_id>
@@ -128069,53 +128210,6 @@
     <year_built>1981</year_built>
   </listing>
   <listing>
-    <home_listing_id>2012205</home_listing_id>
-    <name>CASA DUPLEX À VENDA NO JARDIM GUANABARA - ILHA DO GOVERNADOR - 372m²</name>
-    <title>CASA DUPLEX À VENDA NO JARDIM GUANABARA - ILHA DO GOVERNADOR - 372m²</title>
-    <availability>for_sale</availability>
-    <description>COD 2012205 - Casa duplex imponente à venda no Jardim Guanabara – 372 m² de área construída Excelente casa duplex, construída no centro do terreno, com projeto amplo e muito bem distribuído, ideal para quem busca conforto, espaço e lazer em um dos bairros mais valorizados da Ilha do Governador. No primeiro pavimento, a casa é composta por três ambientes de sala muito bem definidos: Sala de estar, Sala de jantar e Sala de convivência. Além disso, conta com um quarto térreo, perfeito para hóspedes ou apoio, lavabo, uma cozinha extremamente ampla, área de serviço independente e, nos fundos, um verdadeiro espaço de lazer: área gourmet completa, com piscina, churrasqueira, canil e dependência completa de empregada. No segundo pavimento, a área íntima oferece três quartos, sendo uma suíte com closet, além de um hall que hoje funciona como escritório ou sala de estudos, com acesso a um varandão, trazendo ainda mais conforto e ventilação natural e um banheiro social espaçoso. No nível da rua, a casa dispõe de uma garagem ampla, com capacidade para três veículos, garantindo praticidade e segurança. São 372 m² de área construída, em uma residência sólida, espaçosa e com excelente potencial para quem deseja morar bem ou investir em um imóvel diferenciado no Jardim Guanabara. Parte Elétrica novas.</description>
-    <address format="simple">
-      <component name="addr1">Rua Breno Guimarães 236</component>
-      <component name="city">Rio de Janeiro</component>
-      <component name="region">RJ</component>
-    <component name="country">Brazil</component>
-      <component name="postal_code">21931-310</component>
-    </address>
-    <latitude>-22.806304</latitude>
-    <longitude>-43.205075</longitude>
-    <neighborhood>Jardim Guanabara</neighborhood>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400015/2012205/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400053/2012205/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400052/2012205/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400016/2012205/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400018/2012205/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400051/2012205/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400050/2012205/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400049/2012205/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400047/2012205/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400048/2012205/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400046/2012205/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400045/2012205/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400044/2012205/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400043/2012205/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400041/2012205/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400042/2012205/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400040/2012205/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400038/2012205/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400037/2012205/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1400036/2012205/1080/768/foto.jpg</url></image>
-    <listing_type>for_sale_by_agent</listing_type>
-    <num_beds>4</num_beds>
-    <num_baths>3</num_baths>
-    <price>1500000 BRL</price>
-    <property_type>house</property_type>
-    <custom_label_0>372m²</custom_label_0>
-    <custom_label_1>Jardim Guanabara</custom_label_1>
-    <custom_label_2>Rua Breno Guimarães 236</custom_label_2>
-    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2012205</url>
-    <year_built>1970</year_built>
-  </listing>
-  <listing>
     <home_listing_id>2013850</home_listing_id>
     <name>Maravilhoso Apartamento</name>
     <title>Maravilhoso Apartamento</title>
@@ -174525,53 +174619,6 @@
     <custom_label_2>Rua Dias Ferreira 228</custom_label_2>
     <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2014985</url>
     <year_built>1953</year_built>
-  </listing>
-  <listing>
-    <home_listing_id>2014970</home_listing_id>
-    <name>Cobertura duplex reformada, com 180m em Botafogo</name>
-    <title>Cobertura duplex reformada, com 180m em Botafogo</title>
-    <availability>for_sale</availability>
-    <description>COD 2014970 - Cobertura Duplex Reformada com Piscina Privativa e Vista Deslumbrante em Botafogo Viva a experiência de morar em uma cobertura duplex exclusiva, totalmente reformada, com 180m² de área útil, ambientes amplos, área de lazer privativa e uma vista encantadora do Rio de Janeiro. Destaques do Imóvel • 180m² de área útil • Cobertura duplex totalmente reformada • 4 quartos • 2 suítes • Sala ampla em 2 ambientes • Varanda integrada • Banheiro social • Cozinha planejada • Área de serviço • 2 vagas de garagem • Aceita financiamento Primeiro Pavimento • Sala espaçosa distribuída em dois ambientes • Varanda integrada • 3 quartos bem iluminados, sendo 1 suíte • Banheiro social moderno • Cozinha planejada • Área de serviço funcional Segundo Pavimento • Suíte ampla e privativa • Área externa exclusiva • Piscina privativa • Churrasqueira • Vista panorâmica para a cidade Infraestrutura do Condomínio • Condomínio moderno e sofisticado • Segurança 24 horas • Portaria com controle de acesso • Circuito interno de monitoramento • Paisagismo cuidadosamente planejado Lazer Completo • Piscina adulto • Piscina infantil • Sauna • Playground • Salão de festas • Espaço gourmet • Salão de jogos • Brinquedoteca • 2 churrasqueiras Localização Localizada em Botafogo, um dos bairros mais desejados do Rio de Janeiro, com fácil acesso a comércio, serviços, gastronomia, transporte e tudo o que você precisa para viver com praticidade e qualidade de vida. Agende sua visita e descubra todos os detalhes desta cobertura única, que reúne conforto, exclusividade e lazer completo em um dos melhores endereços da Zona Sul carioca.</description>
-    <address format="simple">
-      <component name="addr1">Rua Fernandes Guimarães 25</component>
-      <component name="city">Rio de Janeiro</component>
-      <component name="region">RJ</component>
-    <component name="country">Brazil</component>
-      <component name="postal_code">22290-000</component>
-    </address>
-    <latitude>-22.9556758</latitude>
-    <longitude>-43.1819472</longitude>
-    <neighborhood>Botafogo</neighborhood>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536600/2014970/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536597/2014970/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536615/2014970/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536612/2014970/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536626/2014970/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536649/2014970/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536635/2014970/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536625/2014970/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536643/2014970/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536640/2014970/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536613/2014970/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536616/2014970/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536627/2014970/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536631/2014970/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536651/2014970/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536617/2014970/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536630/2014970/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536641/2014970/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536644/2014970/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/1536614/2014970/1080/768/foto.jpg</url></image>
-    <listing_type>for_sale_by_agent</listing_type>
-    <num_beds>4</num_beds>
-    <num_baths>3</num_baths>
-    <price>2600000 BRL</price>
-    <property_type>apartment</property_type>
-    <custom_label_0>180m²</custom_label_0>
-    <custom_label_1>Botafogo</custom_label_1>
-    <custom_label_2>Rua Fernandes Guimarães 25</custom_label_2>
-    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/2014970</url>
-    <year_built>2014</year_built>
   </listing>
   <listing>
     <home_listing_id>2008512</home_listing_id>
@@ -242754,53 +242801,6 @@
     <custom_label_1>Rio Comprido</custom_label_1>
     <custom_label_2>Rua Barão de Itapagipe 250</custom_label_2>
     <url>https://www.brasilbrokers.com.br/prontos/-/-/-/1019403</url>
-    <year_built>1980</year_built>
-  </listing>
-  <listing>
-    <home_listing_id>1008017</home_listing_id>
-    <name>Apartamento tipo FLAT - quarto e sala no LEBLON!</name>
-    <title>Apartamento tipo FLAT - quarto e sala no LEBLON!</title>
-    <availability>for_sale</availability>
-    <description>COD 1008017 - Apartamento tipo flat, com 50 m², vista panorâmica para o mar do Leblon, totalmente reformado, quarto e sala ampla (podendo ser dividida em 2 ambientes), armários embutidos, cozinha equipada, banheiro social. Apartamento super arejado e luminoso. Todo mobiliado e com ar condicionado. O prédio possui serviço diário de arrumadeira, academia, restaurante, segurança interna, piscina. Facilidade para alugar vaga de garagem no prédio Excelente localização, alguns passos da praia do Leblon, do Shoppings Rio Design e Shopping Leblon. Metrô ao lado. Condomínio conta, ainda, com restaurante e espaço de lazer. A recepção tem total segurança com câmeras instaladas nas áreas comuns.</description>
-    <address format="simple">
-      <component name="addr1">Rua Almirante Guilhem 332</component>
-      <component name="city">Rio de Janeiro</component>
-      <component name="region">RJ</component>
-    <component name="country">Brazil</component>
-      <component name="postal_code">22440-000</component>
-    </address>
-    <latitude>-22.9834711</latitude>
-    <longitude>-43.21856820000</longitude>
-    <neighborhood>Leblon</neighborhood>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796292/1008017/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796288/1008017/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796299/1008017/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796301/1008017/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796305/1008017/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796293/1008017/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796284/1008017/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796302/1008017/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796296/1008017/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796304/1008017/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796283/1008017/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796303/1008017/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796297/1008017/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796294/1008017/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796286/1008017/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796306/1008017/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796290/1008017/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796295/1008017/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796300/1008017/1080/768/foto.jpg</url></image>
-    <image><url>https://bbrjcdn.crmvendas.com/imgCache/avu/prop/796291/1008017/1080/768/foto.jpg</url></image>
-    <listing_type>for_sale_by_agent</listing_type>
-    <num_beds>1</num_beds>
-    <num_baths>1</num_baths>
-    <price>1890000 BRL</price>
-    <property_type>apartment</property_type>
-    <custom_label_0>50m²</custom_label_0>
-    <custom_label_1>Leblon</custom_label_1>
-    <custom_label_2>Rua Almirante Guilhem 332</custom_label_2>
-    <url>https://www.brasilbrokers.com.br/prontos/-/-/-/1008017</url>
     <year_built>1980</year_built>
   </listing>
   <listing>
