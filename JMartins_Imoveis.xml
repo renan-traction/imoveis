@@ -1635,6 +1635,50 @@
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1296</url>
   </listing>
   <listing>
+    <home_listing_id>1361V-MEU</home_listing_id>
+    <name>Casa de Condomínio 2 quartos para Venda Parque Itaipu, São Carlos</name>
+    <title>Casa de Condomínio 2 quartos para Venda Parque Itaipu, São Carlos</title>
+    <availability>for_sale</availability>
+    <description>Localizada em um dos residenciais mais desejados e arborizados de São Carlos, esta charmosa casa é o cenário perfeito para quem busca qualidade de vida, segurança e um contato diário com a natureza. Com ambientes bem distribuídos, o imóvel oferece o equilíbrio ideal entre conforto e praticidade em um dos bairros mais valorizados da região. Características do Imóvel: 2 Dormitórios: Ambientes aconchegantes, arejados e com excelente iluminação natural. Área Social: Sala de estar e jantar integradas, proporcionando um espaço convidativo e fluido para receber família e amigos. Cozinha: Prática, funcional e com boa circulação, facilitando o dia a dia. Banheiros: Banheiro social completo e bem dimensionado. Área Externa: Quintal espaçoso com enorme potencial para paisagismo, instalação de área gourmet ou futura expansão, valorizando a topografia e o ar puro característicos da região. Garagem: Vagas confortáveis para moradores. Diferenciais do Parque Itaipu: Segurança de Excelência: Portaria com controle de acesso rigoroso e monitoramento 24 horas, garantindo total tranquilidade para a família. Qualidade de Vida: Condomínio cercado por áreas de preservação ambiental, proporcionando um clima ameno, silêncio e ruas perfeitas para caminhadas ao ar livre. Privacidade e Exclusividade: Lotes amplos e ruas arborizadas que garantem distanciamento e total privacidade entre as residências. Esta é uma excelente oportunidade para quem deseja investir em bem-estar ou morar em um verdadeiro oásis dentro da cidade, sem abrir mão da facilidade de acesso às principais vias e serviços. Agende agora mesmo uma visita com a equipe da J. Martins Imóveis e venha conhecer de perto o potencial do seu próximo lar.</description>
+    <address format="simple">
+      <component name="addr1">Avenida Apody 1000</component>
+      <component name="city">São Carlos</component>
+      <component name="region">SP</component>
+    <component name="country">Brazil</component>
+      <component name="postal_code">13571810</component>
+    </address>
+    <neighborhood>Parque Itaipu</neighborhood>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjFEQUExRkFBM0MxNEQ2RjgzMDUwQzcyMEVDNzMzMTItZm90b3MvMzcxYTBhYzItZGJkMWRjNjg2YjUyNzc0ZDRhNmRmNWFiNDk2OTZhNjEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjFEQUExRkFBM0MxNEQ2RjgzMDUwQzcyMEVDNzMzMTItZm90b3MvZWJhZmExOTUtNTExOTNiMGYwYjBiYjYzMzAyN2Q1MzBlNzYyM2U3ZTcucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjFEQUExRkFBM0MxNEQ2RjgzMDUwQzcyMEVDNzMzMTItZm90b3MvYzFhOTI0MTQtNWQwM2Y4NjI1ZDIyZjM5MWNhMTM1ZjkxOGQzMDJhNzQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjFEQUExRkFBM0MxNEQ2RjgzMDUwQzcyMEVDNzMzMTItZm90b3MvNGM0NDUxY2MtYWIyYjM5MmMxOTM2OGJlNmE5YzUzMWIyN2IxNTM5NzIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjFEQUExRkFBM0MxNEQ2RjgzMDUwQzcyMEVDNzMzMTItZm90b3MvMGExOThiZTMtYmIwY2VjMThlYjAzNmY0MWYzYThkOTIzM2IwMjA4ZDcucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjFEQUExRkFBM0MxNEQ2RjgzMDUwQzcyMEVDNzMzMTItZm90b3MvZGM2YzFlYTMtYWE3YjE0YzUzZTM0NjY1NDIyOTBlNDY4NDg3NTUwMzAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjFEQUExRkFBM0MxNEQ2RjgzMDUwQzcyMEVDNzMzMTItZm90b3MvZGNmNWJmNWMtNTgxNzllMDFhYjkxOGJkOGU1MDc3YmRmNWFkNzY3NmYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjFEQUExRkFBM0MxNEQ2RjgzMDUwQzcyMEVDNzMzMTItZm90b3MvMjM3N2FjZGUtYWZmZDFjMWQzNzVkYWU5MDAyYzlkYzYwOWI2N2YwZmQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjFEQUExRkFBM0MxNEQ2RjgzMDUwQzcyMEVDNzMzMTItZm90b3MvNzNjMTFmNmEtZTExNGVlN2IyZDkyYzI3OWZiMWU2MTFjNzY5ZTNkYzUucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjFEQUExRkFBM0MxNEQ2RjgzMDUwQzcyMEVDNzMzMTItZm90b3MvZWU1MmU3ZWYtZTRiNmFlMGZhYjBkYzNkMTRmMjgwYzhkZWE0MjY1M2IucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjFEQUExRkFBM0MxNEQ2RjgzMDUwQzcyMEVDNzMzMTItZm90b3MvZTEwZTc3MGUtZGVmYzg0MWMxMjcxZDFhMGZhYjUwNTIyMzhiZGVlY2IucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjFEQUExRkFBM0MxNEQ2RjgzMDUwQzcyMEVDNzMzMTItZm90b3MvYzc0NjQ5ZTktZGRlZjNhOWUwNDk1MjMxMDZkYTgxZWRlNzBkZjJjYjUucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjFEQUExRkFBM0MxNEQ2RjgzMDUwQzcyMEVDNzMzMTItZm90b3MvYjU3OWU0MzUtM2RiZmViY2Q5MzQ0ZWRlNjAwMWJkZjJiYTU4ZDc3NDYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjFEQUExRkFBM0MxNEQ2RjgzMDUwQzcyMEVDNzMzMTItZm90b3MvYThlNjg2ODEtY2UwZDFjNWFjMDE2ZDAzYWE1ZmNhMGY2YjNkNzFiMjkucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjFEQUExRkFBM0MxNEQ2RjgzMDUwQzcyMEVDNzMzMTItZm90b3MvOWE0MTE3ZGQtZWY5OWFlNjA2MDc3MTBkOWI0NGM3M2Q0ZjUzMmQyMzAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjFEQUExRkFBM0MxNEQ2RjgzMDUwQzcyMEVDNzMzMTItZm90b3MvZWE4N2E5ZjUtZTk1ZmJhMWMzYTMxOTI5MDBhODQ5MDNkYzNlMWNlZTcucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjFEQUExRkFBM0MxNEQ2RjgzMDUwQzcyMEVDNzMzMTItZm90b3MvZmYyZWQzOTgtMjE1ZWFmMmIyNjE0YWU5YjVlMWVkZjE0ODVhNTA0ZWIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjFEQUExRkFBM0MxNEQ2RjgzMDUwQzcyMEVDNzMzMTItZm90b3MvZDU3Y2YyZGQtMDg0NTY0NzI0YzQ3MDM4NWU5YjlmMjMzMmFmMjU5OWIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjFEQUExRkFBM0MxNEQ2RjgzMDUwQzcyMEVDNzMzMTItZm90b3MvZTcwNjNjZWMtMjcwM2VhYTZiNWE1YTE5NzQxYmNjYWI4Y2FkMWM1ZDkucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjFEQUExRkFBM0MxNEQ2RjgzMDUwQzcyMEVDNzMzMTItZm90b3MvODE0ZTM2MDAtNzgzMWRlMWU3NWY0MDg3NDVmMjMzYzQ0MGQxOGI1NGMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <listing_type>for_sale_by_agent</listing_type>
+    <num_beds>2</num_beds>
+    <num_baths>3</num_baths>
+    <price>1680000 BRL</price>
+    <property_type>condo</property_type>
+    <custom_label_0>150m²</custom_label_0>
+    <custom_label_1>Parque Itaipu</custom_label_1>
+    <custom_label_2>Avenida Apody 1000</custom_label_2>
+    <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1361</url>
+  </listing>
+  <listing>
     <home_listing_id>1134V-MEU</home_listing_id>
     <name>Casa de Condomínio 4 quartos para Venda Condomínio Eco-Esportivo Damha IV, São Carlos</name>
     <title>Casa de Condomínio 4 quartos para Venda Condomínio Eco-Esportivo Damha IV, São Carlos</title>
@@ -1793,6 +1837,35 @@
     <custom_label_1>Vila Lutfalla</custom_label_1>
     <custom_label_2>Avenida Getúlio Vargas 1000</custom_label_2>
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1358</url>
+  </listing>
+  <listing>
+    <home_listing_id>731L-MEU</home_listing_id>
+    <name>Salão Comercial para Locação Vila Lutfalla, São Carlos</name>
+    <title>Salão Comercial para Locação Vila Lutfalla, São Carlos</title>
+    <availability>for_rent</availability>
+    <description>**SALÃO COMERCIAL PARA LOCAÇÃO - VILA LUTFALLA** Excelente salão comercial de 300m² disponível para locação na Vila Lutfalla, São Carlos/SP. O imóvel oferece amplo espaço ideal para diversos tipos de negócios comerciais. São Carlos é reconhecida como importante polo tecnológico e educacional do interior paulista, abrigando universidades renomadas como USP e UFSCar, garantindo movimento constante e público diversificado. A Vila Lutfalla é um bairro bem estabelecido, com boa infraestrutura urbana e fácil acesso às principais vias da cidade. A localização estratégica proporciona visibilidade e fluxo adequado para atividades comerciais, contando com proximidade a comércios e serviços consolidados na região. Valor da locação: R$ 5.000,00 mensais. Agende sua visita e conheça as possibilidades que este espaço comercial pode oferecer para seu empreendimento.</description>
+    <address format="simple">
+      <component name="addr1">Rua Rocha Pombo 18</component>
+      <component name="city">São Carlos</component>
+      <component name="region">SP</component>
+    <component name="country">Brazil</component>
+      <component name="postal_code">13570675</component>
+    </address>
+    <neighborhood>Vila Lutfalla</neighborhood>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjc4NjdDOTk2N0RCNEZFOTlCODBFMEQwRTMzRTEzRTMtZm90b3MvYzViZDMzOGItZjI5NWNiZmIzMzQ5MzA4ZDVmMTljY2Y5ZTdmYzM5YmEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjc4NjdDOTk2N0RCNEZFOTlCODBFMEQwRTMzRTEzRTMtZm90b3MvYmUyZmRhOGUtZmY5NTE5MjQzNDVhOTA4YTQxMzRkMDkzOTIxYmM1YjAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjc4NjdDOTk2N0RCNEZFOTlCODBFMEQwRTMzRTEzRTMtZm90b3MvYWZkZGVlMWYtOWU1ZGU4MGM2NmUyMWYwZmQ2YTRjZGQ2MjhlODk0N2UuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjc4NjdDOTk2N0RCNEZFOTlCODBFMEQwRTMzRTEzRTMtZm90b3MvYjYzN2IwZjMtMTFmM2Y5OTg1ZGNkMjgzMjg5YzFmZjQ2MzQ3OWI3YzguanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjc4NjdDOTk2N0RCNEZFOTlCODBFMEQwRTMzRTEzRTMtZm90b3MvOGQ0NjllNWItNjYyYTQ3MmZjYzJmMDUyMDlkNzc0NmE1NDRjYmViM2UuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <listing_type>for_rent_by_agent</listing_type>
+    <num_beds>0</num_beds>
+    <num_baths>0</num_baths>
+    <price>4500 BRL</price>
+    <property_type>other</property_type>
+    <custom_label_0>300m²</custom_label_0>
+    <custom_label_1>Vila Lutfalla</custom_label_1>
+    <custom_label_2>Rua Rocha Pombo 18</custom_label_2>
+    <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/731</url>
   </listing>
   <listing>
     <home_listing_id>1104V-MEU</home_listing_id>
@@ -8532,6 +8605,43 @@
     <custom_label_1>Parque Santa Felícia Jardim</custom_label_1>
     <custom_label_2>Rua Luiz Pedro Biachini 33</custom_label_2>
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1081</url>
+  </listing>
+  <listing>
+    <home_listing_id>1362L-MEU</home_listing_id>
+    <name>Casa 2 quartos para Locação Jardim Nova São Carlos, São Carlos</name>
+    <title>Casa 2 quartos para Locação Jardim Nova São Carlos, São Carlos</title>
+    <availability>for_rent</availability>
+    <description>Excelente oportunidade para quem busca conforto, tranquilidade e praticidade no dia a dia. Localizada no Jardim Nova São Carlos, um bairro residencial tradicional e muito bem estruturado, esta casa oferece o espaço ideal para acomodar sua família com toda a comodidade. Características do Imóvel: Dormitórios: Ambientes confortáveis e bem ventilados, garantindo ótimas noites de descanso. Área Social: Sala de estar espaçosa, ideal para reunir a família e receber visitas. Cozinha: Prática e funcional, com boa circulação para facilitar a rotina diária. Banheiros: Banheiro social com ótimo acabamento. Área Externa: Área de serviço coberta e um quintal com excelente espaço para o dia a dia ou para quem tem animais de estimação. Garagem: Vagas seguras para seus veículos. Diferenciais da Localização: Comodidade: O Jardim Nova São Carlos conta com excelente infraestrutura local, oferecendo proximidade a supermercados, padarias, farmácias e escolas. Mobilidade: Fácil acesso às principais vias da cidade e opções de transporte público a poucos metros, facilitando o deslocamento para o centro e outras regiões. Tranquilidade: Bairro com perfil familiar e ruas calmas, perfeito para quem busca qualidade de vida. Esta é a opção certa para quem deseja alugar um imóvel prático e bem localizado, com um excelente custo-benefício. Entre em contato com a equipe da J. Martins Imóveis, tire suas dúvidas e agende agora mesmo a sua visita para conhecer seu novo lar!</description>
+    <address format="simple">
+      <component name="addr1">Rua José Carlos Gonçalves Neto 1000</component>
+      <component name="city">São Carlos</component>
+      <component name="region">SP</component>
+    <component name="country">Brazil</component>
+      <component name="postal_code">13570190</component>
+    </address>
+    <neighborhood>Jardim Nova São Carlos</neighborhood>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDUyNTFGMEJGNTUyNEE1NEFFRUI5Q0E2QTE3MEM4N0UtZm90b3MvYTVkOTM0NGQtNTMxMjI1ZDA1ZWIwYmU5ZTk1ZWI1ZmZkNmQ2YjgzZTYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDUyNTFGMEJGNTUyNEE1NEFFRUI5Q0E2QTE3MEM4N0UtZm90b3MvMmQxOTY1NmQtZmIyZTVlMWExY2I4NGE0NWViNmEwNGY4YzYyNjJmNTAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDUyNTFGMEJGNTUyNEE1NEFFRUI5Q0E2QTE3MEM4N0UtZm90b3MvY2Q4OGU3MjktMDUyMTM4NmZjNzU4NDJhZWUyNmYzZDgwMTE3NzYzMDMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDUyNTFGMEJGNTUyNEE1NEFFRUI5Q0E2QTE3MEM4N0UtZm90b3MvN2E0M2E5ZDAtZDFjZmU4OGZkZjQ5NzRmOWU3ZmQ2ODAxNzRhMmU3YmEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDUyNTFGMEJGNTUyNEE1NEFFRUI5Q0E2QTE3MEM4N0UtZm90b3MvMjc4ZWQ1M2QtZTk1YjM0MTQ0MDNlMjVlYmIyMDlkYjY3MjMwNzBiZGUucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDUyNTFGMEJGNTUyNEE1NEFFRUI5Q0E2QTE3MEM4N0UtZm90b3MvZjdiMmVjYzYtNTZhMTE2MjA3YzNjZTcyODY2MjY0ZGU5Y2IzNjNlZmMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDUyNTFGMEJGNTUyNEE1NEFFRUI5Q0E2QTE3MEM4N0UtZm90b3MvMjIwYzk0MzEtOTZjYmVlNjgxYWY4N2UxMWE3NDNlMTFmMDBmNjIwYjAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDUyNTFGMEJGNTUyNEE1NEFFRUI5Q0E2QTE3MEM4N0UtZm90b3MvYjdjNGMxZjMtYTRmMjgyNDFmZDc3MzBmMTVhYWRiNmEzODM4YmU4NTcucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDUyNTFGMEJGNTUyNEE1NEFFRUI5Q0E2QTE3MEM4N0UtZm90b3MvMGFmMmRiN2YtNjMxY2NkNGRmOGJlYzg5N2M5MWIzZTcwZjE1M2Y5ZjgucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDUyNTFGMEJGNTUyNEE1NEFFRUI5Q0E2QTE3MEM4N0UtZm90b3MvNTEwMDk4YzgtMWIyZWNjNzRmOTcxMmM4OTM0ZDNlYzk4MDZjOTZhZGQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDUyNTFGMEJGNTUyNEE1NEFFRUI5Q0E2QTE3MEM4N0UtZm90b3MvZjIwMTRiZjctNTQ4ZDgxYzMxYjgzMDA4NDJlNzY3OTk5M2E3ZTQxNjIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDUyNTFGMEJGNTUyNEE1NEFFRUI5Q0E2QTE3MEM4N0UtZm90b3MvZWZlZWU3MTAtMWRlZWU1MTk2NDAwOWY1Nzg1Zjk2ZGI5NTBhMmRlMTcucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDUyNTFGMEJGNTUyNEE1NEFFRUI5Q0E2QTE3MEM4N0UtZm90b3MvY2YzYTU2NGUtNDVmNDcxZDJkMWYxODVmYjE0MzhmZTUwNzFkOTIzN2QucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <listing_type>for_rent_by_agent</listing_type>
+    <num_beds>2</num_beds>
+    <num_baths>1</num_baths>
+    <price>1890 BRL</price>
+    <property_type>house</property_type>
+    <custom_label_0>80m²</custom_label_0>
+    <custom_label_1>Jardim Nova São Carlos</custom_label_1>
+    <custom_label_2>Rua José Carlos Gonçalves Neto 1000</custom_label_2>
+    <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1362</url>
   </listing>
   <listing>
     <home_listing_id>1234V-MEU</home_listing_id>
