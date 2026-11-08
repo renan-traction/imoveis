@@ -1724,6 +1724,43 @@
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1233</url>
   </listing>
   <listing>
+    <home_listing_id>1369L-MEU</home_listing_id>
+    <name>Apartamento 2 quartos para Locação Condomínio Monte D&apos;oro, São Carlos</name>
+    <title>Apartamento 2 quartos para Locação Condomínio Monte D&apos;oro, São Carlos</title>
+    <availability>for_rent</availability>
+    <description>Excelente oportunidade para quem busca conforto, praticidade e qualidade de vida! Apartamento com 2 dormitórios, localizado no Condomínio Monte D&apos;oro, no Residencial Monsenhor Romeu Tortorelli, em São Carlos/SP. O imóvel conta com ambientes funcionais e aconchegantes, ideal para casais, pequenas famílias ou investidores que procuram uma excelente oportunidade de negócio. IPTU e condomínio por conta do proprietário. Você não precisa se preocupar com isso! O condomínio oferece praticidade, segurança e comodidade para o dia a dia, em uma localização que proporciona fácil acesso aos serviços e comércios da região.</description>
+    <address format="simple">
+      <component name="addr1">Avenida João Stella 2500</component>
+      <component name="city">São Carlos</component>
+      <component name="region">SP</component>
+    <component name="country">Brazil</component>
+      <component name="postal_code">13562530</component>
+    </address>
+    <neighborhood>Residencial Monsenhor Romeu Tortorelli</neighborhood>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjZCQkIzM0MyMTA2NDlEREE4MUE0MTEwMjgyRkIzQkMtZm90b3MvNTE5NzQxYjAtMGY1NTMwZmU3OWJlOGE5NjFiMDI2ZDUyZDAzMWMxMWMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjZCQkIzM0MyMTA2NDlEREE4MUE0MTEwMjgyRkIzQkMtZm90b3MvODNkNTdkMDItYWVlOGQyOTIxMjFhYTc0MmRiNTdlZWIwNWViMmVkMGEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjZCQkIzM0MyMTA2NDlEREE4MUE0MTEwMjgyRkIzQkMtZm90b3MvY2ViNGEyZDktMGQ1YjM5ZWEyOGRmMjg2YjhmYjI5MGI0MzUwOGMyODkucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjZCQkIzM0MyMTA2NDlEREE4MUE0MTEwMjgyRkIzQkMtZm90b3MvNjJmOGUxZGQtMDI5MTZmYmEyOTljMzY0NmZkN2NkYWVjZjFmM2U4ZTYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjZCQkIzM0MyMTA2NDlEREE4MUE0MTEwMjgyRkIzQkMtZm90b3MvNGIzNGQxY2QtNWZlMGZlNmNmMTQxYTE2NGEyM2UwNzNiNTU0M2EyOTIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjZCQkIzM0MyMTA2NDlEREE4MUE0MTEwMjgyRkIzQkMtZm90b3MvZWNkZTZlNWQtMjUzNjJjNGZhMDIzMzUyMDc3MzBkNjAxNWMwOGI2YmIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjZCQkIzM0MyMTA2NDlEREE4MUE0MTEwMjgyRkIzQkMtZm90b3MvNmYwZjg4MmYtOThjZGU1Y2VhMTljZTlhNTQ3ODZmZWM5NDBkZTMxNDUucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjZCQkIzM0MyMTA2NDlEREE4MUE0MTEwMjgyRkIzQkMtZm90b3MvYWNkMTI5YjEtMWRmMmM2ZDJjOTdiZTE4YzllOTU0YmMwMmUxNDdiZmIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjZCQkIzM0MyMTA2NDlEREE4MUE0MTEwMjgyRkIzQkMtZm90b3MvZTVlMTA4ZWUtZDQyYTNjZmJlYmI0NzJiYTEyOGU0ZTRkNmU0YTE3Y2IucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjZCQkIzM0MyMTA2NDlEREE4MUE0MTEwMjgyRkIzQkMtZm90b3MvYWMzYzY0ZWUtMWJmNjBiMmVlODA3NGJjNjU0YjU1NDhjOTNlYTYzNjMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjZCQkIzM0MyMTA2NDlEREE4MUE0MTEwMjgyRkIzQkMtZm90b3MvM2RlMDJkNTAtMGI3N2JjYmIzMGVhZWU1Y2U1MmYyMWZhM2M3NmVhNTEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjZCQkIzM0MyMTA2NDlEREE4MUE0MTEwMjgyRkIzQkMtZm90b3MvNjhiMDdhMzAtYjRkOTM3ODk5ZWRlMTE0NWFmYzA0ZDc0NDgyMzZkNWUucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMjZCQkIzM0MyMTA2NDlEREE4MUE0MTEwMjgyRkIzQkMtZm90b3MvMjg0YjFmNDMtNWVhY2M2MTAxYzNhN2JiMTg4Mjg3M2Y2MTg3YTRkMWUucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <listing_type>for_rent_by_agent</listing_type>
+    <num_beds>2</num_beds>
+    <num_baths>2</num_baths>
+    <price>1840 BRL</price>
+    <property_type>apartment</property_type>
+    <custom_label_0>45m²</custom_label_0>
+    <custom_label_1>Residencial Monsenhor Romeu Tortorelli</custom_label_1>
+    <custom_label_2>Avenida João Stella 2500</custom_label_2>
+    <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1369</url>
+  </listing>
+  <listing>
     <home_listing_id>1346L-MEU</home_listing_id>
     <name>Galpão para Locação CEAT, São Carlos</name>
     <title>Galpão para Locação CEAT, São Carlos</title>
