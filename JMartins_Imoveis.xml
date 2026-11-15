@@ -4539,6 +4539,43 @@
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1232</url>
   </listing>
   <listing>
+    <home_listing_id>1381V-MEU</home_listing_id>
+    <name>Casa 2 quartos para Venda Jardim Social Belvedere, São Carlos</name>
+    <title>Casa 2 quartos para Venda Jardim Social Belvedere, São Carlos</title>
+    <availability>for_sale</availability>
+    <description>Se você busca tranquilidade, conforto e qualidade de vida, esta pode ser a oportunidade ideal! O imóvel conta com 2 quartos, oferecendo praticidade e aconchego para você e sua família. Localizada no Jardim Social Belvedere, em uma região que proporciona um ambiente tranquilo e agradável, é uma excelente opção para quem valoriza a paz, o sossego e o bem-estar no dia a dia. Um lugar para morar com tranquilidade e transformar bons momentos em lindas lembranças! Jardim Social Belvedere São Carlos/SP.</description>
+    <address format="simple">
+      <component name="addr1">Rua Ernesto Chiari 100</component>
+      <component name="city">São Carlos</component>
+      <component name="region">SP</component>
+    <component name="country">Brazil</component>
+      <component name="postal_code">13575801</component>
+    </address>
+    <neighborhood>Jardim Social Belvedere</neighborhood>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNjdDQ0FDMkI2QkQ1NDVEOEIzMEE4MjkxNkY2MDM4NTAtZm90b3MvZmJlMzYxN2MtZmI5YjBjNzQ2OTc4ZGVjZTA1MDMwODU4YmZiY2I5NTQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNjdDQ0FDMkI2QkQ1NDVEOEIzMEE4MjkxNkY2MDM4NTAtZm90b3MvZTYzNzBkMzEtZjY2MzE5OWMzMGE2MTQxZTkwOTQ1NmY4YTJlMTFhMTkucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNjdDQ0FDMkI2QkQ1NDVEOEIzMEE4MjkxNkY2MDM4NTAtZm90b3MvMjAyYzgzYzAtNTk1NDUxNDIxZmQ0MmYzNzZhOWJiYTQyZTI4MmYyZWQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNjdDQ0FDMkI2QkQ1NDVEOEIzMEE4MjkxNkY2MDM4NTAtZm90b3MvMmQzMDI0YjYtMDhhODY0NTdhMjhjODI1ZTA0ZWIzN2ZhOTUxMjhmZTUucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNjdDQ0FDMkI2QkQ1NDVEOEIzMEE4MjkxNkY2MDM4NTAtZm90b3MvMjY1NzI5Y2YtYjg3ZjU2MDZlZTY1ZTRiOGQ0ZmRjYmEyMGUzM2M1MTYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNjdDQ0FDMkI2QkQ1NDVEOEIzMEE4MjkxNkY2MDM4NTAtZm90b3MvOTEyMGM4NDgtYmYyMTIyOTc3ZTUxYzgxNjQ2NmZkZTAzYmRkZjAxYTMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNjdDQ0FDMkI2QkQ1NDVEOEIzMEE4MjkxNkY2MDM4NTAtZm90b3MvYmI3YmI2MDctNDZmOWU4OTc1Mjk2NTRkNWRlYTZkZmI5MmNhZGFmZjEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNjdDQ0FDMkI2QkQ1NDVEOEIzMEE4MjkxNkY2MDM4NTAtZm90b3MvZGExMGZkZjItYjI4MjNiMTJkNjkyNjVjNmJjMDBhZDdhNmNhYmM2ZDIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNjdDQ0FDMkI2QkQ1NDVEOEIzMEE4MjkxNkY2MDM4NTAtZm90b3MvNzkxYTk4MmMtYzUxYzg1Mjk0OWVhODI2NTUyZDZlYTljZTEwYjk5YjUucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNjdDQ0FDMkI2QkQ1NDVEOEIzMEE4MjkxNkY2MDM4NTAtZm90b3MvNmYyODdjMmItNjk0ODVjNzc3MjMyYjhjN2MwOGE2Zjg3ZGJiZjUwNzAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNjdDQ0FDMkI2QkQ1NDVEOEIzMEE4MjkxNkY2MDM4NTAtZm90b3MvZDdiYzc1ZjItNzBmNzNlNzgwYjE1YzBmYTc5NTRmOWFjYjFjNzMzY2QucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNjdDQ0FDMkI2QkQ1NDVEOEIzMEE4MjkxNkY2MDM4NTAtZm90b3MvNGMxODJiYWQtZTgwZmFiOWMzMzg1NjJlMThhMGFjZWJhNjY1MmE3MTAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNjdDQ0FDMkI2QkQ1NDVEOEIzMEE4MjkxNkY2MDM4NTAtZm90b3MvZTU0ZGZkMWMtOTVhYzc4OWJmN2Y3OTRhYWM4NzQ3YjljOGMyOTVlOWMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <listing_type>for_sale_by_agent</listing_type>
+    <num_beds>2</num_beds>
+    <num_baths>1</num_baths>
+    <price>255000 BRL</price>
+    <property_type>house</property_type>
+    <custom_label_0>64m²</custom_label_0>
+    <custom_label_1>Jardim Social Belvedere</custom_label_1>
+    <custom_label_2>Rua Ernesto Chiari 100</custom_label_2>
+    <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1381</url>
+  </listing>
+  <listing>
     <home_listing_id>1288L-MEU</home_listing_id>
     <name>Apartamento 2 quartos e 2 vagas de garagem para Locação Centro, São Carlos</name>
     <title>Apartamento 2 quartos e 2 vagas de garagem para Locação Centro, São Carlos</title>
