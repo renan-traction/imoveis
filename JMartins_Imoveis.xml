@@ -1589,7 +1589,7 @@
     <listing_type>for_sale_by_agent</listing_type>
     <num_beds>2</num_beds>
     <num_baths>3</num_baths>
-    <price>1680000 BRL</price>
+    <price>1720000 BRL</price>
     <property_type>other</property_type>
     <custom_label_0>150m²</custom_label_0>
     <custom_label_1>Parque Itaipu</custom_label_1>
@@ -2338,7 +2338,7 @@
     <name>Studio 1 quarto para Venda Jardim Paraíso, São Carlos</name>
     <title>Studio 1 quarto para Venda Jardim Paraíso, São Carlos</title>
     <availability>for_sale</availability>
-    <description>**STUDIO À VENDA - JARDIM PARAÍSO, SÃO CARLOS/SP** Excelente oportunidade no Jardim Paraíso! Studio de 25m² com ambientes integrados, oferecendo praticidade e funcionalidade. O imóvel conta com 1 banheiro e vaga de garagem. Localizado em São Carlos, reconhecida como a capital da tecnologia, cidade universitária que abriga importantes instituições de ensino superior como USP e UFSCar. O Jardim Paraíso é um bairro residencial consolidado, com boa infraestrutura urbana, próximo ao centro da cidade e com fácil acesso aos principais pontos comerciais e de serviços. Ideal para investimento ou moradia de solteiros e casais que buscam praticidade no dia a dia. A integração dos ambientes maximiza o aproveitamento do espaço, proporcionando amplitude e modernidade. **Valor: R$ 175.000,00** Agende sua visita e conheça este imóvel que combina localização privilegiada com excelente custo-benefício em uma das cidades mais desenvolvidas do interior paulista.</description>
+    <description>**STUDIO À VENDA - JARDIM PARAÍSO, SÃO CARLOS/SP** Excelente oportunidade no Jardim Paraíso! Studio de 25m² com ambientes integrados, oferecendo praticidade e funcionalidade. O imóvel conta com 1 banheiro e vaga de garagem. Localizado em São Carlos, reconhecida como a capital da tecnologia, cidade universitária que abriga importantes instituições de ensino superior como USP e UFSCar. O Jardim Paraíso é um bairro residencial consolidado, com boa infraestrutura urbana, próximo ao centro da cidade e com fácil acesso aos principais pontos comerciais e de serviços. Ideal para investimento ou moradia de solteiros e casais que buscam praticidade no dia a dia. A integração dos ambientes maximiza o aproveitamento do espaço, proporcionando amplitude e modernidade. **Valor: R$ 190.000,00** Agende sua visita e conheça este imóvel que combina localização privilegiada com excelente custo-benefício em uma das cidades mais desenvolvidas do interior paulista.</description>
     <address format="simple">
       <component name="addr1">Jardim Paraíso</component>
       <component name="city">São Carlos</component>
@@ -4386,6 +4386,31 @@
     <custom_label_1>Jardim Macarengo</custom_label_1>
     <custom_label_2>Jardim Macarengo</custom_label_2>
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1183</url>
+  </listing>
+  <listing>
+    <home_listing_id>1391L-MEU</home_listing_id>
+    <name>Casa 3 quartos para Locação Vila Prado, São Carlos</name>
+    <title>Casa 3 quartos para Locação Vila Prado, São Carlos</title>
+    <availability>for_rent</availability>
+    <description>Excelente oportunidade de locação na Vila Prado, um dos bairros mais tradicionais, completos e procurados de São Carlos, ideal para famílias que buscam conforto, praticidade e ótima localização no dia a dia. Com planta funcional e excelente distribuição dos ambientes, o imóvel conta com 3 dormitórios confortáveis que proporcionam privacidade e bem-estar, além de espaços sociais bem iluminados e arejados, pensados para oferecer aconchego e funcionalidade na rotina. Localizada em uma região estratégica e com infraestrutura completa ao redor, a residência oferece fácil acesso a toda a rede de comércios e serviços do bairro como supermercados, padarias, farmácias, escolas e bancos além de rápido deslocamento para o Centro, universidades e principais vias da cidade. Localização: Vila Prado, São Carlos - SP. Para mais informações, valores e agendamento de visitas, entre em contato com a nossa equipe. J. Martins Imóveis - CRECI 24.790-J Av. Dr. Carlos Botelho, 1845 - Centro, São Carlos/SP</description>
+    <address format="simple">
+      <component name="addr1">Rua Ananias Evangelista de Toledo 500</component>
+      <component name="city">São Carlos</component>
+      <component name="region">SP</component>
+    <component name="country">Brazil</component>
+      <component name="postal_code">13574280</component>
+    </address>
+    <neighborhood>Vila Prado</neighborhood>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tNjMzNzI2RDI5M0RGNERGMUJGNTJCOTA2MUZBRkI0MzAtZm90b3MvNzQ0YjM4NTMtOWViMTFlYjg1ZmM5OGFhNWZjYjQ0MzExNGMxNWU4ZDMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <listing_type>for_rent_by_agent</listing_type>
+    <num_beds>3</num_beds>
+    <num_baths>1</num_baths>
+    <price>1660 BRL</price>
+    <property_type>house</property_type>
+    <custom_label_0>100m²</custom_label_0>
+    <custom_label_1>Vila Prado</custom_label_1>
+    <custom_label_2>Rua Ananias Evangelista de Toledo 500</custom_label_2>
+    <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1391</url>
   </listing>
   <listing>
     <home_listing_id>1047V-MEU</home_listing_id>
@@ -9348,6 +9373,48 @@
     <custom_label_1>Vila Monteiro (Gleba I)</custom_label_1>
     <custom_label_2>Rua Rui Barbosa 2000</custom_label_2>
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1378</url>
+  </listing>
+  <listing>
+    <home_listing_id>1390V-MEU</home_listing_id>
+    <name>Apartamento 3 quartos para Venda Edifício Giardino Di Ravello, São Carlos</name>
+    <title>Apartamento 3 quartos para Venda Edifício Giardino Di Ravello, São Carlos</title>
+    <availability>for_sale</availability>
+    <description>Excelente oportunidade para adquirir seu imóvel no Edifício Giardino Di Ravello, em São Carlos, ideal para famílias que buscam conforto, praticidade e segurança no dia a dia. Com planta funcional e excelente distribuição dos espaços, o apartamento conta com 3 dormitórios confortáveis que proporcionam privacidade e bem-estar, além de ambientes sociais integrados, bem iluminados e arejados, pensados para unir aconchego e funcionalidade na rotina. O Edifício Giardino Di Ravello oferece ótima infraestrutura, segurança e tranquilidade para os moradores, estando localizado em uma região valorizada de São Carlos, com fácil acesso a comércios, serviços, supermercados, universidades e às principais vias da cidade. Localização: Edifício Giardino Di Ravello, São Carlos - SP. Para mais informações, valores e agendamento de visitas, entre em contato com a nossa equipe. J. Martins Imóveis - CRECI 24.790-J Av. Dr. Carlos Botelho, 1845 - Centro, São Carlos/SP</description>
+    <address format="simple">
+      <component name="addr1">Passeio das Palmeiras 501</component>
+      <component name="city">São Carlos</component>
+      <component name="region">SP</component>
+    <component name="country">Brazil</component>
+      <component name="postal_code">13561353</component>
+    </address>
+    <neighborhood>Edifício Giardino Di Ravello</neighborhood>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDc2OUVDRkU1QTc2NEZGM0E3NjE2M0M5MEEyODAzOEMtZm90b3MvOTExYzJmMzktOTkzNzg1Y2M3ZmQ3NTMyMTZiYjlmYjUyNzg2YjI4MDEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDc2OUVDRkU1QTc2NEZGM0E3NjE2M0M5MEEyODAzOEMtZm90b3MvMzg3ZThkOTItNWI1NmJjNmE1NzdmZDA4NDBmMzVhMjI2NWRhNWM0ZGQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDc2OUVDRkU1QTc2NEZGM0E3NjE2M0M5MEEyODAzOEMtZm90b3MvYmIzOTE1ZGUtYmFkOTI0OGM4ZDcwYTI5NjY2ZTI0MTI4MTBkODdmNTUucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDc2OUVDRkU1QTc2NEZGM0E3NjE2M0M5MEEyODAzOEMtZm90b3MvYjkyYWE0OGMtZGZlODM2MjhkYjcyZTE5ZDYxMDBlOGIzZGNmNGRhZGYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDc2OUVDRkU1QTc2NEZGM0E3NjE2M0M5MEEyODAzOEMtZm90b3MvOWJhMmU1MTEtYTZhYWE1YTAzYzBkYWFlOTllNzRiZjU3ZjQzNGQzZjYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDc2OUVDRkU1QTc2NEZGM0E3NjE2M0M5MEEyODAzOEMtZm90b3MvNjBiYTFjNDctYzlkZjM5YWFhMzIzZmRlZTVkOTQ2NDdhMDI0Mjg5NTgucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDc2OUVDRkU1QTc2NEZGM0E3NjE2M0M5MEEyODAzOEMtZm90b3MvMDI3OGNmYTMtMmM0NjIyZmM0NjY3YTllNWY4MTZmMWFhOTBlZDg0ZjQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDc2OUVDRkU1QTc2NEZGM0E3NjE2M0M5MEEyODAzOEMtZm90b3MvNTQ2ZDlkMGQtNTI0NDk5NTg0ZThmNjNlMGUwNzcyMTg0MGJmOTZiYjQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDc2OUVDRkU1QTc2NEZGM0E3NjE2M0M5MEEyODAzOEMtZm90b3MvZmRiMjRmZGItNDNiMGQxMzY4Mjk1ZTdkNzRjYjEzZmVlMjhmNmNlMWIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDc2OUVDRkU1QTc2NEZGM0E3NjE2M0M5MEEyODAzOEMtZm90b3MvOTliZjQ1OWQtYzE3ZTZkNTExOTRhY2ExN2M0YTFiY2RjYmE3ZDgxYTMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDc2OUVDRkU1QTc2NEZGM0E3NjE2M0M5MEEyODAzOEMtZm90b3MvNmQ4ZWFmZGMtY2FkYTQ1ZTBkMWZlNjIzOWYyOTQzYTFlODNkZTBmY2MucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDc2OUVDRkU1QTc2NEZGM0E3NjE2M0M5MEEyODAzOEMtZm90b3MvZGY2MGIzNWEtNzc2MjQxMGZlZGI2ZDAwYTI5YTM1YmUyOGRjMmFiODEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDc2OUVDRkU1QTc2NEZGM0E3NjE2M0M5MEEyODAzOEMtZm90b3MvNDI5ODJhYWQtZWJkODllYTU0MjE2ODIyY2MwZDM1ZGRmMzFkYzVjMzgucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDc2OUVDRkU1QTc2NEZGM0E3NjE2M0M5MEEyODAzOEMtZm90b3MvNjczZDNjNjUtYjc3NjZhNGMxYWRkOWYzN2M5NzQyODBkNzEwMmJjODcucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDc2OUVDRkU1QTc2NEZGM0E3NjE2M0M5MEEyODAzOEMtZm90b3MvYTZmZjg0Y2EtM2JjMzJiNGNmYzNjYmQ0Y2ExMzRlMzg1ZjE1ODcwMzAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDc2OUVDRkU1QTc2NEZGM0E3NjE2M0M5MEEyODAzOEMtZm90b3MvY2MwYjNlNDQtNzZkNzNkYzY0ODI5MDkwMWFhNzBmZTI5NWVlOTcwN2IucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDc2OUVDRkU1QTc2NEZGM0E3NjE2M0M5MEEyODAzOEMtZm90b3MvYWNhZWM3NDQtMWQ1M2ZjNGM1YTJmNjVlNDhjZjI2ZjAwMjMyNjU0MDcucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tRDc2OUVDRkU1QTc2NEZGM0E3NjE2M0M5MEEyODAzOEMtZm90b3MvNjNiODAwOTctNzlkYmZjNTRiZDc5NzI5YTRhMDFlMTgwMTI0NTM5MDUucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <listing_type>for_sale_by_agent</listing_type>
+    <num_beds>3</num_beds>
+    <num_baths>3</num_baths>
+    <price>690000 BRL</price>
+    <property_type>apartment</property_type>
+    <custom_label_0>130m²</custom_label_0>
+    <custom_label_1>Edifício Giardino Di Ravello</custom_label_1>
+    <custom_label_2>Passeio das Palmeiras 501</custom_label_2>
+    <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1390</url>
   </listing>
   <listing>
     <home_listing_id>1260V-MEU</home_listing_id>
