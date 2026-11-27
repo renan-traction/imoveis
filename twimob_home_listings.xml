@@ -2,6 +2,48 @@
 <listings>
   <title>Catálogo de Imóveis</title>
   <listing>
+    <home_listing_id>41935-L</home_listing_id>
+    <name>Apartamento com 2 quartos (1 suíte) e 1 vaga de garagem no Condomínio Reserva Flor de Lótus, Jardim…</name>
+    <title>Apartamento com 2 quartos (1 suíte) e 1 vaga de garagem no Condomínio Reserva Flor de Lótus, Jardim…</title>
+    <availability>for_rent</availability>
+    <description>Imóvel para Locação no JD BOTANICO</description>
+    <address format="simple">
+      <component name="addr1">AVENIDA DOM CARLOS CARMELO N:595 Torre 1 - Bloco: 1, Apto. 128</component>
+      <component name="city">Araraquara</component>
+      <component name="region">JD BOTANICO</component>
+      <component name="country">Brazil</component>
+      <component name="postal_code">14805070</component>
+    </address>
+    <neighborhood>JD BOTANICO</neighborhood>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41935/9e1dd61a5ff550d2cf6f0dbaed2116f7.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41935/43238b5258b0104282d2e0f1c94e69bd.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41935/5292a8f83ce1375bb69622dd3e6c322d.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41935/9333651ba568c1150513389e3ac37a91.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41935/f07600d58c279571e7e85238bcf34ddb.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41935/54404961f424c74277828ffcd80c1c43.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41935/284432af0d980311a41dc7ff8edf1762.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41935/76f84f61af59952264d8260c9a201c67.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41935/aa250879271f9fd2f9eb75404a4312e5.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41935/6c44945675bf23ec2bc70ebdfc34ebb3.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41935/08fb70a4e919abc06511c570a8ce326a.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41935/b7f23b4cd9a48c88ef4fdac7c98e30b0.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41935/96f419698d73e65d3946267bb1317101.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41935/255f7a2c134a47e263fd726ee798111e.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41935/b9802637190f4335406698adbbc46f73.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41935/6c7d44668f70204389678226a184d206.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41935/e0a14a6cd6f73f2002a9b0890942dd7f.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41935/d3c806d0084c06c4f7a50f9e0f129eee.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41935/ac0306396a1c5699ff4813448ad4eeb4.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41935/20dd628296e6dacff6ad02a1c3b59ae4.jpg</url></image>
+    <num_beds>02</num_beds>
+    <num_baths>2</num_baths>
+    <price>1980.00 BRL</price>
+    <property_type>apartment</property_type>
+    <custom_label_0>Aluguel</custom_label_0>
+    <custom_label_1>JD BOTANICO</custom_label_1>
+    <url>https://www.twimobiliaria.com.br/imovel/41935</url>
+  </listing>
+  <listing>
     <home_listing_id>41934-V</home_listing_id>
     <name>Casa no Villagio Do Sol com 3 Quartos, sendo 1 Suíte, Sala, Cozinha, Banheiro Social, Área de Servi…</name>
     <title>Casa no Villagio Do Sol com 3 Quartos, sendo 1 Suíte, Sala, Cozinha, Banheiro Social, Área de Servi…</title>
@@ -1620,24 +1662,24 @@
     <neighborhood>Vila Suconasa</neighborhood>
     <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/36d080ddc54c02b9d51f43897ccd3817.jpg</url></image>
     <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/f71d7ffb8eb82b3647a2dfe0c2dcb4f1.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/3092b4ce7e1a89e5c54741ff5114be05.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/4c8b3da4d4f204ff0f5ad3f3f52844d5.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/47fadd9d0d46e17d4d2d3e08f55c55cb.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/65c3756f254bbd032cd40dad8a1aa979.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/0190f7fa0b9f0254db760793673fb80a.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/743ed2768977b1b3bd678803b484b0b5.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/638eed323f3cd0ede85309cd8d613ccf.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/26a78261ab3cfa78f347f6ee15f8c6a5.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/271fc947452f4958beceb89bbc9df608.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/b3ab54230d3dd6f578f3855152f49f53.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/b683ee5ee5d0d776a2cb6e8db50d9e05.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/32c775baf1e9dab2cb257b153c47477d.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/89728cc45ac35e50ff78fc55d41ec498.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/24ff789e13295c9073a9df25ba4b8b5c.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/311b947bc5f7e45233be9c84d5f01afb.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/ca96dd60770c00f3d28caee963d9ff3c.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/c12fab6831091aeacfcb972eeac0730e.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/170c504a19951d769d6903f75897bd35.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/82107c4b4a45f015f8d8790b9ea89715.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/69cd10c43926bf7462dad3a5a8345fa3.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/9f4310b4067e4f47f1c17d999026492a.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/420608809a9a73d84b1d9089f06d0650.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/e04f8c926c6e6fafb2b781187a454f9b.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/f9ae4cbe1e8e297b083423a538d8fe8a.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/fb59dd1c7083c64f73c7fcff3c4489bd.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/b3f4170d26b694a7708d7fd35aaff356.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/03b2b1863d9ee4fbc0b9a2d34873850c.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/d215d59d7a36a9044cc7d700c0349b19.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/c0e09e45f2e2139686009ba257859e2e.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/2e002111a55491fd92d746e0edd94faa.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/09ef9638f0b06de46605c2f33e1eb869.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/1d6547fc1f45b7f0e98178b79ec745f8.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/7038ef0cce824c79d0e20d1a0098a44e.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/c5ad675bda740967cd8807c5df12a01f.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/408f2a9b33ec70b2581123937c7b821c.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41891/0e05e7f5429ced4427d7c99ee2fae6cf.jpg</url></image>
     <num_beds>02</num_beds>
     <num_baths>1</num_baths>
     <price>2420.00 BRL</price>
@@ -4763,45 +4805,6 @@
     <url>https://www.twimobiliaria.com.br/imovel/41796</url>
   </listing>
   <listing>
-    <home_listing_id>41795-V</home_listing_id>
-    <name>Apartamento Térreo contendo 2 Quartos, Sala, Cozinha, Banheiro, Quintal com Área de Serviço e 1 Vag…</name>
-    <title>Apartamento Térreo contendo 2 Quartos, Sala, Cozinha, Banheiro, Quintal com Área de Serviço e 1 Vag…</title>
-    <availability>for_sale</availability>
-    <description>RUA TREZE DE MAIO n: 860, Araraquara - SP</description>
-    <address format="simple">
-      <component name="addr1">RUA TREZE DE MAIO N:860 Térreo - Bloco: 01, Apto. 104</component>
-      <component name="city">Araraquara</component>
-      <component name="region">Vila Xavier (Vila Xavier)</component>
-      <component name="country">Brazil</component>
-      <component name="postal_code">14810088</component>
-    </address>
-    <latitude>-21.7883300000000</latitude>
-    <longitude>-48.1676600000000</longitude>
-    <neighborhood>Vila Xavier (Vila Xavier)</neighborhood>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41795/10ef853ccc05f05780be1b8cce53720d.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41795/2d57d90836ab023a01b795ebfe1540f6.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41795/3d494b87f03e46f3e32576909762bef6.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41795/6768a99c43b1c90f6ba9f16efe343c75.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41795/388a3fcb9b1fd5b0f78c8f2e69cc4c3e.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41795/dd47026ba96a0ac0ef6c3ae41983d23a.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41795/e112f32561107341e2d6cc1c093a38bf.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41795/b60c8bcc0e28ff18ba049413bc933f54.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41795/a5061817e03902e912b47683e48ddb5b.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41795/e5d6df3fac72b287a645747cda77de1c.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41795/cf6f09ec368a6a2587dd28729fd67f36.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41795/24b9c29d4c8548cd75a64ed0834f0a94.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41795/e8e0e6a84c1bf0e8d8c11f65f02372b9.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41795/7b06355ab14d90802d231941451a977e.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41795/b03d52c4ef845b6fd1383985ef5bbc3b.jpg</url></image>
-    <num_beds>2</num_beds>
-    <num_baths>1</num_baths>
-    <price>180000.00 BRL</price>
-    <property_type>apartment</property_type>
-    <custom_label_0>À venda</custom_label_0>
-    <custom_label_1>Vila Xavier (Vila Xavier)</custom_label_1>
-    <url>https://www.twimobiliaria.com.br/imovel/41795</url>
-  </listing>
-  <listing>
     <home_listing_id>41793-V</home_listing_id>
     <name>Apartamento com 3 Quartos, sendo 1 Suíte, Sala 2 Ambientes com Sacada, Cozinha, Banheiro Social, Ár…</name>
     <title>Apartamento com 3 Quartos, sendo 1 Suíte, Sala 2 Ambientes com Sacada, Cozinha, Banheiro Social, Ár…</title>
@@ -5779,6 +5782,50 @@
     <custom_label_0>À venda</custom_label_0>
     <custom_label_1>Jardim São Rafael II</custom_label_1>
     <url>https://www.twimobiliaria.com.br/imovel/41761</url>
+  </listing>
+  <listing>
+    <home_listing_id>41760-V</home_listing_id>
+    <name>Casa no Centro de Araraquara. Contendo 2 Quartos, Sala, Copa, Cozinha, 2 Banheiros, Área de Serviço…</name>
+    <title>Casa no Centro de Araraquara. Contendo 2 Quartos, Sala, Copa, Cozinha, 2 Banheiros, Área de Serviço…</title>
+    <availability>for_sale</availability>
+    <description>AVENIDA HUMBERTO DE CAMPOS n: 28, Araraquara - SP</description>
+    <address format="simple">
+      <component name="addr1">AVENIDA HUMBERTO DE CAMPOS N:28</component>
+      <component name="city">Araraquara</component>
+      <component name="region">Centro</component>
+      <component name="country">Brazil</component>
+      <component name="postal_code">14801288</component>
+    </address>
+    <latitude>-21.7859600000000</latitude>
+    <longitude>-48.1739800000000</longitude>
+    <neighborhood>Centro</neighborhood>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41760/c8c52919847f490cc83bfc6d26e303ee.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41760/395a9ea1dab9151ac62cfb02365476ab.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41760/3055f8db553bd7d6437b3c40fd99afa2.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41760/e3a90ab1d208b2305895402c226db6dd.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41760/283b04a0595fd57e1c78743903ddf3d0.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41760/53ea2f0b0617f3f697cbf41135cc9449.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41760/b263108c0932b0b0d40b2eb0901540a9.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41760/e75c00aa7f330b7341940904cdc16394.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41760/776f49d2ea0550d6a11c0d2f0f136c2a.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41760/532a619362d6221fc7a26bee0b9555de.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41760/ce04b83accb3067b7acf397de1df90cc.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41760/3f74fad3fd594ff26cebc723b90a2a92.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41760/849ed02e428a816a3ace08c99bedc7f6.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41760/999b529f4e66cba15e083921a22b5201.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41760/6f1adef0a765735278844d38d00d5858.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41760/52f31af3503dc4a2eb2f333de893d850.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41760/0c7723c12dfd686ed1590f07a3f06363.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41760/320c69e8e7f28e7ca362bfdc9b027d79.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41760/8cbeac8a28b947bc63473a362fc11d3b.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41760/62dfaa51fa7de36df6907e779321d600.jpg</url></image>
+    <num_beds>2</num_beds>
+    <num_baths>2</num_baths>
+    <price>350000.00 BRL</price>
+    <property_type>house</property_type>
+    <custom_label_0>À venda</custom_label_0>
+    <custom_label_1>Centro</custom_label_1>
+    <url>https://www.twimobiliaria.com.br/imovel/41760</url>
   </listing>
   <listing>
     <home_listing_id>41759-V</home_listing_id>
@@ -8375,6 +8422,50 @@
     <custom_label_0>À venda</custom_label_0>
     <custom_label_1>Parque Atlanta</custom_label_1>
     <url>https://www.twimobiliaria.com.br/imovel/41678</url>
+  </listing>
+  <listing>
+    <home_listing_id>41677-L</home_listing_id>
+    <name>SOBRADO COM 02 QUARTOS SALA COZINHA BANHEIRO SOCIAL LAVANDERIA EDICULA COM QUARTO E BANHEIRO GARAGE…</name>
+    <title>SOBRADO COM 02 QUARTOS SALA COZINHA BANHEIRO SOCIAL LAVANDERIA EDICULA COM QUARTO E BANHEIRO GARAGE…</title>
+    <availability>for_rent</availability>
+    <description>Imóvel para Locação no MORUMBI</description>
+    <address format="simple">
+      <component name="addr1">RUA BOA ESPERANCA DO SUL N:564</component>
+      <component name="city">Araraquara</component>
+      <component name="region">Jardim Quitandinha</component>
+      <component name="country">Brazil</component>
+      <component name="postal_code">14800020</component>
+    </address>
+    <latitude>-21.8053000000000</latitude>
+    <longitude>-48.1935700000000</longitude>
+    <neighborhood>Jardim Quitandinha</neighborhood>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41677/c651326a38c45511086dbda7f51189ff.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41677/23ed5af6e185227b9291fe910f1aa523.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41677/0196e95a8482d92a9c624eb60c29df63.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41677/6bda8491b0753975cdafdd1a317ae346.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41677/09cdf043f55b6e317869e7e0b54b9163.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41677/71c5942575f9a22f364d592a9552d237.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41677/29bb2d523abbfaf76eb4886218ca8725.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41677/e94f1f057dc999bfe7aa5864cd218f00.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41677/2bef1aa2019b6d4bb31481c993f87904.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41677/debd7ee2aa169c74d6417f090851fc1b.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41677/548289a1be74e5ca47571cf723db0b1f.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41677/1c4fcdf72e8921b1d044c0acd63f0add.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41677/43f9a26bc41f3eddad092113e41a5530.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41677/51d741b9c212b253153ca8e0d311bf0c.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41677/b6135219ffa9be1922265965e1a82776.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41677/61c4c1e713330a312bdb7f93f7d4ed9a.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41677/46ada1283e626d9f8f1c655c7b3c10d4.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41677/698d7a9a5633dd6e85446b62cf380260.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41677/9e59a11d49235b23ec635de6697502eb.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41677/20d4d0ae8a7c0f5b7716158de425ded4.jpg</url></image>
+    <num_beds>2</num_beds>
+    <num_baths>2</num_baths>
+    <price>1760.00 BRL</price>
+    <property_type>house</property_type>
+    <custom_label_0>Aluguel</custom_label_0>
+    <custom_label_1>Jardim Quitandinha</custom_label_1>
+    <url>https://www.twimobiliaria.com.br/imovel/41677</url>
   </listing>
   <listing>
     <home_listing_id>41676-V</home_listing_id>
@@ -14040,47 +14131,6 @@
     <price>530000.00 BRL</price>
     <property_type>house</property_type>
     <custom_label_0>À venda</custom_label_0>
-    <custom_label_1>JARDIM YAMADA</custom_label_1>
-    <url>https://www.twimobiliaria.com.br/imovel/41448</url>
-  </listing>
-  <listing>
-    <home_listing_id>41448-L</home_listing_id>
-    <name>Casa Reformada contendo 3 Quartos, sendo 1 Suíte, Sala, Copa, Cozinha, Banheiro, Área de Serviço, A…</name>
-    <title>Casa Reformada contendo 3 Quartos, sendo 1 Suíte, Sala, Copa, Cozinha, Banheiro, Área de Serviço, A…</title>
-    <availability>for_rent</availability>
-    <description>RUA COMENDADOR PEDRO MORGANTI n: 4010, Araraquara - SP</description>
-    <address format="simple">
-      <component name="addr1">RUA COMENDADOR PEDRO MORGANTI N:4010 Lote: 06 - Quadra: 03</component>
-      <component name="city">Araraquara</component>
-      <component name="region">JARDIM YAMADA</component>
-      <component name="country">Brazil</component>
-      <component name="postal_code">14800200</component>
-    </address>
-    <latitude>-21.7778000000000</latitude>
-    <longitude>-48.1919000000000</longitude>
-    <neighborhood>JARDIM YAMADA</neighborhood>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41448/a7f2548b1e48edf12739eddf63da2fbb.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41448/79528cd53509524c3d551f3b9ef42a8e.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41448/82ccb8e59bb1a2af1d34688c22a07ea0.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41448/6fe4d5a05270f9949b33ea1364cb7963.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41448/f9a0948be29e19afd249a314f81cb36e.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41448/edfe84a0ef2458f9a2c1bd8e68180b44.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41448/71f1ef30de149f34f3a4fed36f5f5a62.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41448/28465436e85bf08cfda82d5bd1af375e.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41448/edf58cca0604ea24cb17f0deb9cadd29.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41448/bbab39fc33d03579a464d82c569009a3.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41448/f9d4a9faabdcdba93634f8f4ff3705a7.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41448/47d0750159a11a4fbcc0ab1c72952573.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41448/9d4f125378fbc5b0b0e72b85482a0003.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41448/cb64f1f37964cf8508bd1425f8eadf27.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41448/b4a91eb284d5659448055ad792973ba3.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41448/bf5c8df67840133845739836b5b30cd0.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41448/8edf04e5468d2fd4c9b3538a7b902e1e.jpg</url></image>
-    <num_beds>3</num_beds>
-    <num_baths>2</num_baths>
-    <price>3850.00 BRL</price>
-    <property_type>house</property_type>
-    <custom_label_0>Aluguel</custom_label_0>
     <custom_label_1>JARDIM YAMADA</custom_label_1>
     <url>https://www.twimobiliaria.com.br/imovel/41448</url>
   </listing>
@@ -21898,48 +21948,6 @@
     <url>https://www.twimobiliaria.com.br/imovel/41109</url>
   </listing>
   <listing>
-    <home_listing_id>41108-V</home_listing_id>
-    <name>3 suítes completas com planejados (uma com closet e banho duplo) Sala espaçosa com pé direito duplo…</name>
-    <title>3 suítes completas com planejados (uma com closet e banho duplo) Sala espaçosa com pé direito duplo…</title>
-    <availability>for_sale</availability>
-    <description>Casa de Alto Padrão no Portal das Tipuanas Araraquara</description>
-    <address format="simple">
-      <component name="addr1">Avenida das Bachianas N:83 Lote: 18 - Quadra: 07</component>
-      <component name="city">Araraquara</component>
-      <component name="region">Condomínio Portal das Tipuanas</component>
-      <component name="country">Brazil</component>
-      <component name="postal_code">14802819</component>
-    </address>
-    <neighborhood>Condomínio Portal das Tipuanas</neighborhood>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41108/e7acc22b2285c4c7ed3131d935c29714.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41108/eb895b23b35018eeb0f6ab078d17b73d.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41108/004619fc09d358d7f8b77ac5f0c4ef42.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41108/8245bf90f6f7c1d802de50583afe36a9.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41108/105c1e3b633699a603888c960389a009.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41108/a060a581001fe11bd7099caf6e7a4da6.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41108/1e148bc91e4184738f89946cedae55a5.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41108/4835f8a17cc1e22c322236ac71b9bc00.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41108/5e12f32f1faa58a047a5b9c218d60f87.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41108/2c1c105f78881533979bf2effbb45575.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41108/cb14d2838e02ba9165e84833a85ebbfa.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41108/82b93b4d4d2f4a16ff490c2e2f0a9580.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41108/d51f6d84d4ef679ab5118ee097c54e27.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41108/30e66cd2bc22050014bdeda419b6c148.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41108/e931e1b1fd8353947f5c81689748f476.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41108/3288e6d52ef55dcd60358e8f9eed4394.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41108/58edfd02a7bbadf3215c53df4bc66b8b.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41108/a9580299d4439b158aa4599325f29a6a.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41108/18fc4f735a4a59c193b25d76d7779e73.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/41108/2682df637ada39a704ca950f9459e160.jpg</url></image>
-    <num_beds>3</num_beds>
-    <num_baths>5</num_baths>
-    <price>2400000.00 BRL</price>
-    <property_type>house</property_type>
-    <custom_label_0>À venda</custom_label_0>
-    <custom_label_1>Condomínio Portal das Tipuanas</custom_label_1>
-    <url>https://www.twimobiliaria.com.br/imovel/41108</url>
-  </listing>
-  <listing>
     <home_listing_id>41107-V</home_listing_id>
     <name>Casa no Jardim Imperador, contendo 3 Quartos, sendo 1 Suíte, Sala, Cozinha, Banheiro Social, Área d…</name>
     <title>Casa no Jardim Imperador, contendo 3 Quartos, sendo 1 Suíte, Sala, Cozinha, Banheiro Social, Área d…</title>
@@ -25976,94 +25984,6 @@
     <custom_label_0>À venda</custom_label_0>
     <custom_label_1>Vila José Bonifácio</custom_label_1>
     <url>https://www.twimobiliaria.com.br/imovel/40906</url>
-  </listing>
-  <listing>
-    <home_listing_id>40904-V</home_listing_id>
-    <name>Excelente Apartamento, frente para o Parque Infantil. Contendo 3 Quartos, sendo 1 Suíte, Sala Ampla…</name>
-    <title>Excelente Apartamento, frente para o Parque Infantil. Contendo 3 Quartos, sendo 1 Suíte, Sala Ampla…</title>
-    <availability>for_sale</availability>
-    <description>Rua Padre Duarte n: 2605, Araraquara - SP</description>
-    <address format="simple">
-      <component name="addr1">Rua Padre Duarte N:2605 Apto. 21</component>
-      <component name="city">Araraquara</component>
-      <component name="region">Centro</component>
-      <component name="country">Brazil</component>
-      <component name="postal_code">14800360</component>
-    </address>
-    <latitude>-21.7834900000000</latitude>
-    <longitude>-48.1804600000000</longitude>
-    <neighborhood>Centro</neighborhood>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/368508e48f8f26750d754e73932cce0b.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/62ccb320ad1b09024785ef11b108ba9e.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/f682632fb10489c5717bb982861bd33e.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/fe049a2c13b440a260b25a47839e657a.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/bd3fcc6a2a3d165f3a5c798d9d91f680.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/ec703acde6046db1efbdc5f5455c724a.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/611682fbde1b8d97e1e5a9ae94af636a.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/3ebc4ec4df1455dc3b76f36c3a84dd2a.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/76f395eaf7ef5a909654440b32772fab.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/550ed6cd24da09b9a58573c6b7448a81.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/527e2849f31ee784357b87ba72739427.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/0e0d74dd80587c7d7a2fc23b42e3af10.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/781c922584254dabab209a94665e5ebb.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/d73c00d11be1c0f43b2e5491a6b7cec0.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/82475e6c06e155b5dedd2976586eb33a.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/4093384d0f2a6b4c9ad57c1d56acc9a0.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/55653a2f2996bb69b11550b9a9afad81.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/e7a1882906365a7b8471db4fd571c9dc.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/1f082e6cd708400d939f41007b6f902c.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/d51446dfccc935876504152d9c752948.jpg</url></image>
-    <num_beds>3</num_beds>
-    <num_baths>4</num_baths>
-    <price>800000.00 BRL</price>
-    <property_type>apartment</property_type>
-    <custom_label_0>À venda</custom_label_0>
-    <custom_label_1>Centro</custom_label_1>
-    <url>https://www.twimobiliaria.com.br/imovel/40904</url>
-  </listing>
-  <listing>
-    <home_listing_id>40904-L</home_listing_id>
-    <name>Excelente Apartamento, frente para o Parque Infantil. Contendo 3 Quartos, sendo 1 Suíte, Sala Ampla…</name>
-    <title>Excelente Apartamento, frente para o Parque Infantil. Contendo 3 Quartos, sendo 1 Suíte, Sala Ampla…</title>
-    <availability>for_rent</availability>
-    <description>Rua Padre Duarte n: 2605, Araraquara - SP</description>
-    <address format="simple">
-      <component name="addr1">Rua Padre Duarte N:2605 Apto. 21</component>
-      <component name="city">Araraquara</component>
-      <component name="region">Centro</component>
-      <component name="country">Brazil</component>
-      <component name="postal_code">14800360</component>
-    </address>
-    <latitude>-21.7834900000000</latitude>
-    <longitude>-48.1804600000000</longitude>
-    <neighborhood>Centro</neighborhood>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/368508e48f8f26750d754e73932cce0b.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/62ccb320ad1b09024785ef11b108ba9e.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/f682632fb10489c5717bb982861bd33e.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/fe049a2c13b440a260b25a47839e657a.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/bd3fcc6a2a3d165f3a5c798d9d91f680.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/ec703acde6046db1efbdc5f5455c724a.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/611682fbde1b8d97e1e5a9ae94af636a.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/3ebc4ec4df1455dc3b76f36c3a84dd2a.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/76f395eaf7ef5a909654440b32772fab.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/550ed6cd24da09b9a58573c6b7448a81.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/527e2849f31ee784357b87ba72739427.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/0e0d74dd80587c7d7a2fc23b42e3af10.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/781c922584254dabab209a94665e5ebb.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/d73c00d11be1c0f43b2e5491a6b7cec0.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/82475e6c06e155b5dedd2976586eb33a.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/4093384d0f2a6b4c9ad57c1d56acc9a0.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/55653a2f2996bb69b11550b9a9afad81.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/e7a1882906365a7b8471db4fd571c9dc.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/1f082e6cd708400d939f41007b6f902c.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/40904/d51446dfccc935876504152d9c752948.jpg</url></image>
-    <num_beds>3</num_beds>
-    <num_baths>4</num_baths>
-    <price>2750.00 BRL</price>
-    <property_type>apartment</property_type>
-    <custom_label_0>Aluguel</custom_label_0>
-    <custom_label_1>Centro</custom_label_1>
-    <url>https://www.twimobiliaria.com.br/imovel/40904</url>
   </listing>
   <listing>
     <home_listing_id>40903-V</home_listing_id>
@@ -47155,50 +47075,6 @@
     <url>https://www.twimobiliaria.com.br/imovel/39452</url>
   </listing>
   <listing>
-    <home_listing_id>39451-L</home_listing_id>
-    <name>Apartamento com 2 quartos e 1 vaga de garagem no Condomínio Villagio Harmonia, Vila Harmonia Aparta…</name>
-    <title>Apartamento com 2 quartos e 1 vaga de garagem no Condomínio Villagio Harmonia, Vila Harmonia Aparta…</title>
-    <availability>for_rent</availability>
-    <description>Imóvel para Locação no Vila Harmonia</description>
-    <address format="simple">
-      <component name="addr1">Rua Caetano Nigro N:1212 Bloco: 01, Apto. 403</component>
-      <component name="city">Araraquara</component>
-      <component name="region">Vila Harmonia</component>
-      <component name="country">Brazil</component>
-      <component name="postal_code">14802450</component>
-    </address>
-    <latitude>-21.7667700000000</latitude>
-    <longitude>-48.1786800000000</longitude>
-    <neighborhood>Vila Harmonia</neighborhood>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/39451/93dc48937128a3af3942aa84da0bd483.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/39451/4cac1b8a2861f7398c0bce711eeb8380.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/39451/e900479dc1377933821c9b8a0a5dedf6.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/39451/6c963071245d312b71364265a2bd5e7a.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/39451/7d335b7087d4c2992406683f5b67eba1.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/39451/2a7fc533292f707ecfdaa5dfdcd4eaa7.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/39451/c4a1d02e1d841cda6f22a748c8357fc3.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/39451/31b0613350d156184e8d3ad0b24a2794.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/39451/5dbc85c59d5fa307df1e163f9fd3ae6a.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/39451/18c4162dfebd0841e0f8cf47c7202654.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/39451/c7c82e6892d98d97c849e4a2ec96a684.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/39451/6bf0462c906f04d904d3b3fe777f191a.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/39451/d7b3b93154445a26afe0a3ddc2cdce21.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/39451/9fbb6423375901d6e285a29d0194a5d2.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/39451/346e46bb8668a7a0c339a18f5f0904f0.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/39451/69484930d2af102a01b7024d03a49f33.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/39451/8eb0025daf47d96c28e375a9cff2a762.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/39451/25b258431ce455b7c7ec238a97701d22.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/39451/02cc7551fb4d1a61ebfe9ea70c3f7713.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/39451/41274424e07fd3ca48259100d879e957.jpg</url></image>
-    <num_beds>2</num_beds>
-    <num_baths>1</num_baths>
-    <price>2090.00 BRL</price>
-    <property_type>apartment</property_type>
-    <custom_label_0>Aluguel</custom_label_0>
-    <custom_label_1>Vila Harmonia</custom_label_1>
-    <url>https://www.twimobiliaria.com.br/imovel/39451</url>
-  </listing>
-  <listing>
     <home_listing_id>39450-V</home_listing_id>
     <name>Linda Casa em Condomínio Fechado com 3 Dormitórios, sendo 1 Suíte, Sala com Pé Direito Duplo, Escri…</name>
     <title>Linda Casa em Condomínio Fechado com 3 Dormitórios, sendo 1 Suíte, Sala com Pé Direito Duplo, Escri…</title>
@@ -54061,41 +53937,6 @@
     <url>https://www.twimobiliaria.com.br/imovel/38905</url>
   </listing>
   <listing>
-    <home_listing_id>38896-V</home_listing_id>
-    <name>Casa com 4 Dormitórios, sendo 1 suíte com Hidro, Sala Ampla, Cozinha com Copa Conjugada Ampla, 3 Ba…</name>
-    <title>Casa com 4 Dormitórios, sendo 1 suíte com Hidro, Sala Ampla, Cozinha com Copa Conjugada Ampla, 3 Ba…</title>
-    <availability>for_sale</availability>
-    <description>RUA BOA ESPERANCA DO SUL n: 792, Araraquara - SP</description>
-    <address format="simple">
-      <component name="addr1">RUA BOA ESPERANCA DO SUL N:792</component>
-      <component name="city">Araraquara</component>
-      <component name="region">QUITANDINHA</component>
-      <component name="country">Brazil</component>
-      <component name="postal_code">14800020</component>
-    </address>
-    <neighborhood>QUITANDINHA</neighborhood>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38896/af773bcb88b1db27ef0a92ef5216d16a.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38896/66be1e7195567964bf1826f8616dfdcf.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38896/d6dd707d0bafc2a774851fc44d76e8ac.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38896/3facd844bd1c5ecdda3d24f8d0ce5d69.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38896/4ab1db10d6ddf8b2c2d5a2ff0c3097ca.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38896/e5f0ea0c295ffb21bd5d4d243678c246.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38896/b86ddd6e8bfbeb637e9552a5bee99d9e.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38896/f58e5da10c90586f5f13720c986444c3.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38896/05bbe99b158719f6537a644420fa2021.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38896/604f4a4d1fbc82c638ae247550d9b3f8.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38896/529644b3c5254263d1a2ffcf38e4cf34.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38896/e87ccd8249abcabe9608b274e7dd9cb4.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38896/2c0c7490b14213b8793e4053e607079e.jpg</url></image>
-    <num_beds>4</num_beds>
-    <num_baths>3</num_baths>
-    <price>599000.00 BRL</price>
-    <property_type>house</property_type>
-    <custom_label_0>À venda</custom_label_0>
-    <custom_label_1>QUITANDINHA</custom_label_1>
-    <url>https://www.twimobiliaria.com.br/imovel/38896</url>
-  </listing>
-  <listing>
     <home_listing_id>38893-V</home_listing_id>
     <name>Casa com 2 Dormitórios, Sala, Cozinha, Banheiro, Área de Serviço e 1 Vaga de Garagem.</name>
     <title>Casa com 2 Dormitórios, Sala, Cozinha, Banheiro, Área de Serviço e 1 Vaga de Garagem.</title>
@@ -60277,22 +60118,29 @@
       <component name="postal_code">14801309</component>
     </address>
     <neighborhood>Centro</neighborhood>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38367/132fea4ed983c25be8f31c93ff6071ab.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38367/1a63213555a6bbf0d8b2d8722b07fa5b.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38367/3829f36ba0175e65fc4b50d44350d56a.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38367/530b19d4216bfbd950395c86ce279213.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38367/f34221d01a201d31af4339867e5c240c.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38367/2601d550035262331031bf40cbbc422a.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38367/36a2af7ed698557c369acea9a25e66aa.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38367/bea20de6eb624bcdd513ff544b2e0925.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38367/0e2f7f5142f99ccec348b43319974fb0.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38367/492a97f25378241f56570b916fc3b5b3.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38367/b9681df35b7c04b899971f926afe495c.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38367/b9536e4dfbced10ad0e916740d438833.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38367/07cd46a575ad634e833b8f201d562508.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38367/e53d5a0eb00acff102020b098ddb1e97.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38367/f653135ed8140cbdebbcd3feb0d3ef95.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38367/f2fcb7607e58c058cf80e196ec92d467.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38367/7d24576b49f58d9b79783bcaac0ad6c5.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38367/fe03c8481a53bbe3c2a44687623f0d7a.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38367/bdc645870b62690070fa084e5155d13f.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38367/03b75e809b0539ec66dad76bbbcfac9e.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38367/20c2ef42b4b355d3c2a50754587208c7.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38367/dc8635d7233fa252c7e923750a80ca9e.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38367/0344de3f8faa92510261688f07f00ad2.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38367/9e934934502059f64cc476ffdb397709.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38367/806a355ddac2a261baee5208e5af0e12.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38367/35ad297adc7bd4e0869d408ae2a66085.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38367/6361f2c3eed679ae91b6974dc5bbb0ee.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38367/d4861db879f6ab72dc075f20ca1bbaa0.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38367/e2e7256b9adb6a17d8fa1195d9d3a5b8.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38367/40e650c154e6e1823d7d7f15af24be64.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38367/b7982b991c0dfe2a37849d55277639ec.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38367/7f5526e3e9f3f28489509cb2fda9df93.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38367/0eb70f4f8a4f04a7bf7fb551e6467a0e.jpg</url></image>
     <num_beds>2</num_beds>
     <num_baths>2</num_baths>
-    <price>440000.00 BRL</price>
+    <price>480000.00 BRL</price>
     <property_type>apartment</property_type>
     <custom_label_0>À venda</custom_label_0>
     <custom_label_1>Centro</custom_label_1>
@@ -61508,48 +61356,6 @@
     <custom_label_0>À venda</custom_label_0>
     <custom_label_1>JARDIM UNIVERSAL</custom_label_1>
     <url>https://www.twimobiliaria.com.br/imovel/38241</url>
-  </listing>
-  <listing>
-    <home_listing_id>38238-L</home_listing_id>
-    <name>Apartamento com 2 quartos, 1 vaga de garagem, Condomínio Acácia Residence - Vila Melhado Apartament…</name>
-    <title>Apartamento com 2 quartos, 1 vaga de garagem, Condomínio Acácia Residence - Vila Melhado Apartament…</title>
-    <availability>for_rent</availability>
-    <description>Imóvel para Locação no Vila Melhado</description>
-    <address format="simple">
-      <component name="addr1">Avenida Nossa Senhora das Graças N:563 Apto. 1202</component>
-      <component name="city">Araraquara</component>
-      <component name="region">Vila Melhado</component>
-      <component name="country">Brazil</component>
-      <component name="postal_code">14807030</component>
-    </address>
-    <neighborhood>Vila Melhado</neighborhood>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38238/1c892f037e490b23c85e51ff6429442b.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38238/1f882069c04727c3dcfff290308c998d.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38238/f85b0e16c6b7527dfffc1f3897f2616a.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38238/df29dd7d82b3f6d67c3c3ea98fde4df6.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38238/05354b32c74512855f2058b66b17d337.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38238/dca94694a40bf4d4c6c06ebd260f24d0.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38238/18d202bd195d581017e562d18122f616.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38238/10fd93beef116d5e829a7311ce0d63c3.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38238/efc99dcbebb9ad4407b87a2bb99056c9.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38238/3ff7249700f466f3add201d00ad190fc.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38238/82f22d8df781834d3d528b60fb9232ce.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38238/d8f7b30e615286e1f20f8703bb70b8aa.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38238/b23a1cceba2718d2315d3b930ed60e86.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38238/24a4542c075349df299ed77df673aa3c.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38238/ac4fe8176e06bf2df56cba477c344b95.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38238/c6f03c0147d15d17b38a54109b76cd9c.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38238/276c7bec03fb608ec7db6c9f6a3e82c7.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38238/cb99f73df2034481d271f03ea41203e9.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38238/93bdd139a0705a0c13b6f052ead2197d.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/38238/90422c6e52846463e7fb5a7d15eac186.jpg</url></image>
-    <num_beds>2</num_beds>
-    <num_baths>1</num_baths>
-    <price>1430.00 BRL</price>
-    <property_type>apartment</property_type>
-    <custom_label_0>Aluguel</custom_label_0>
-    <custom_label_1>Vila Melhado</custom_label_1>
-    <url>https://www.twimobiliaria.com.br/imovel/38238</url>
   </listing>
   <listing>
     <home_listing_id>38234-V</home_listing_id>
@@ -69164,45 +68970,6 @@
     <custom_label_0>À venda</custom_label_0>
     <custom_label_1>RESIDENCIAL VOLPI</custom_label_1>
     <url>https://www.twimobiliaria.com.br/imovel/37455</url>
-  </listing>
-  <listing>
-    <home_listing_id>37454-V</home_listing_id>
-    <name>Casa com 3 Dormitórios, sendo 1 Suíte, 2 Salas, Copa, Cozinha, Banheiro, Área de Serviço, Edícula,…</name>
-    <title>Casa com 3 Dormitórios, sendo 1 Suíte, 2 Salas, Copa, Cozinha, Banheiro, Área de Serviço, Edícula,…</title>
-    <availability>for_sale</availability>
-    <description>Rua Bento de Barros n: 597, Araraquara - SP</description>
-    <address format="simple">
-      <component name="addr1">Rua Bento de Barros N:597</component>
-      <component name="city">Araraquara</component>
-      <component name="region">Vila Xavier (Vila Xavier)</component>
-      <component name="country">Brazil</component>
-      <component name="postal_code">14810083</component>
-    </address>
-    <latitude>-21.7907441000000</latitude>
-    <longitude>-48.1681112000000</longitude>
-    <neighborhood>Vila Xavier (Vila Xavier)</neighborhood>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/37454/8f712cb9021b0f62f12f08f97d0291fe.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/37454/1bfeb27284579ec95b6aa231e43e6e56.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/37454/2258053cd3a255075c583a3fcaed24ac.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/37454/5db8d7adbca12d165deba6c2ccf01a7b.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/37454/6d4a235f2a215a0cd876dc824d1eeca2.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/37454/cca6477cd1800b81a237f6591e83e8fd.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/37454/32208f65afbcaad057a1ce057abf6358.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/37454/99e8f75c5e1ef090896e0b1a75979a8e.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/37454/1ae4ed867a8bdc3e0960aa660fe15eda.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/37454/db421fc77a15c0858d233ec2c52174cf.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/37454/5d946a5c9290e656abb158330a3efe4d.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/37454/ad2f09c3b319dff16e22aeecb15954c4.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/37454/7695f4ef42e745738a14def9d2775bc4.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/37454/075d55c8c52cd00d17fbdf17cc15c0e0.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/37454/79b57b5c4d86d27335df540023380ea7.jpg</url></image>
-    <num_beds>3</num_beds>
-    <num_baths>3</num_baths>
-    <price>320000.00 BRL</price>
-    <property_type>house</property_type>
-    <custom_label_0>À venda</custom_label_0>
-    <custom_label_1>Vila Xavier (Vila Xavier)</custom_label_1>
-    <url>https://www.twimobiliaria.com.br/imovel/37454</url>
   </listing>
   <listing>
     <home_listing_id>37453-V</home_listing_id>
@@ -100492,48 +100259,6 @@
     <url>https://www.twimobiliaria.com.br/imovel/31059</url>
   </listing>
   <listing>
-    <home_listing_id>30975-L</home_listing_id>
-    <name>Casa com 2 suítes e vaga de garagem na Vila Sedenho - Araraquara Casa de 160 m² de área construída…</name>
-    <title>Casa com 2 suítes e vaga de garagem na Vila Sedenho - Araraquara Casa de 160 m² de área construída…</title>
-    <availability>for_rent</availability>
-    <description>Imóvel para Locação no Vila Sedenho</description>
-    <address format="simple">
-      <component name="addr1">Rua Mauricio Galli N:314</component>
-      <component name="city">Araraquara</component>
-      <component name="region">Vila Sedenho</component>
-      <component name="country">Brazil</component>
-      <component name="postal_code">14806155</component>
-    </address>
-    <neighborhood>Vila Sedenho</neighborhood>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/30975/45ab7559dda95adc1bab1a232cadd148.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/30975/1abc5364aa0337662b2626f2057a4e58.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/30975/894942e0bb31f1a0bebc13f48ec8d865.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/30975/0c73926765dbf94015ff9ffb09a96a9b.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/30975/4fde87cddeee76a49ccf3e618f2d64a0.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/30975/0fdd4b97c0dfa20396a5321af2e75367.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/30975/769b1085b5031b91b33a1ceff216329f.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/30975/d5ce0b75222d3fd8adfecbb7ba48b356.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/30975/0e1b44a9d7533a6f0ba0a208ecdaf9bf.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/30975/f2fe81bfa448c63d1ed8c15432cd0b40.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/30975/f2f72bc31d072d7e9925e968413a16cc.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/30975/53ba17ab42b8356cd80819a0177bde88.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/30975/7fd0d817fb04452d66464953ea5f9ef8.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/30975/4b57a3ada90faa6e8278bcf34731c0ce.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/30975/63063343968d6adefc04b2170d270bf2.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/30975/b61201a08d213c080769f696a2a0c4c9.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/30975/6d2f32ddff118bd6749afe9c30b3a971.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/30975/84b901db856d34673a203adcf42ef4d5.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/30975/4de63eea8d96f7dbd3018cd38beb209b.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/30975/0473d73693c6e1f09054cfb711d7ec16.jpg</url></image>
-    <num_beds>2</num_beds>
-    <num_baths>4</num_baths>
-    <price>1980.00 BRL</price>
-    <property_type>house</property_type>
-    <custom_label_0>Aluguel</custom_label_0>
-    <custom_label_1>Vila Sedenho</custom_label_1>
-    <url>https://www.twimobiliaria.com.br/imovel/30975</url>
-  </listing>
-  <listing>
     <home_listing_id>30968-L</home_listing_id>
     <name>03 Dormitórios- Banheiro Social- Sala Ampla - Copa- Cozinha com Armário Embutido - Lavandeira Cober…</name>
     <title>03 Dormitórios- Banheiro Social- Sala Ampla - Copa- Cozinha com Armário Embutido - Lavandeira Cober…</title>
@@ -102016,6 +101741,48 @@
     <url>https://www.twimobiliaria.com.br/imovel/29716</url>
   </listing>
   <listing>
+    <home_listing_id>29606-V</home_listing_id>
+    <name>04 Dormitórios sendo 02 Suítes, 01 Sala, 01 Cozinha, 01 Banheiro, 01 Lavanderia, Área Coberta e Gar…</name>
+    <title>04 Dormitórios sendo 02 Suítes, 01 Sala, 01 Cozinha, 01 Banheiro, 01 Lavanderia, Área Coberta e Gar…</title>
+    <availability>for_sale</availability>
+    <description>Av. Monteiro Lobato n: 2089, Araraquara - SP</description>
+    <address format="simple">
+      <component name="addr1">Av. Monteiro Lobato N:2089</component>
+      <component name="city">Araraquara</component>
+      <component name="region">Santana</component>
+      <component name="country">Brazil</component>
+      <component name="postal_code">14801220</component>
+    </address>
+    <neighborhood>Santana</neighborhood>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29606/8c7204abf599794104e4ddf1502c987a.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29606/4c4d6c45eade3491362546522499c2f6.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29606/fc3f5df537ddb627e3564b189681e233.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29606/daa20349acc3c971160602a6c98158de.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29606/05664d8e7c9c08cdc3fd2c238dea66f1.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29606/6f87d3ee22c1fdb7082a3465c4f6b84c.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29606/9069cb9d5fddef2142ece281f174ab19.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29606/20effdbc1789f86a21f6610cdd28d264.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29606/262df7222e49124e9be26d03b885939f.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29606/2847128f5c36e917fc3a8424a7ba54ee.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29606/0d160441a8fa0d18c2c7b457e2ec618f.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29606/cb96bee03f0eb596544f91f8c868042d.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29606/f8a435ffb98d7035ff467d16dad79dec.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29606/1ad1391a7d605acd220ef9d769e6a8cd.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29606/aaf367ff822d5d356106806cda82d384.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29606/24493fb9fde828363a75034d4032c81e.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29606/275719de9f030f15b9e7d97027428761.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29606/374feab15b55c5098082d807f8b6540b.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29606/3e31ff9c13c47464b596cc0869d4bd5b.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29606/de4706d10e06cc8d97faba6d3535db76.jpg</url></image>
+    <num_beds>4</num_beds>
+    <num_baths>3</num_baths>
+    <price>300000.00 BRL</price>
+    <property_type>house</property_type>
+    <custom_label_0>À venda</custom_label_0>
+    <custom_label_1>Santana</custom_label_1>
+    <url>https://www.twimobiliaria.com.br/imovel/29606</url>
+  </listing>
+  <listing>
     <home_listing_id>29600-L</home_listing_id>
     <name>Casa com 2 quartos e vagas de garagem - Vila Xavier Casa conservada com 145,19 m² de área construíd…</name>
     <title>Casa com 2 quartos e vagas de garagem - Vila Xavier Casa conservada com 145,19 m² de área construíd…</title>
@@ -102568,6 +102335,50 @@
     <url>https://www.twimobiliaria.com.br/imovel/29326</url>
   </listing>
   <listing>
+    <home_listing_id>29325-L</home_listing_id>
+    <name>Casa com 3 quartos e 2 vagas de garagem na Vila Xavier em Araraquara Casa conservada na Vila Xavier…</name>
+    <title>Casa com 3 quartos e 2 vagas de garagem na Vila Xavier em Araraquara Casa conservada na Vila Xavier…</title>
+    <availability>for_rent</availability>
+    <description>Imóvel para Locação no Vila Xavier</description>
+    <address format="simple">
+      <component name="addr1">Rua Ruy Barbosa N:1594</component>
+      <component name="city">Araraquara</component>
+      <component name="region">Vila Xavier</component>
+      <component name="country">Brazil</component>
+      <component name="postal_code">14810095</component>
+    </address>
+    <latitude>-21.7829957000000</latitude>
+    <longitude>-48.1668137000000</longitude>
+    <neighborhood>Vila Xavier</neighborhood>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29325/bae25af2637233c1526a3ce28e1e4171.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29325/aebbd04240cf6b680fdc04e5107838f2.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29325/d5ef4a54722c77ba9e9acd4ddcb23a3b.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29325/0e98410a06dca717ec2d4a809af98251.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29325/4c634d18d005f9b4e3e9294e6ce6a7af.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29325/95c2e760232db8badd507c7c8d6f04f1.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29325/1002b0680a14247b2cb071e03c2f2667.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29325/4db7c8e1d1bb3703730dc4492a4173a9.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29325/2ba23c1139777a285d17e3228a2a8e66.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29325/7f146b35613402b50f9b1bc4a033edd0.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29325/33d5aa08a65b594041684fffb51e46b5.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29325/acd8f530cde282c7e910e00afd56806b.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29325/086b67ca8b8123fa4a2e611e2a2b1d19.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29325/6e9b44a2fc6402af1384341f4f1beda6.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29325/531e4d328e406eeeb2927cd1a49505e3.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29325/ad566fbc0badaa7532f9aad9ca255392.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29325/997238132110142b42cc267376fb0b52.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29325/aa8296e8e9097a3dd3f4b36961b53989.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29325/088583204b23d30c2794f461de3059fc.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29325/029fdd7267855407523486efda60ebc2.jpg</url></image>
+    <num_beds>03</num_beds>
+    <num_baths>2</num_baths>
+    <price>2530.00 BRL</price>
+    <property_type>house</property_type>
+    <custom_label_0>Aluguel</custom_label_0>
+    <custom_label_1>Vila Xavier</custom_label_1>
+    <url>https://www.twimobiliaria.com.br/imovel/29325</url>
+  </listing>
+  <listing>
     <home_listing_id>29309-L</home_listing_id>
     <name>Kitnet com 1 quarto no Centro, Araraquara Kitnet conservada com 40 m² de área construída, situada n…</name>
     <title>Kitnet com 1 quarto no Centro, Araraquara Kitnet conservada com 40 m² de área construída, situada n…</title>
@@ -102641,6 +102452,35 @@
     <custom_label_0>À venda</custom_label_0>
     <custom_label_1>JARDIM DAS ESTACOES</custom_label_1>
     <url>https://www.twimobiliaria.com.br/imovel/29293</url>
+  </listing>
+  <listing>
+    <home_listing_id>29272-L</home_listing_id>
+    <name>Sala Comercial com 15 m² na Vila Cidade Industrial Imóvel localizado na Vila Cidade Industrial, com…</name>
+    <title>Sala Comercial com 15 m² na Vila Cidade Industrial Imóvel localizado na Vila Cidade Industrial, com…</title>
+    <availability>for_rent</availability>
+    <description>Imóvel para Locação no Vila Cidade Industrial</description>
+    <address format="simple">
+      <component name="addr1">Avenida Octaviano De Arruda Campos N:346 Sala 06</component>
+      <component name="city">Araraquara</component>
+      <component name="region">Vila Cidade Industrial</component>
+      <component name="country">Brazil</component>
+      <component name="postal_code">14810225</component>
+    </address>
+    <latitude>-21.7771378000000</latitude>
+    <longitude>-48.1597906000000</longitude>
+    <neighborhood>Vila Cidade Industrial</neighborhood>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29272/74424a61bd27cef481c355657f832653.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29272/e7ba648aca493aba8de6959ab858fd8b.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29272/4a0964c0d11be2613128e7592f8c1990.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29272/cdfc0f421756d2a4d0da65d898bdf476.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29272/5f3f856bfe8df2f0675238b41d20c586.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/29272/cc5d5e1db67e479036622b7db387e97c.jpg</url></image>
+    <num_baths>1</num_baths>
+    <price>770.00 BRL</price>
+    <property_type>other</property_type>
+    <custom_label_0>Aluguel</custom_label_0>
+    <custom_label_1>Vila Cidade Industrial</custom_label_1>
+    <url>https://www.twimobiliaria.com.br/imovel/29272</url>
   </listing>
   <listing>
     <home_listing_id>29195-L</home_listing_id>
@@ -104344,6 +104184,39 @@
     <custom_label_0>Aluguel</custom_label_0>
     <custom_label_1>Centro</custom_label_1>
     <url>https://www.twimobiliaria.com.br/imovel/27832</url>
+  </listing>
+  <listing>
+    <home_listing_id>27821-L</home_listing_id>
+    <name>Apartamento com 1 quarto e 1 vaga de garagem no Residencial Maria II, Centro Apartamento de 35 m² n…</name>
+    <title>Apartamento com 1 quarto e 1 vaga de garagem no Residencial Maria II, Centro Apartamento de 35 m² n…</title>
+    <availability>for_rent</availability>
+    <description>Imóvel para Locação no Centro</description>
+    <address format="simple">
+      <component name="addr1">Rua Pedro Álvares Cabral N:2296 Kit. 11</component>
+      <component name="city">Araraquara</component>
+      <component name="region">Centro</component>
+      <component name="country">Brazil</component>
+      <component name="postal_code">14800206</component>
+    </address>
+    <latitude>-21.7886661000000</latitude>
+    <longitude>-48.1845081000000</longitude>
+    <neighborhood>Centro</neighborhood>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/27821/5598d43153ce0b2763e271cda83c28c.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/27821/366b769d198cd6cd7835221d595a78fd.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/27821/be20174a27cf8b4fb7435e6c8e5c028c.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/27821/b9211ee3c3fcaabce84ec67f3d6510bb.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/27821/4f14daffe19f5a449827debc1690b38b.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/27821/f4b588fa02bfa251d6a65bf22495773.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/27821/e3f51098e983e476c60978ea452f166d.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/27821/8d5d5b3bca8638dc1094b5d21f786af0.jpg</url></image>
+    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/27821/877422276552677101a5321ad30e12fa.jpg</url></image>
+    <num_beds>1</num_beds>
+    <num_baths>1</num_baths>
+    <price>1089.00 BRL</price>
+    <property_type>apartment</property_type>
+    <custom_label_0>Aluguel</custom_label_0>
+    <custom_label_1>Centro</custom_label_1>
+    <url>https://www.twimobiliaria.com.br/imovel/27821</url>
   </listing>
   <listing>
     <home_listing_id>27798-L</home_listing_id>
@@ -106600,48 +106473,6 @@
     <custom_label_0>Aluguel</custom_label_0>
     <custom_label_1>JARDIM TABAPUA</custom_label_1>
     <url>https://www.twimobiliaria.com.br/imovel/24064</url>
-  </listing>
-  <listing>
-    <home_listing_id>24058-L</home_listing_id>
-    <name>Casa com 2 quartos e 2 vagas de garagem no Jardim Floridiana, Rio Claro Casa com 77 m² de área cons…</name>
-    <title>Casa com 2 quartos e 2 vagas de garagem no Jardim Floridiana, Rio Claro Casa com 77 m² de área cons…</title>
-    <availability>for_rent</availability>
-    <description>Imóvel para Locação no JARDIM FLORIDIANA</description>
-    <address format="simple">
-      <component name="addr1">Avenida Everaldo Isidoro Da Silva N:625</component>
-      <component name="city">Araraquara</component>
-      <component name="region">JARDIM FLORIDIANA</component>
-      <component name="country">Brazil</component>
-      <component name="postal_code">14810196</component>
-    </address>
-    <neighborhood>JARDIM FLORIDIANA</neighborhood>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/24058/5c1cab8b77a889ea67fb81ec7d1ca2d0.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/24058/4b91d19c16b8bfd1e154b6ff7552a511.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/24058/86b977d9fc2bf86ec27d9df58726ec9b.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/24058/745130d5f7b4711d1e7ea7398a82fdea.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/24058/436916e240c838d119a781433fb19488.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/24058/cf634f85e8fdfc599433b422536fa3d4.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/24058/b33c1801a33c5603759450e784533634.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/24058/86bffc71cbbc370d63100f7673493435.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/24058/9920ab377aa84ec3c8287752e107f7a8.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/24058/273e5d6be98df12b720fe93bc3d5d327.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/24058/77f7bb9bf129c5f3d0462711eec9d720.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/24058/f4d3476a256633d3cea9a92146708055.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/24058/167def07dcf00843478adf9e7f3e6dcc.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/24058/ff22e2d2e3c5b131a5f2001403d144f8.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/24058/ee0def61349a9f850e4374324ed4f9c8.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/24058/c982f49ecc71ffad3cc37d24fe097be7.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/24058/a95317dc822f2fcdfc5611589073d039.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/24058/440f055df0cd3cbcff6269658c3870cd.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/24058/5347324cf5c4e548b7cfff29ddf23751.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/24058/df3e9954e819fed10c68c908a9df439c.jpg</url></image>
-    <num_beds>2</num_beds>
-    <num_baths>1</num_baths>
-    <price>1540.00 BRL</price>
-    <property_type>house</property_type>
-    <custom_label_0>Aluguel</custom_label_0>
-    <custom_label_1>JARDIM FLORIDIANA</custom_label_1>
-    <url>https://www.twimobiliaria.com.br/imovel/24058</url>
   </listing>
   <listing>
     <home_listing_id>24027-L</home_listing_id>
@@ -109400,46 +109231,6 @@
     <custom_label_0>À venda</custom_label_0>
     <custom_label_1>Centro</custom_label_1>
     <url>https://www.twimobiliaria.com.br/imovel/20136</url>
-  </listing>
-  <listing>
-    <home_listing_id>20130-V</home_listing_id>
-    <name>sobrado – 03 dormitórios, 02 salas, sala de jantar, 02 cozinha, sendo 01 com armário embutido, banh…</name>
-    <title>sobrado – 03 dormitórios, 02 salas, sala de jantar, 02 cozinha, sendo 01 com armário embutido, banh…</title>
-    <availability>for_sale</availability>
-    <description>Avenida Duque de Caxias n: 207, Araraquara - SP</description>
-    <address format="simple">
-      <component name="addr1">Avenida Duque de Caxias N:207</component>
-      <component name="city">Araraquara</component>
-      <component name="region">Centro</component>
-      <component name="country">Brazil</component>
-      <component name="postal_code">14801120</component>
-    </address>
-    <neighborhood>Centro</neighborhood>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/20130/b70cc6fcaa0edd5354ae875a202f59d8.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/20130/c1fadfa14f6e8f4b3e7d7ccc4cd82ae7.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/20130/ed8ed497afc3aa2eb2877b045e54052e.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/20130/6febd4dd3e2a00c8667ecf66657272a5.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/20130/f558635fd53cb998d23b5e1ccb0c8dc6.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/20130/64f66a537122b3e2158b17a87534a60b.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/20130/3f668b4a14a0302e4bcade1984aa23bf.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/20130/829076e9b795f11300d4eddde13349b7.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/20130/44f66712734da5471c69a57873fa8167.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/20130/30d459ff94e6f06328db1fbe7e8ff25e.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/20130/e94e5d006a8e208bbf51d2b2a460b39b.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/20130/aefcfb7022de2c09768768074e2d8566.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/20130/80a2cb29516c2b1fd26d2589ae926073.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/20130/61a96dfcc6e57b37a30eb827c93a7e21.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/20130/eb6e14cfce69d6a35cb6639b0f36a4c7.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/20130/a31b7d8e74aab952e99db359fb9d9852.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/20130/66626a0ced9cfb536af88eb29c14828c.jpg</url></image>
-    <image><url>https://s3.amazonaws.com/msys-imob-tedde/imovel/fotos/20130/9921c336e7b13e39a7115843cb8fe774.jpg</url></image>
-    <num_beds>03</num_beds>
-    <num_baths>2</num_baths>
-    <price>180000.00 BRL</price>
-    <property_type>house</property_type>
-    <custom_label_0>À venda</custom_label_0>
-    <custom_label_1>Centro</custom_label_1>
-    <url>https://www.twimobiliaria.com.br/imovel/20130</url>
   </listing>
   <listing>
     <home_listing_id>20128-L</home_listing_id>
