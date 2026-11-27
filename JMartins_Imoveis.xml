@@ -648,6 +648,41 @@
     <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1154</url>
   </listing>
   <listing>
+    <home_listing_id>1391L-MEU</home_listing_id>
+    <name>Apartamento com 2 Quartos para Locação no Residencial Green View | São Carlos - SP</name>
+    <title>Apartamento com 2 Quartos para Locação no Residencial Green View | São Carlos - SP</title>
+    <availability>for_rent</availability>
+    <description>Excelente apartamento com 2 dormitórios disponível para locação no Residencial Green View, em São Carlos/SP. Uma opção moderna, funcional e segura, ideal para quem busca conforto e praticidade no dia a dia. Características do imóvel: 2 dormitórios bem iluminados e arejados Sala aconchegante com sacada Cozinha prática integrada à área de serviço Banheiro social 1 vaga de garagem Diferenciais do condomínio e localização: Condomínio com excelente estrutura, portaria e segurança Localização estratégica em São Carlos, com fácil acesso a supermercados, comércios, serviços, universidades e principais vias da cidade Entre em contato com a equipe da J. Martins Imóveis para consultar valores, condições de locação e agendar sua visita. IPTU + COND. por conta do proprietário.</description>
+    <address format="simple">
+      <component name="addr1">Passeio das Palmeiras 520</component>
+      <component name="city">São Carlos</component>
+      <component name="region">SP</component>
+    <component name="country">Brazil</component>
+      <component name="postal_code">13561353</component>
+    </address>
+    <neighborhood>Parque Faber Castell I</neighborhood>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMEVGNEI4NDgwOUY0NENBNzlBMEZGODg4OTg4ODlCOEUtZm90b3MvOWMxNWRjMDUtYzk0OGJhM2Q1M2ZhMWI2OTFhOWZiOWI4NDVmZDEyZTQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMEVGNEI4NDgwOUY0NENBNzlBMEZGODg4OTg4ODlCOEUtZm90b3MvZTk3ODE3Y2UtN2FhYzgzMjZlODRjOWFhNWYyZGJkMTA5NjA4NTM0NTMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMEVGNEI4NDgwOUY0NENBNzlBMEZGODg4OTg4ODlCOEUtZm90b3MvMmI5MTA3ZWEtNTQyNDhhZDY5MzJjMTk2ZjNhNDRjZGRjM2FhMmFhMzQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMEVGNEI4NDgwOUY0NENBNzlBMEZGODg4OTg4ODlCOEUtZm90b3MvMDAyZWUzYjItNTE1MDllODNkNmE5MzNmMWM5Zjg3YzJmNjlhZTY5MTUucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMEVGNEI4NDgwOUY0NENBNzlBMEZGODg4OTg4ODlCOEUtZm90b3MvZjljMzE1NTEtMGU5ZWIwMTQ4ZTQ0ZmI4Yzk3NmY3YmU5NGQzZTc1ZTgucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMEVGNEI4NDgwOUY0NENBNzlBMEZGODg4OTg4ODlCOEUtZm90b3MvZGM3ZjMzZmMtZWI0ZmE2M2FlOTEzNjg1ZmZmOWY4Mzk4YWYyY2EzMzIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMEVGNEI4NDgwOUY0NENBNzlBMEZGODg4OTg4ODlCOEUtZm90b3MvYzU1Zjc3NDAtNzIxOTAyNzI2OTAxODRmNWNlMzE0MGY2ZTcxNjFhMzkucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMEVGNEI4NDgwOUY0NENBNzlBMEZGODg4OTg4ODlCOEUtZm90b3MvNjI3NDkwNzgtYWYzZGJiNjQ0Zjc2MWM5NDZhYjgzMTA1Njk3YTE4MmEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMEVGNEI4NDgwOUY0NENBNzlBMEZGODg4OTg4ODlCOEUtZm90b3MvM2IwNTQ2NjUtMTYyZjIwNWRiMzdjYjVhZWE5NGRjMTk0YTE0YTAxNTcucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMEVGNEI4NDgwOUY0NENBNzlBMEZGODg4OTg4ODlCOEUtZm90b3MvYTIzY2JhODYtMGI3NzBjOGVlYzg3N2NiZDgzYzk2MjU5ODk3ZWE4NTkucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <image><url>https://d3qmc6mg790as5.cloudfront.net/eyJidWNrZXQiOiJtaHN0b3JhZ2UiLCJrZXkiOiJJQUMtSU1PQi0wMjFCNkVERC9EVkktSU0tMEVGNEI4NDgwOUY0NENBNzlBMEZGODg4OTg4ODlCOEUtZm90b3MvMGQ2NjRmNDUtYmNkYTVlYThkMDI4ZDU0MDg5MDAyODY1OWViMDgyYzAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODAsImZpdCI6Imluc2lkZSJ9LCJ0b0Zvcm1hdCI6ImpwZWciLCJqcGVnIjp7InF1YWxpdHkiOjgwLCJwcm9ncmVzc2l2ZSI6dHJ1ZX19fQ==</url></image>
+    <listing_type>for_rent_by_agent</listing_type>
+    <num_beds>2</num_beds>
+    <num_baths>2</num_baths>
+    <price>2400 BRL</price>
+    <property_type>apartment</property_type>
+    <custom_label_0>60m²</custom_label_0>
+    <custom_label_1>Parque Faber Castell I</custom_label_1>
+    <custom_label_2>Passeio das Palmeiras 520</custom_label_2>
+    <url>https://www.jmartinssaocarlos.com.br/imovel/codigo/1391</url>
+  </listing>
+  <listing>
     <home_listing_id>652L-MEU</home_listing_id>
     <name>Apartamento 3 quartos para Locação Centro, São Carlos</name>
     <title>Apartamento 3 quartos para Locação Centro, São Carlos</title>
@@ -3893,7 +3928,7 @@
     <name>Casa de Condomínio para Venda Jardim Jockey Clube, São Carlos</name>
     <title>Casa de Condomínio para Venda Jardim Jockey Clube, São Carlos</title>
     <availability>for_sale</availability>
-    <description>Casa de condomínio para venda no Jardim Jockey Clube, São Carlos/SP. Área construída de 182m² em terreno de 300m². A propriedade conta com churrasqueira e piscina particular. O condomínio fechado oferece completa infraestrutura de lazer e segurança, incluindo academia, espaço gourmet, quadra de tênis, quadra poliesportiva, salão de festas e segurança 24 horas. Localizado em um dos bairros mais valorizados de São Carlos, próximo às principais vias de acesso da cidade, proporcionando excelente mobilidade urbana. O Jardim Jockey Clube é reconhecido pela tranquilidade e qualidade de vida que oferece aos moradores. Valor: R$ 1.550.000,00.</description>
+    <description>Casa de condomínio para venda no Jardim Jockey Clube, São Carlos/SP. Área construída de 182m² em terreno de 300m². A propriedade conta com churrasqueira e piscina particular. O condomínio fechado oferece completa infraestrutura de lazer e segurança, incluindo academia, espaço gourmet, quadra de tênis, quadra poliesportiva, salão de festas e segurança 24 horas. Localizado em um dos bairros mais valorizados de São Carlos, próximo às principais vias de acesso da cidade, proporcionando excelente mobilidade urbana. O Jardim Jockey Clube é reconhecido pela tranquilidade e qualidade de vida que oferece aos moradores. Valor: R$ 1.720.000,00.</description>
     <address format="simple">
       <component name="addr1">Rua Ray Wesley Herrick 342</component>
       <component name="city">São Carlos</component>
@@ -3922,7 +3957,7 @@
     <listing_type>for_sale_by_agent</listing_type>
     <num_beds>3</num_beds>
     <num_baths>4</num_baths>
-    <price>1640000 BRL</price>
+    <price>1720000 BRL</price>
     <property_type>condo</property_type>
     <custom_label_0>182m²</custom_label_0>
     <custom_label_1>Jardim Jockey Clube</custom_label_1>
